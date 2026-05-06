@@ -7,7 +7,7 @@ Interactive prototype of a federated Australian Machinery of Government Atlas â€
 > **Status: Prototype â€” v4.1**
 > Active development. Architecture and ontology are subject to ongoing review. Data is partially provisional. See [DATA.md](DATA.md) for coverage details.
 
-> **Note - you will need to download the html**
+> **Note - you will need to download the html locally**
 
 ---
 
