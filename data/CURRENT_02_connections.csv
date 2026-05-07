@@ -1,0 +1,1735 @@
+﻿id,from,to,type,label,amount_aud,financial_year,legislation_reference,data_quality,notes
+p01,AU-CW-DEPT-TREASURY,AU-CW-CCE-ATO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p05,AU-CW-DEPT-TREASURY,AU-CW-CCE-RBA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p06,AU-CW-DEPT-TREASURY,AU-CW-CCE-ACCC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p07,AU-CW-DEPT-TREASURY,AU-CW-CCE-ASIC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p08,AU-CW-DEPT-TREASURY,AU-CW-CCE-APRA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p69,AU-CW-DEPT-TREASURY,AU-CW-IGF-CFFR,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p09,AU-CW-DEPT-HEALTH,AU-CW-CCE-NDIA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p09b,AU-CW-DEPT-HEALTH,AU-CW-CCE-TGA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p09c,AU-CW-DEPT-HEALTH,AU-CW-CCE-ACDC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p10,AU-CW-DEPT-SOCSVC,AU-CW-CCE-SERVICESAUST,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p15,AU-CW-DEPT-SOCSVC,AU-CW-CCE-HOUSINGAUST,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p11,AU-CW-DEPT-ENVWATER,AU-CW-CCE-AER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p13,AU-CW-DEPT-ENVWATER,AU-CW-CCE-CEFC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p16,AU-CW-DEPT-ENVWATER,AU-CW-CCE-MDBA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p18,AU-CW-DEPT-ENVWATER,AU-CW-CCE-AEMO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p18b,AU-CW-DEPT-ENVWATER,AU-CW-CCE-CER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p18c,AU-CW-DEPT-ENVWATER,AU-CW-CCE-ARENA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p23,AU-CW-DEPT-ENVWATER,AU-CW-GBE-SNOWYHYDRO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p12,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-AFP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p20,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-NEMA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p20b,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-AUSTRAC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p17,AU-CW-DEPT-AGS,AU-CW-CCE-NACC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p17b,AU-CW-DEPT-AGS,AU-CW-CCE-ASIO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p17c,AU-CW-DEPT-AGS,AU-CW-CCE-ALRC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p19,AU-CW-DEPT-EDUCATION,AU-CW-CCE-ACARA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p19b,AU-CW-DEPT-EDUCATION,AU-CW-CCE-TEQSA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p02,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-CSIRO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p03,AU-CW-DEPT-INFRA,AU-CW-CCE-ABC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p04,AU-CW-DEPT-INFRA,AU-CW-CCE-SBS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p04b,AU-CW-DEPT-INFRA,AU-CW-CCE-ACMA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p21,AU-CW-DEPT-INFRA,AU-CW-GBE-AUSPOST,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p22,AU-CW-DEPT-INFRA,AU-CW-GBE-NBNCOLTD,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p24,AU-CW-DEPT-INFRA,AU-CW-GBE-ARTC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p26,AU-CW-DEPT-INFRA,AU-CW-GBE-WSACO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p25,AU-CW-DEPT-DEFENCE,AU-CW-GBE-DEFHOUSINGAUST,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p27,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ASCPTYLTD,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p27b,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ANNPSR,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p14,AU-CW-DEPT-FINANCE,AU-CW-CCE-FFMA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p14b,AU-CW-DEPT-FINANCE,AU-CW-CCE-AEC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p14c,AU-CW-DEPT-FINANCE,AU-CW-GBE-CEATECH,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p28,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-SYDWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p29,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-HUNTERWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p30,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-WATERNSW,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p31,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-ESSENTIALENERGY,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p32,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-PORTAUTH,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p33,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-TAHE,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p34,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-LANDCOM,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p35,AU-NSW-DEPT-TREASURY,AU-NSW-PFC-TCORP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p36,AU-NSW-DEPT-TREASURY,AU-NSW-PFC-ICARE,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p37,AU-VIC-STAT-DOTAF,AU-VIC-SA-MELBWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p38,AU-VIC-STAT-DOTAF,AU-VIC-SA-SEWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p39,AU-VIC-STAT-DOTAF,AU-VIC-SA-VICTRACK,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p40,AU-VIC-STAT-DOTAF,AU-VIC-SA-TCV,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p41,AU-VIC-STAT-DOTAF,AU-VIC-SA-SECVIC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p42,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-CSENERGY,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p43,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-STANWELL,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p44,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-CLEANCO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p45,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-ENERGYQLD,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p46,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-POWERLINK,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p47,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QRAIL,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p48,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QIC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p49,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QTC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p50,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-SEQWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p51,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-SUNWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p52,AU-WA-DEPT-TREASURY,AU-WA-STAT-SW,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p53,AU-WA-DEPT-TREASURY,AU-WA-GTE-WESTERNPOWER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p54,AU-WA-DEPT-TREASURY,AU-WA-GTE-WATERCORP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p55,AU-WA-DEPT-TREASURY,AU-WA-STAT-GCW,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p56,AU-WA-DEPT-TREASURY,AU-WA-GTE-WATC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p57,AU-SA-DEPT-DTF,AU-SA-SA-SAWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p58,AU-SA-DEPT-DTF,AU-SA-SA-SAFA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p59,AU-SA-DEPT-DTF,AU-SA-SA-HOMESTART,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p60,AU-TAS-STAT-DOPAC,AU-TAS-GBE-HYDRO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p61,AU-TAS-STAT-DOPAC,AU-TAS-SOC-TASNETWORKS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p62,AU-TAS-STAT-DOPAC,AU-TAS-SOC-AURORAENERGY,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p63,AU-TAS-STAT-DOPAC,AU-TAS-SOC-TTLINE,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p64,AU-TAS-STAT-DOPAC,AU-TAS-GBE-TASCORP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p64b,AU-TAS-STAT-DOPAC,AU-TAS-SA-TASWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p66,AU-NT-DEPT-TREASURY,AU-NT-GOC-PWC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p67,AU-NT-DEPT-TREASURY,AU-NT-GOC-JACANA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p68,AU-NT-DEPT-TREASURY,AU-NT-GOC-TERRGEN,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+s01,AU-CW-DEPT-FINANCE,AU-CW-GBE-AUSPOST,shareholder_of,50% shareholder,,,,MEDIUM,50% shareholder
+s02,AU-CW-DEPT-FINANCE,AU-CW-GBE-NBNCOLTD,shareholder_of,100% owner,,,,MEDIUM,100% owner
+s03,AU-CW-DEPT-FINANCE,AU-CW-GBE-SNOWYHYDRO,shareholder_of,100% owner,,,,MEDIUM,100% owner
+s04,AU-CW-DEPT-FINANCE,AU-CW-GBE-ARTC,shareholder_of,100% owner,,,,MEDIUM,100% owner
+s05,AU-CW-DEPT-FINANCE,AU-CW-GBE-WSACO,shareholder_of,100% owner,,,,MEDIUM,100% owner
+s06,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASCPTYLTD,shareholder_of,100% owner,,,,MEDIUM,100% owner
+s28,AU-CW-DEPT-INFRA,AU-CW-GBE-AUSPOST,shareholder_of,50% shareholder,,,,MEDIUM,50% shareholder
+s07,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-SYDWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s08,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-HUNTERWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s09,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-WATERNSW,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s10,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-ESSENTIALENERGY,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s11,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-PORTAUTH,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s12,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-TAHE,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s13,AU-NSW-DEPT-TREASURY,AU-NSW-SOC-LANDCOM,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s14,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-CSENERGY,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s15,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-STANWELL,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s16,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-ENERGYQLD,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s17,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-POWERLINK,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s18,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QRAIL,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s19,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QIC,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s20,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QTC,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s21,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-SEQWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s22,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-SUNWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s23,AU-WA-DEPT-TREASURY,AU-WA-STAT-SW,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s24,AU-WA-DEPT-TREASURY,AU-WA-GTE-WESTERNPOWER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s25,AU-WA-DEPT-TREASURY,AU-WA-GTE-WATERCORP,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s26,AU-WA-DEPT-TREASURY,AU-WA-STAT-GCW,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s27,AU-WA-DEPT-TREASURY,AU-WA-GTE-WATC,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+m01,AU-CW-DEPT-PMC,AU-CW-IGF-NATCAB,member_of,PM chairs,,,,MEDIUM,PM chairs
+m02,AU-NSW-DEPT-PREMIER,AU-CW-IGF-NATCAB,member_of,NSW Premier,,,,MEDIUM,NSW Premier
+m03,AU-VIC-STAT-DOPAC,AU-CW-IGF-NATCAB,member_of,VIC Premier,,,,MEDIUM,VIC Premier
+m04,AU-QLD-DEPT-PREMIER,AU-CW-IGF-NATCAB,member_of,QLD Premier,,,,MEDIUM,QLD Premier
+m05,AU-WA-DEPT-PREMIER,AU-CW-IGF-NATCAB,member_of,WA Premier,,,,MEDIUM,WA Premier
+m06,AU-SA-DEPT-DPC,AU-CW-IGF-NATCAB,member_of,SA Premier,,,,MEDIUM,SA Premier
+m07,AU-TAS-STAT-DOPAC,AU-CW-IGF-NATCAB,member_of,TAS Premier,,,,MEDIUM,TAS Premier
+m08,AU-NT-DEPT-CHIEFMIN,AU-CW-IGF-NATCAB,member_of,NT Chief Min,,,,MEDIUM,NT Chief Min
+m10,AU-CW-DEPT-TREASURY,AU-CW-IGF-CFFR,member_of,CW Treasurer chairs,,,,MEDIUM,CW Treasurer chairs
+m11,AU-NSW-DEPT-TREASURY,AU-CW-IGF-CFFR,member_of,NSW Treasurer,,,,MEDIUM,NSW Treasurer
+m12,AU-VIC-STAT-DOTAF,AU-CW-IGF-CFFR,member_of,VIC Treasurer,,,,MEDIUM,VIC Treasurer
+m13,AU-QLD-DEPT-TREASURY,AU-CW-IGF-CFFR,member_of,QLD Treasurer,,,,MEDIUM,QLD Treasurer
+m14,AU-WA-DEPT-TREASURY,AU-CW-IGF-CFFR,member_of,WA Treasurer,,,,MEDIUM,WA Treasurer
+m15,AU-SA-DEPT-DTF,AU-CW-IGF-CFFR,member_of,SA Treasurer,,,,MEDIUM,SA Treasurer
+m16,AU-TAS-STAT-DOPAC,AU-CW-IGF-CFFR,member_of,TAS Treasurer,,,,MEDIUM,TAS Treasurer
+m17,AU-CW-DEPT-ENVWATER,AU-CW-IGF-MDBMINCOUNCIL,member_of,CW member,,,,MEDIUM,CW member
+m18,AU-NSW-DEPT-TREASURY,AU-CW-IGF-MDBMINCOUNCIL,member_of,NSW member,,,,MEDIUM,NSW member
+m19,AU-VIC-STAT-DOTAF,AU-CW-IGF-MDBMINCOUNCIL,member_of,VIC member,,,,MEDIUM,VIC member
+m20,AU-QLD-DEPT-TREASURY,AU-CW-IGF-MDBMINCOUNCIL,member_of,QLD member,,,,MEDIUM,QLD member
+m21,AU-SA-DEPT-DTF,AU-CW-IGF-MDBMINCOUNCIL,member_of,SA member,,,,MEDIUM,SA member
+m25,AU-CW-DEPT-HEALTH,AU-CW-IGF-AHMM,member_of,CW Health Minister chairs,,,,MEDIUM,CW Health Minister chairs
+m26,AU-NSW-STAT-MOH,AU-CW-IGF-AHMM,member_of,NSW Health Minister,,,,MEDIUM,NSW Health Minister
+m27,AU-VIC-STAT-DOH,AU-CW-IGF-AHMM,member_of,VIC Health Minister,,,,MEDIUM,VIC Health Minister
+m28,AU-QLD-DEPT-HEALTH,AU-CW-IGF-AHMM,member_of,QLD Health Minister,,,,MEDIUM,QLD Health Minister
+m29,AU-WA-DEPT-HEALTH,AU-CW-IGF-AHMM,member_of,WA Health Minister,,,,MEDIUM,WA Health Minister
+m30,AU-SA-DEPT-HEALTH,AU-CW-IGF-AHMM,member_of,SA Health Minister,,,,MEDIUM,SA Health Minister
+m22,AU-LG-LGA-17200,AU-CW-IGF-ALGA,member_of,via LGNSW,,,,MEDIUM,via LGNSW
+m23,AU-LG-LGA-31000,AU-CW-IGF-ALGA,member_of,via LGAQ,,,,MEDIUM,via LGAQ
+m24,AU-LG-LGA-24600,AU-CW-IGF-ALGA,member_of,via MAV,,,,MEDIUM,via MAV
+p65a,AU-ACT-DIR-CMTEDD,AU-ACT-TOC-ICONWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65b,AU-ACT-DIR-CMTEDD,AU-ACT-PTE-SLA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65c,AU-ACT-DIR-CMTEDD,AU-ACT-PTE-CRA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65d,AU-ACT-DIR-CMTEDD,AU-ACT-PTE-HOUSINGACT,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65e,AU-ACT-DIR-CMTEDD,AU-ACT-PTE-CEMETERIES,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65f,AU-ACT-DIR-CMTEDD,AU-ACT-INFRA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65g,AU-ACT-DIR-CMTEDD,AU-ACT-CIT,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65h,AU-ACT-DIR-HEALTH,AU-ACT-CHS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65i,AU-ACT-DIR-CMTEDD,AU-ACT-CFC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p65j,AU-ACT-DIR-JACS,AU-ACT-AEC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+m09,AU-ACT-DIR-CMTEDD,AU-CW-IGF-NATCAB,member_of,ACT Chief Min,,,,MEDIUM,ACT Chief Min
+m09b,AU-ACT-DIR-CMTEDD,AU-CW-IGF-CFFR,member_of,ACT Treasurer,,,,MEDIUM,ACT Treasurer
+m09c,AU-ACT-DIR-HEALTH,AU-CW-IGF-AHMM,member_of,ACT Health Minister,,,,MEDIUM,ACT Health Minister
+s_act1,AU-ACT-DIR-CMTEDD,AU-ACT-TOC-ICONWATER,shareholder_of,Territory shareholder,,,,MEDIUM,Territory shareholder
+s_act2,AU-ACT-DIR-CMTEDD,AU-ACT-PTE-SLA,shareholder_of,Territory shareholder,,,,MEDIUM,Territory shareholder
+f_act1,AU-CW-DEPT-FINANCE,AU-ACT-DIR-CMTEDD,funds,GST + grants,,2025-26,,MEDIUM,GST + grants
+f_act2,AU-ACT-TOC-ICONWATER,AU-ACT-DIR-CMTEDD,funds,Dividend,7595000,2025-26,,MEDIUM,Dividend
+p_vic1,AU-VIC-STAT-DOTAF,AU-VIC-SA-CITYWESTWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic2,AU-VIC-STAT-DOTAF,AU-VIC-SA-YARRAWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic3,AU-VIC-STAT-DOTAF,AU-VIC-SA-WORKSAFE,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic4,AU-VIC-STAT-DOTAF,AU-VIC-SA-TAC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic5,AU-VIC-STAT-DOTAF,AU-VIC-SA-VMIA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic6,AU-VIC-STAT-DOTAF,AU-VIC-SA-STATETOLLER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic7,AU-VIC-STAT-DOTAF,AU-VIC-SA-PORTMLB,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic8,AU-VIC-STAT-DOTAF,AU-VIC-SA-SECVIC,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+p_vic9,AU-VIC-STAT-DOFFAH,AU-VIC-SA-HOMESVIC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+s_vic1,AU-VIC-STAT-DOTAF,AU-VIC-SA-MELBWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_vic2,AU-VIC-STAT-DOTAF,AU-VIC-SA-SEWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_vic3,AU-VIC-STAT-DOTAF,AU-VIC-SA-CITYWESTWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_vic4,AU-VIC-STAT-DOTAF,AU-VIC-SA-YARRAWATER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_vic5,AU-VIC-STAT-DOTAF,AU-VIC-SA-TCV,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+o_vic1,AU-CW-DEPT-HEALTH,AU-VIC-STAT-DOH,overlaps_with,NHRA health funding — $7.8B 2025-26,7800000000,2025-26,,HIGH,NHRA health funding — $7.8B 2025-26
+f_vic1,AU-VIC-SA-WORKSAFE,AU-VIC-STAT-DOTAF,funds,WorkSafe dividend/return,,2025-26,,MEDIUM,WorkSafe dividend/return
+f_vic2,AU-VIC-SA-TAC,AU-VIC-STAT-DOTAF,funds,TAC grant to State,,2025-26,,MEDIUM,TAC grant to State
+f_vic3,AU-CW-DEPT-FINANCE,AU-VIC-STAT-DOTAF,funds,GST distribution,27600000000,2025-26,,HIGH,GST distribution
+p_wa1,AU-WA-DEPT-TREASURY,AU-WA-GTE-HORIZONPOWER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa2,AU-WA-DEPT-TREASURY,AU-WA-GTE-BUNBURYWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa3,AU-WA-DEPT-TREASURY,AU-WA-GTE-BUSSELTONWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa4,AU-WA-DEPT-TREASURY,AU-WA-GTE-FREMANTLEPORT,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa5,AU-WA-DEPT-TREASURY,AU-WA-GTE-PILBARAPORTS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa6,AU-WA-DEPT-TREASURY,AU-WA-GTE-MIDWESTPORTS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa7,AU-WA-DEPT-TREASURY,AU-WA-STAT-SPA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa8,AU-WA-DEPT-TREASURY,AU-WA-GTE-KIMBERLEYPORTS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa9,AU-WA-DEPT-TREASURY,AU-WA-STAT-LCW,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa10,AU-WA-DEPT-TREASURY,AU-WA-STAT-KW,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa11,AU-WA-DEPT-TREASURY,AU-WA-GTE-ICWA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa12,AU-WA-DEPT-PREMIER,AU-WA-GTE-PTA,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+s_wa1,AU-WA-DEPT-TREASURY,AU-WA-GTE-HORIZONPOWER,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_wa2,AU-WA-DEPT-TREASURY,AU-WA-GTE-FREMANTLEPORT,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+s_wa3,AU-WA-DEPT-TREASURY,AU-WA-STAT-LCW,shareholder_of,Shareholding minister,,,,MEDIUM,Shareholding minister
+f_wa1,AU-CW-DEPT-FINANCE,AU-WA-DEPT-TREASURY,funds,GST distribution,13200000000,2025-26,,HIGH,GST distribution
+r_wa1,AU-CW-CCE-AER,AU-WA-GTE-HORIZONPOWER,regulates,Partial — exempt NEM,,,,MEDIUM,Partial — exempt NEM
+lg_nsw1,AU-NSW-DEPT-PLANNING,AU-LG-LGA-17200,regulates,Local Government Act 1993 (NSW),,,,MEDIUM,Local Government Act 1993 (NSW)
+lg_nsw2,AU-NSW-DEPT-PLANNING,AU-LG-LGA-11500,regulates,Local Government Act 1993 (NSW),,,,MEDIUM,Local Government Act 1993 (NSW)
+lg_nsw3,AU-NSW-DEPT-PLANNING,AU-LG-LGA-14000,regulates,Local Government Act 1993 (NSW),,,,MEDIUM,Local Government Act 1993 (NSW)
+lg_vic1,AU-VIC-STAT-DOTAF,AU-LG-LGA-24600,regulates,Local Government Act 2020 (Vic),,,,MEDIUM,Local Government Act 2020 (Vic)
+lg_vic2,AU-VIC-STAT-DOTAF,AU-LG-LGA-21890,regulates,Local Government Act 2020 (Vic),,,,MEDIUM,Local Government Act 2020 (Vic)
+lg_qld1,AU-QLD-DEPT-PREMIER,AU-LG-LGA-31000,regulates,Local Government Act 2009 (Qld),,,,MEDIUM,Local Government Act 2009 (Qld)
+lg_qld2,AU-QLD-DEPT-PREMIER,AU-LG-LGA-33430,regulates,Local Government Act 2009 (Qld),,,,MEDIUM,Local Government Act 2009 (Qld)
+lg_sa1,AU-SA-DEPT-DPC,AU-LG-LGA-40070,regulates,Local Government Act 1999 (SA),,,,MEDIUM,Local Government Act 1999 (SA)
+lg_cw1,AU-CW-DEPT-FINANCE,AU-CW-IGF-ALGA,funds,Commonwealth grants to LG,,,,MEDIUM,Commonwealth grants to LG
+lg_nhvr1,AU-CW-IGF-NHVR,AU-LG-LGA-31000,regulates,Heavy Vehicle National Law,,,,MEDIUM,Heavy Vehicle National Law
+lg_plan1,AU-NSW-DEPT-PLANNING,AU-LG-LGA-17200,overlaps_with,Planning approvals / LEPs,,,,MEDIUM,Planning approvals / LEPs
+p_uw1,AU-LG-LGA-31000,AU-QLD-SA-UNITYWATER,shareholder_of,Joint council owner (Moreton Bay),,,,MEDIUM,Joint council owner (Moreton Bay)
+p_uw2,AU-LG-LGA-33430,AU-QLD-SA-UNITYWATER,shareholder_of,Joint council owner (Sunshine Coast),,,,MEDIUM,Joint council owner (Sunshine Coast)
+r_uw1,AU-CW-CCE-AER,AU-QLD-SA-UNITYWATER,regulates,Water/sewerage pricing,,,,MEDIUM,Water/sewerage pricing
+r_uw2,AU-CW-CCE-MDBA,AU-QLD-SA-UNITYWATER,regulates,Bulk water supply,,,,MEDIUM,Bulk water supply
+p_quu1,AU-LG-LGA-31000,AU-QLD-SA-QUU,shareholder_of,Joint council owner (Brisbane),,,,MEDIUM,Joint council owner (Brisbane)
+r01,AU-CW-CCE-ACCC,AU-CW-GBE-AUSPOST,regulates,Competition oversight,,,,MEDIUM,Competition oversight
+r02,AU-CW-CCE-ACCC,AU-CW-GBE-NBNCOLTD,regulates,Access regulation,,,,MEDIUM,Access regulation
+r03,AU-CW-CCE-AER,AU-NSW-SOC-ESSENTIALENERGY,regulates,Revenue determination,,,,MEDIUM,Revenue determination
+r04,AU-CW-CCE-AER,AU-QLD-GOC-ENERGYQLD,regulates,Revenue determination,,,,MEDIUM,Revenue determination
+r05,AU-CW-CCE-AER,AU-QLD-GOC-POWERLINK,regulates,Transmission determination,,,,MEDIUM,Transmission determination
+r06,AU-CW-CCE-AER,AU-WA-GTE-WESTERNPOWER,regulates,Partial oversight,,,,MEDIUM,Partial oversight
+r07,AU-CW-CCE-AER,AU-VIC-SA-SECVIC,regulates,Energy market,,,,MEDIUM,Energy market
+r10,AU-CW-CCE-APRA,AU-NSW-PFC-ICARE,regulates,Prudential supervision,,,,MEDIUM,Prudential supervision
+r11,AU-CW-CCE-MDBA,AU-NSW-SOC-WATERNSW,regulates,Water resource plan,,,,MEDIUM,Water resource plan
+r12,AU-CW-CCE-MDBA,AU-QLD-GOC-SUNWATER,regulates,Water resource plan,,,,MEDIUM,Water resource plan
+r13,AU-CW-CCE-AEMO,AU-QLD-GOC-ENERGYQLD,regulates,Electricity dispatch,,,,MEDIUM,Electricity dispatch
+r14,AU-CW-CCE-AEMO,AU-NSW-SOC-ESSENTIALENERGY,regulates,Network standards,,,,MEDIUM,Network standards
+r15,AU-CW-IGF-NHVR,AU-NSW-DEPT-TRANSPORT,regulates,Heavy vehicle NSW,,,,MEDIUM,Heavy vehicle NSW
+r16,AU-CW-IGF-NHVR,AU-QLD-DEPT-PREMIER,regulates,Heavy vehicle QLD,,,,MEDIUM,Heavy vehicle QLD
+r17,AU-CW-IGF-NHVR,AU-VIC-STAT-DOTAP,regulates,Heavy vehicle VIC,,,,MEDIUM,Heavy vehicle VIC
+r18,AU-CW-IGF-NHVR,AU-WA-DEPT-TREASURY,regulates,Heavy vehicle WA,,,,MEDIUM,Heavy vehicle WA
+r19,AU-CW-CCE-ACMA,AU-CW-CCE-ABC,regulates,Broadcasting standards,,,,MEDIUM,Broadcasting standards
+r20,AU-CW-CCE-ACMA,AU-CW-CCE-SBS,regulates,Broadcasting standards,,,,MEDIUM,Broadcasting standards
+r21,AU-CW-CCE-TGA,AU-NSW-STAT-MOH,regulates,Therapeutic goods,,,,MEDIUM,Therapeutic goods
+r22,AU-CW-CCE-TGA,AU-VIC-STAT-DOH,regulates,Therapeutic goods,,,,MEDIUM,Therapeutic goods
+o01,AU-CW-DEPT-HEALTH,AU-NSW-STAT-MOH,overlaps_with,NHRA health funding,,,,MEDIUM,NHRA health funding
+o03,AU-CW-DEPT-HEALTH,AU-QLD-DEPT-HEALTH,overlaps_with,NHRA health funding,,,,MEDIUM,NHRA health funding
+o04,AU-CW-DEPT-EDUCATION,AU-NSW-DEPT-EDUCATION,overlaps_with,Schools funding,,,,MEDIUM,Schools funding
+o05,AU-CW-DEPT-EDUCATION,AU-VIC-STAT-DOE,overlaps_with,Schools funding,,,,MEDIUM,Schools funding
+o06,AU-CW-DEPT-EDUCATION,AU-QLD-STAT-DOE,overlaps_with,Schools funding,,,,MEDIUM,Schools funding
+o07,AU-CW-CCE-MDBA,AU-NSW-SOC-WATERNSW,overlaps_with,MDB water sharing,,,,MEDIUM,MDB water sharing
+o08,AU-CW-CCE-MDBA,AU-QLD-DEPT-TREASURY,overlaps_with,MDB management,,,,MEDIUM,MDB management
+o09,AU-CW-CCE-AER,AU-QLD-GOC-ENERGYQLD,overlaps_with,Energy national framework,,,,MEDIUM,Energy national framework
+o10,AU-CW-CCE-AER,AU-NSW-SOC-ESSENTIALENERGY,overlaps_with,Energy national framework,,,,MEDIUM,Energy national framework
+o11,AU-CW-CCE-AER,AU-VIC-SA-SECVIC,overlaps_with,Energy market overlap,,,,MEDIUM,Energy market overlap
+o12,AU-CW-CCE-SERVICESAUST,AU-NSW-STAT-MOH,overlaps_with,Service delivery overlap,,,,MEDIUM,Service delivery overlap
+o13,AU-CW-IGF-NHVR,AU-NSW-DEPT-TRANSPORT,overlaps_with,Heavy vehicle national law,,,,MEDIUM,Heavy vehicle national law
+f01,AU-CW-DEPT-FINANCE,AU-CW-DEPT-DEFENCE,funds,Appropriation,49400000000,2025-26,,HIGH,Appropriation
+f02,AU-CW-DEPT-FINANCE,AU-CW-DEPT-HEALTH,funds,Appropriation,109000000000,2025-26,,HIGH,Appropriation
+f03,AU-CW-DEPT-FINANCE,AU-CW-DEPT-SOCSVC,funds,Appropriation,198000000000,2025-26,,HIGH,Appropriation
+f04,AU-CW-DEPT-FINANCE,AU-CW-DEPT-EDUCATION,funds,Appropriation,39000000000,2025-26,,HIGH,Appropriation
+f05,AU-CW-DEPT-FINANCE,AU-CW-CCE-NDIA,funds,NDIS,44500000000,2025-26,,HIGH,NDIS
+f06,AU-CW-DEPT-FINANCE,AU-CW-CCE-SERVICESAUST,funds,Appropriation,4800000000,2025-26,,HIGH,Appropriation
+f07,AU-CW-GBE-SNOWYHYDRO,AU-CW-DEPT-FINANCE,funds,Dividend,236000000,2023-24,,HIGH,Dividend
+f08,AU-CW-DEPT-FINANCE,AU-NSW-DEPT-TREASURY,funds,GST distribution,30200000000,2025-26,,HIGH,GST distribution
+f10,AU-CW-DEPT-FINANCE,AU-QLD-DEPT-TREASURY,funds,GST distribution,24800000000,2025-26,,HIGH,GST distribution
+f12,AU-CW-DEPT-FINANCE,AU-SA-DEPT-DTF,funds,GST distribution,10400000000,2025-26,,HIGH,GST distribution
+f13,AU-CW-DEPT-FINANCE,AU-TAS-STAT-DOTAF,funds,GST distribution,3700000000,2025-26,,HIGH,GST distribution
+f14,AU-NSW-SOC-SYDWATER,AU-NSW-DEPT-TREASURY,funds,Dividend,300000000,2024-25,,MEDIUM,Dividend
+f15,AU-NSW-SOC-ESSENTIALENERGY,AU-NSW-DEPT-TREASURY,funds,Dividend,50000000,2024-25,,MEDIUM,Dividend
+f16,AU-QLD-GOC-POWERLINK,AU-QLD-DEPT-TREASURY,funds,Dividend,330000000,2025-26,,MEDIUM,Dividend
+f17,AU-QLD-GOC-ENERGYQLD,AU-QLD-DEPT-TREASURY,funds,Dividend,220000000,2025-26,,MEDIUM,Dividend
+f18,AU-QLD-GOC-STANWELL,AU-QLD-DEPT-TREASURY,funds,Dividend,180000000,2025-26,,MEDIUM,Dividend
+f19,AU-QLD-GOC-CSENERGY,AU-QLD-DEPT-TREASURY,funds,Dividend,120000000,2025-26,,MEDIUM,Dividend
+f20,AU-QLD-GOC-QRAIL,AU-QLD-DEPT-TREASURY,funds,Dividend,35000000,2025-26,,MEDIUM,Dividend
+f21,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-QRAIL,funds,CSO Payment,2840000000,2025-26,,MEDIUM,CSO Payment
+f22,AU-QLD-DEPT-TREASURY,AU-QLD-GOC-ENERGYQLD,funds,CSO Payment,603000000,2025-26,,MEDIUM,CSO Payment
+f23,AU-TAS-STAT-DOTAF,AU-TAS-STAT-DOH,funds,Appropriation,2429400000,2025-26,,MEDIUM,Appropriation
+f24,AU-TAS-STAT-DOTAF,AU-TAS-STAT-DFECAYP,funds,Appropriation,2297706000,2025-26,,MEDIUM,Appropriation
+f25,AU-TAS-STAT-DOTAF,AU-TAS-STAT-DOPAC,funds,Appropriation,435221000,2025-26,,MEDIUM,Appropriation
+f_nt01,AU-CW-DEPT-FINANCE,AU-NT-DEPT-CHIEFMIN,funds,Commonwealth revenue ~70% of NT budget,7140000000,2025-26,,HIGH,Commonwealth revenue ~70% of NT budget
+f_nt02,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-HEALTH,funds,Appropriation,1284652000,2025-26,,MEDIUM,Appropriation
+f_nt03,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-EDUCATION,funds,Appropriation,713813000,2025-26,,MEDIUM,Appropriation
+f_nt04,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-POLICE,funds,Appropriation,491120000,2025-26,,MEDIUM,Appropriation
+f_nt05,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-CORRECTIONS,funds,Appropriation,435392000,2025-26,,MEDIUM,Appropriation
+f_nt06,AU-NT-DEPT-CHIEFMIN,AU-NT-GOC-TERRGEN,funds,Appropriation,397637000,2025-26,,MEDIUM,Appropriation
+f_nt07,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-HOUSING,funds,Appropriation,358604000,2025-26,,MEDIUM,Appropriation
+f_nt08,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-CHILDREN,funds,Appropriation,280731000,2025-26,,MEDIUM,Appropriation
+r_wa01,AU-WA-SA-ERA,AU-WA-GTE-WESTERNPOWER,regulates,Electricity network access,,,,MEDIUM,Electricity network access
+r_wa02,AU-WA-SA-ERA,AU-WA-GTE-WATERCORP,regulates,Water pricing,,,,MEDIUM,Water pricing
+r_wa03,AU-WA-SA-ERA,AU-WA-GTE-HORIZONPOWER,regulates,Electricity network access,,,,MEDIUM,Electricity network access
+r_wa04,AU-WA-SA-ERA,AU-WA-GTE-PTA,regulates,Rail access,,,,MEDIUM,Rail access
+o_wa01,AU-WA-SA-CCC,AU-WA-DEPT-JUSTICE,overlaps_with,Anti-corruption oversight,,,,MEDIUM,Anti-corruption oversight
+p_wa10_b,AU-WA-DEPT-HEALTH,AU-WA-SA-MHC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa11_b,AU-WA-DEPT-JUSTICE,AU-WA-SA-CCC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa12_b,AU-WA-DEPT-JUSTICE,AU-WA-SA-DPP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa13,AU-WA-DEPT-JUSTICE,AU-WA-SA-LEGALAID,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+f_vic02,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOH,funds,Appropriation,28100000000,2025-26,,MEDIUM,Appropriation
+f_vic03,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOE,funds,Appropriation,19800000000,2025-26,,MEDIUM,Appropriation
+f_vic04,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOTAP,funds,Appropriation,12400000000,2025-26,,MEDIUM,Appropriation
+f_vic05,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOFFAH,funds,Appropriation,6300000000,2025-26,,MEDIUM,Appropriation
+f_vic06,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOJACS,funds,Appropriation,5900000000,2025-26,,MEDIUM,Appropriation
+f_vic07,AU-VIC-STAT-DOTAF,AU-VIC-STAT-DOJSIAR,funds,Appropriation,3200000000,2025-26,,MEDIUM,Appropriation
+f_nt09,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-HOUSING,funds,Appropriation,305867000,2025-26,,MEDIUM,Appropriation
+f_nt10,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-TOURISM,funds,Appropriation,175405000,2025-26,,MEDIUM,Appropriation
+f_nt11,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-PEOPLE,funds,Appropriation,211162000,2025-26,,MEDIUM,Appropriation
+f_nt12,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-AGD,funds,Appropriation,131692000,2025-26,,MEDIUM,Appropriation
+f_nt13,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-LANDS,funds,Appropriation,88015000,2025-26,,MEDIUM,Appropriation
+f_nt14,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-TRADE,funds,Appropriation,64869000,2025-26,,MEDIUM,Appropriation
+f_nt15,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-FIRE,funds,Appropriation,67659000,2025-26,,MEDIUM,Appropriation
+f_nt16,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-AGFISH,funds,Appropriation,45261000,2025-26,,MEDIUM,Appropriation
+f_nt17,AU-NT-DEPT-CHIEFMIN,AU-NT-DEPT-MINING,funds,Appropriation,40020000,2025-26,,MEDIUM,Appropriation
+f_nsw02,AU-NSW-DEPT-TREASURY,AU-NSW-STAT-MOH,funds,Appropriation,35200000000,2025-26,,MEDIUM,Appropriation
+f_nsw03,AU-NSW-DEPT-TREASURY,AU-NSW-DEPT-EDUCATION,funds,Appropriation,22100000000,2025-26,,MEDIUM,Appropriation
+f_nsw04,AU-NSW-DEPT-TREASURY,AU-NSW-DEPT-TRANSPORT,funds,Appropriation,15800000000,2025-26,,MEDIUM,Appropriation
+f_nsw05,AU-NSW-DEPT-TREASURY,AU-NSW-DEPT-DCJ,funds,Appropriation,8100000000,2025-26,,MEDIUM,Appropriation
+f_qld02,AU-QLD-DEPT-TREASURY,AU-QLD-DEPT-HEALTH,funds,Appropriation,26500000000,2025-26,,MEDIUM,Appropriation
+f_qld03,AU-QLD-DEPT-TREASURY,AU-QLD-STAT-DOE,funds,Appropriation,17200000000,2025-26,,MEDIUM,Appropriation
+f_qld04,AU-QLD-DEPT-TREASURY,AU-QLD-STAT-DOTAMR,funds,Appropriation,10800000000,2025-26,,MEDIUM,Appropriation
+f_sa02,AU-SA-DEPT-DTF,AU-SA-DEPT-HEALTH,funds,Appropriation,9200000000,2025-26,,MEDIUM,Appropriation
+f_sa03,AU-SA-DEPT-DTF,AU-SA-STAT-DFES,funds,Appropriation,5600000000,2025-26,,MEDIUM,Appropriation
+f_sa04,AU-SA-DEPT-DTF,AU-SA-DEPT-HUMANSVCS,funds,Appropriation,2100000000,2025-26,,MEDIUM,Appropriation
+f_sa05,AU-SA-DEPT-DTF,AU-SA-DEPT-TRANSPORT,funds,Appropriation,2400000000,2025-26,,MEDIUM,Appropriation
+f_wa02,AU-WA-DEPT-TREASURY,AU-WA-DEPT-HEALTH,funds,Appropriation,13800000000,2025-26,,MEDIUM,Appropriation
+f_wa03,AU-WA-DEPT-TREASURY,AU-WA-STAT-DOEW,funds,Appropriation,8900000000,2025-26,,MEDIUM,Appropriation
+f_wa04,AU-WA-DEPT-TREASURY,AU-WA-DEPT-TRANSPORT,funds,Appropriation,5200000000,2025-26,,MEDIUM,Appropriation
+f_wa05,AU-WA-DEPT-TREASURY,AU-WA-DEPT-COMMUNITIES,funds,Appropriation,3900000000,2025-26,,MEDIUM,Appropriation
+f_wa06,AU-WA-DEPT-TREASURY,AU-WA-DEPT-JUSTICE,funds,Appropriation,2100000000,2025-26,,MEDIUM,Appropriation
+f_cw01,AU-CW-DEPT-FINANCE,AU-CW-DEPT-PMC,funds,Appropriation,896000000,2025-26,,HIGH,Appropriation
+f_cw02,AU-CW-DEPT-FINANCE,AU-CW-DEPT-HOMEAFFAIRS,funds,Appropriation,4200000000,2025-26,,HIGH,Appropriation
+f_cw03,AU-CW-DEPT-FINANCE,AU-CW-DEPT-INFRA,funds,Appropriation,8100000000,2025-26,,HIGH,Appropriation
+f_cw04,AU-CW-DEPT-FINANCE,AU-CW-DEPT-VETERANS,funds,Appropriation,14200000000,2025-26,,HIGH,Appropriation
+f_cw05,AU-CW-DEPT-FINANCE,AU-CW-DEPT-AGRIC,funds,Appropriation,1800000000,2025-26,,HIGH,Appropriation
+f_cw06,AU-CW-DEPT-FINANCE,AU-CW-DEPT-EMPLOY,funds,Appropriation,2100000000,2025-26,,HIGH,Appropriation
+f_cw07,AU-CW-DEPT-FINANCE,AU-CW-DEPT-DFAT,funds,Appropriation,2900000000,2025-26,,HIGH,Appropriation
+f_cw08,AU-CW-DEPT-FINANCE,AU-CW-DEPT-ENVWATER,funds,Appropriation,1600000000,2025-26,,HIGH,Appropriation
+f_cw09,AU-CW-DEPT-FINANCE,AU-CW-DEPT-INDUSTRY,funds,Appropriation,2400000000,2025-26,,HIGH,Appropriation
+f_cw10,AU-CW-DEPT-FINANCE,AU-CW-DEPT-AGS,funds,Appropriation,910000000,2025-26,,HIGH,Appropriation
+f_cw11,AU-CW-DEPT-FINANCE,AU-CW-CCE-ATO,funds,Appropriation,5300000000,2025-26,,HIGH,Appropriation
+f_cw12,AU-CW-DEPT-FINANCE,AU-CW-CCE-CSIRO,funds,Appropriation,1200000000,2025-26,,HIGH,Appropriation
+f_cw13,AU-CW-DEPT-FINANCE,AU-CW-CCE-ABC,funds,Appropriation,1100000000,2025-26,,HIGH,Appropriation
+f_cw14,AU-CW-DEPT-FINANCE,AU-CW-CCE-ARENA,funds,Appropriation,800000000,2025-26,,HIGH,Appropriation
+f_cw15,AU-CW-DEPT-FINANCE,AU-CW-CCE-NACC,funds,Appropriation,195000000,2025-26,,HIGH,Appropriation
+p_nsw01,AU-NSW-DEPT-PREMIER,AU-NSW-DEPT-DCJ,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_nsw02,AU-NSW-DEPT-PREMIER,AU-NSW-DEPT-PLANNING,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_qld01,AU-QLD-DEPT-PREMIER,AU-QLD-DEPT-HEALTH,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_qld02,AU-QLD-DEPT-PREMIER,AU-QLD-STAT-DOE,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_qld03,AU-QLD-DEPT-PREMIER,AU-QLD-STAT-DOTAMR,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_sa01,AU-SA-DEPT-DPC,AU-SA-STAT-DFES,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_sa02,AU-SA-DEPT-DPC,AU-SA-DEPT-HEALTH,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_sa03,AU-SA-DEPT-DPC,AU-SA-DEPT-HUMANSVCS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_sa04,AU-SA-DEPT-DPC,AU-SA-DEPT-TRANSPORT,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas01,AU-TAS-STAT-DOPAC,AU-TAS-STAT-DOH,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas02,AU-TAS-STAT-DOPAC,AU-TAS-STAT-DFECAYP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas03,AU-TAS-STAT-DOPAC,AU-TAS-STAT-DOJ,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas04,AU-TAS-STAT-DOPAC,AU-TAS-STAT-DOSG,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas05,AU-TAS-STAT-DOTAF,AU-TAS-GBE-HYDRO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas06,AU-TAS-STAT-DOTAF,AU-TAS-SOC-TASNETWORKS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas07,AU-TAS-STAT-DOTAF,AU-TAS-SOC-AURORAENERGY,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_tas08,AU-TAS-STAT-DOTAF,AU-TAS-GBE-TASCORP,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic02,AU-VIC-STAT-DOTAP,AU-VIC-SA-VICTRACK,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic03,AU-VIC-STAT-DOTAP,AU-VIC-SA-SECVIC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_vic04,AU-VIC-STAT-DOH,AU-VIC-SA-MELBWATER,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa14,AU-WA-DEPT-PREMIER,AU-WA-SA-PSC,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa15,AU-WA-DEPT-TRANSPORT,AU-WA-SA-MAINROADS,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa16,AU-WA-DEPT-JUSTICE,AU-WA-SA-HADSCO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+p_wa17,AU-WA-DEPT-JUSTICE,AU-WA-SA-SSO,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+r_vic01,AU-VIC-SA-SECVIC,AU-VIC-SA-CITYWESTWATER,regulates,Water pricing,,,,MEDIUM,Water pricing
+r_vic02,AU-VIC-SA-SECVIC,AU-VIC-SA-YARRAWATER,regulates,Water pricing,,,,MEDIUM,Water pricing
+r_vic03,AU-VIC-SA-SECVIC,AU-VIC-SA-SEWATER,regulates,Water pricing,,,,MEDIUM,Water pricing
+pbs_au_cw_dept_treasury,AU-CW-DEPT-FINANCE,AU-CW-DEPT-TREASURY,funds,PBS 2025-26,217065920000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_offifinamana,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIFINAMANA,funds,PBS 2025-26,28447875000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_cefc,AU-CW-DEPT-FINANCE,AU-CW-CCE-CEFC,funds,PBS 2025-26,4411243000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_indiaustagen,AU-CW-DEPT-FINANCE,AU-CW-CCE-NIAA,funds,PBS 2025-26,3057585000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_signdire,AU-CW-DEPT-FINANCE,AU-CW-CCE-SIGNDIRE,funds,PBS 2025-26,2305183000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_afp,AU-CW-DEPT-FINANCE,AU-CW-CCE-AFP,funds,PBS 2025-26,2246327000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_blooauth,AU-CW-DEPT-FINANCE,AU-CW-CCE-BLOOAUTH,funds,PBS 2025-26,2138909000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_housingaust,AU-CW-DEPT-FINANCE,AU-CW-CCE-HOUSINGAUST,funds,PBS 2025-26,1208068000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_healmediresecoun,AU-CW-DEPT-FINANCE,AU-CW-CCE-HEALMEDIRESECOUN,funds,PBS 2025-26,1065619000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_gbe_defhousingaust,AU-CW-DEPT-FINANCE,AU-CW-GBE-DEFHOUSINGAUST,funds,PBS 2025-26,1062332000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_resecoun,AU-CW-DEPT-FINANCE,AU-CW-CCE-RESECOUN,funds,PBS 2025-26,1040015000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_asic,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASIC,funds,PBS 2025-26,964453000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_asio,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASIO,funds,PBS 2025-26,759504000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_apra,AU-CW-DEPT-FINANCE,AU-CW-CCE-APRA,funds,PBS 2025-26,698848000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_burestat,AU-CW-DEPT-FINANCE,AU-CW-CCE-BURESTAT,funds,PBS 2025-26,691842000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_nuclscietechorga,AU-CW-DEPT-FINANCE,AU-CW-CCE-NUCLSCIETECHORGA,funds,PBS 2025-26,581766000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_secrinteserv,AU-CW-DEPT-FINANCE,AU-CW-CCE-SECRINTESERV,funds,PBS 2025-26,580841000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_buremete,AU-CW-DEPT-FINANCE,AU-CW-CCE-BUREMETE,funds,PBS 2025-26,547352000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_sbs,AU-CW-DEPT-FINANCE,AU-CW-CCE-SBS,funds,PBS 2025-26,537346000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_fedecour,AU-CW-DEPT-FINANCE,AU-CW-CCE-FEDECOUR,funds,PBS 2025-26,497530000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_sporcomm,AU-CW-DEPT-FINANCE,AU-CW-CCE-SPORCOMM,funds,PBS 2025-26,478153000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_comc,AU-CW-DEPT-FINANCE,AU-CW-CCE-COMC,funds,PBS 2025-26,424407000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_accc,AU-CW-DEPT-FINANCE,AU-CW-CCE-ACCC,funds,PBS 2025-26,414433000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_tradinvecommaust,AU-CW-DEPT-FINANCE,AU-CW-CCE-TRADINVECOMMAUST,funds,PBS 2025-26,406878000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_geos,AU-CW-DEPT-FINANCE,AU-CW-CCE-GEOS,funds,PBS 2025-26,402784000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_agedcarequalsafe,AU-CW-DEPT-FINANCE,AU-CW-CCE-AGEDCAREQUALSAFE,funds,PBS 2025-26,397645000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_submagen,AU-CW-DEPT-FINANCE,AU-CW-CCE-SUBMAGEN,funds,PBS 2025-26,394086000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_digihealagen,AU-CW-DEPT-FINANCE,AU-CW-CCE-DIGIHEALAGEN,funds,PBS 2025-26,383841000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_aec,AU-CW-DEPT-FINANCE,AU-CW-CCE-AEC,funds,PBS 2025-26,373847000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_crea,AU-CW-DEPT-FINANCE,AU-CW-CCE-CREA,funds,PBS 2025-26,367245000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_crimintecomm,AU-CW-DEPT-FINANCE,AU-CW-CCE-CRIMINTECOMM,funds,PBS 2025-26,341929000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_admirevitrib,AU-CW-DEPT-FINANCE,AU-CW-CCE-ADMIREVITRIB,funds,PBS 2025-26,325670000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_grairesedevecorp,AU-CW-DEPT-FINANCE,AU-CW-CCE-GRAIRESEDEVECORP,funds,PBS 2025-26,306979000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_ip,AU-CW-DEPT-FINANCE,AU-CW-CCE-IP,funds,PBS 2025-26,279658000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_dept_parl_dps,AU-CW-DEPT-FINANCE,AU-CW-DEPT-PARL-DPS,funds,PBS 2025-26,276771000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_marisafeauth,AU-CW-DEPT-FINANCE,AU-CW-CCE-MARISAFEAUTH,funds,PBS 2025-26,274428000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_indibusi,AU-CW-DEPT-FINANCE,AU-CW-CCE-INDIBUSI,funds,PBS 2025-26,274387000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_nema,AU-CW-DEPT-FINANCE,AU-CW-CCE-NEMA,funds,PBS 2025-26,269230000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_arch,AU-CW-DEPT-FINANCE,AU-CW-CCE-ARCH,funds,PBS 2025-26,224646000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_ffma,AU-CW-DEPT-FINANCE,AU-CW-CCE-FFMA,funds,PBS 2025-26,224439000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_civiaviasafeauth,AU-CW-DEPT-FINANCE,AU-CW-CCE-CIVIAVIASAFEAUTH,funds,PBS 2025-26,219734000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_audioffi,AU-CW-DEPT-FINANCE,AU-CW-CCE-AUDIOFFI,funds,PBS 2025-26,211292000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_austrac,AU-CW-DEPT-FINANCE,AU-CW-CCE-AUSTRAC,funds,PBS 2025-26,211229000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_mdba,AU-CW-DEPT-FINANCE,AU-CW-CCE-MDBA,funds,PBS 2025-26,203034000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_offifairworkombu,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIFAIRWORKOMBU,funds,PBS 2025-26,198213000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_tour,AU-CW-DEPT-FINANCE,AU-CW-CCE-TOUR,funds,PBS 2025-26,197657000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_ndisqualsafecomm,AU-CW-DEPT-FINANCE,AU-CW-CCE-NDISQUALSAFECOMM,funds,PBS 2025-26,193977000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_supecorp,AU-CW-DEPT-FINANCE,AU-CW-CCE-SUPECORP,funds,PBS 2025-26,189519000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_direpark,AU-CW-DEPT-FINANCE,AU-CW-CCE-DIREPARK,funds,PBS 2025-26,181672000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_acma,AU-CW-DEPT-FINANCE,AU-CW-CCE-ACMA,funds,PBS 2025-26,179303000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_cer,AU-CW-DEPT-FINANCE,AU-CW-CCE-CER,funds,PBS 2025-26,174685000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_finasecuauth,AU-CW-DEPT-FINANCE,AU-CW-CCE-FINASECUAUTH,funds,PBS 2025-26,162337000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_instmariscie,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSTMARISCIE,funds,PBS 2025-26,161228000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_offiinte,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIINTE,funds,PBS 2025-26,158375000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_offidirepublpros,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIDIREPUBLPROS,funds,PBS 2025-26,148487000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_centinteagrirese,AU-CW-DEPT-FINANCE,AU-CW-CCE-CENTINTEAGRIRESE,funds,PBS 2025-26,139203000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_royamint,AU-CW-DEPT-FINANCE,AU-CW-CCE-ROYAMINT,funds,PBS 2025-26,123941000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_insthealwelf,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSTHEALWELF,funds,PBS 2025-26,117603000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_fairworkcomm,AU-CW-DEPT-FINANCE,AU-CW-CCE-FAIRWORKCOMM,funds,PBS 2025-26,116833000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_greabarrreefmari,AU-CW-DEPT-FINANCE,AU-CW-CCE-GREABARRREEFMARI,funds,PBS 2025-26,115200000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_gall,AU-CW-DEPT-FINANCE,AU-CW-CCE-GALL,funds,PBS 2025-26,114424000,2025-26,,HIGH,PBS 2025-26
+pbs_au_cw_cce_libr,AU-CW-DEPT-FINANCE,AU-CW-CCE-LIBR,funds,PBS 2025-26,100117000,2025-26,,HIGH,PBS 2025-26
+f_sa_agd,AU-SA-DEPT-DTF,AU-SA-DEPT-AGD,funds,SA Appropriation 2025-26,246143000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_audit,AU-SA-DEPT-DTF,AU-SA-STAT-ADS,funds,SA Appropriation 2025-26,20037000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_ceih,AU-SA-DEPT-DTF,AU-SA-DEPT-CEIH,funds,SA Appropriation 2025-26,7414000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_courts,AU-SA-DEPT-DTF,AU-SA-DEPT-COURTS,funds,SA Appropriation 2025-26,102134000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_defsa,AU-SA-DEPT-DTF,AU-SA-DEPT-DEFSA,funds,SA Appropriation 2025-26,20909000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_dcp,AU-SA-DEPT-DTF,AU-SA-DEPT-DCP,funds,SA Appropriation 2025-26,883297000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_dcs,AU-SA-DEPT-DTF,AU-SA-DEPT-DCS,funds,SA Appropriation 2025-26,488712000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_energy,AU-SA-DEPT-DTF,AU-SA-DEPT-ENERGY,funds,SA Appropriation 2025-26,68285000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_envwater,AU-SA-DEPT-DTF,AU-SA-DEPT-ENVWATER,funds,SA Appropriation 2025-26,225748000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_housing,AU-SA-DEPT-DTF,AU-SA-DEPT-HOUSING,funds,SA Appropriation 2025-26,111790000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_dpc,AU-SA-DEPT-DTF,AU-SA-DEPT-DPC,funds,SA Appropriation 2025-26,535718000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_pirsa,AU-SA-DEPT-DTF,AU-SA-DEPT-PIRSA,funds,SA Appropriation 2025-26,177591000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_statedev,AU-SA-DEPT-DTF,AU-SA-DEPT-STATEDEV,funds,SA Appropriation 2025-26,503558000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_dtf,AU-SA-DEPT-DTF,AU-SA-DEPT-DTF,funds,SA Appropriation 2025-26,4669361000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_electoral,AU-SA-DEPT-DTF,AU-SA-DEPT-ELECTORAL,funds,SA Appropriation 2025-26,42387000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_parliament,AU-SA-DEPT-DTF,AU-SA-DEPT-PARLIAMENT,funds,SA Appropriation 2025-26,39733000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_prevhlth,AU-SA-DEPT-DTF,AU-SA-DEPT-PREVHLTH,funds,SA Appropriation 2025-26,33511000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_sapol,AU-SA-DEPT-DTF,AU-SA-DEPT-SAPOL,funds,SA Appropriation 2025-26,1196759000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_safire,AU-SA-DEPT-DTF,AU-SA-DEPT-SAFIRE,funds,SA Appropriation 2025-26,4338000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_tourism,AU-SA-DEPT-DTF,AU-SA-DEPT-TOURISM,funds,SA Appropriation 2025-26,66113000,2025-26,,MEDIUM,SA Appropriation 2025-26
+f_sa_governor,AU-SA-DEPT-DTF,AU-SA-CONST-GOV,funds,SA Appropriation 2025-26,4748000,2025-26,,MEDIUM,SA Appropriation 2025-26
+pbs_000,AU-CW-DEPT-FINANCE,AU-CW-CCE-RURAINDURESEDEVE,funds,PBS 2025-26 appropriation,59394000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_001,AU-CW-DEPT-FINANCE,AU-CW-CCE-FISHMANAAUTH,funds,PBS 2025-26 appropriation,58000000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_002,AU-CW-DEPT-FINANCE,AU-CW-CCE-PESTVETEMEDIAUTH,funds,PBS 2025-26 appropriation,54491000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_003,AU-CW-DEPT-FINANCE,AU-CW-CCE-COTTRESEDEVECORP,funds,PBS 2025-26 appropriation,33195000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_005,AU-CW-DEPT-FINANCE,AU-CW-CCE-FISHRESEDEVECORP,funds,PBS 2025-26 appropriation,55242000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_007,AU-CW-DEPT-FINANCE,AU-CW-CCE-REGIINVECORP,funds,PBS 2025-26 appropriation,23353000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_008,AU-CW-DEPT-FINANCE,AU-CW-CCE-WINE,funds,PBS 2025-26 appropriation,51209000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_014,AU-CW-DEPT-FINANCE,AU-CW-CCE-HUMARIGHCOMM,funds,PBS 2025-26 appropriation,41161000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_015,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSTCRIM,funds,PBS 2025-26 appropriation,6935000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_016,AU-CW-DEPT-FINANCE,AU-CW-CCE-ALRC,funds,PBS 2025-26 appropriation,5188000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_021,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIPARLCOUN,funds,PBS 2025-26 appropriation,31321000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_022,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIINFOCOMM,funds,PBS 2025-26 appropriation,40633000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_023,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIOMBU,funds,PBS 2025-26 appropriation,55831000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_025,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIINSPINTESECU,funds,PBS 2025-26 appropriation,19530000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_026,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFISPECINVE,funds,PBS 2025-26 appropriation,47579000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_032,AU-CW-DEPT-FINANCE,AU-CW-CCE-CLIMCHANAUTH,funds,PBS 2025-26 appropriation,14047000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_036,AU-CW-DEPT-FINANCE,AU-CW-CCE-SYDNHARBFEDETRUS,funds,PBS 2025-26 appropriation,22411000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_041,AU-CW-DEPT-FINANCE,AU-CW-CCE-ACARA,funds,PBS 2025-26 appropriation,34708000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_042,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSTTEACSCHOLEAD,funds,PBS 2025-26 appropriation,17806000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_045,AU-CW-DEPT-FINANCE,AU-CW-CCE-TEQSA,funds,PBS 2025-26 appropriation,23579000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_046,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASBESILISAFEERAD,funds,PBS 2025-26 appropriation,6215000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_047,AU-CW-DEPT-FINANCE,AU-CW-CCE-SKILQUALAUTHVOCA,funds,PBS 2025-26 appropriation,58471000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_051,AU-CW-DEPT-FINANCE,AU-CW-CCE-SAFEWORK,funds,PBS 2025-26 appropriation,25493000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_055,AU-CW-DEPT-FINANCE,AU-CW-CCE-DIGITRANAGEN,funds,PBS 2025-26 appropriation,68145000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_057,AU-CW-DEPT-FINANCE,AU-CW-CCE-INDEPARLEXPEAUTH,funds,PBS 2025-26 appropriation,93030000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_058,AU-CW-DEPT-FINANCE,AU-CW-CCE-PARLWORKSUPPSERV,funds,PBS 2025-26 appropriation,26539000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_065,AU-CW-DEPT-FINANCE,AU-CW-CCE-COMMONSAFEQUAL,funds,PBS 2025-26 appropriation,32738000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_068,AU-CW-DEPT-FINANCE,AU-CW-CCE-ORGATISSAUTH,funds,PBS 2025-26 appropriation,60386000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_069,AU-CW-DEPT-FINANCE,AU-CW-CCE-RADIPROTNUCLSAFE,funds,PBS 2025-26 appropriation,40742000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_071,AU-CW-DEPT-FINANCE,AU-CW-CCE-CANC,funds,PBS 2025-26 appropriation,49231000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_072,AU-CW-DEPT-FINANCE,AU-CW-IGF-FSANZ,funds,PBS 2025-26 appropriation,26000000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_073,AU-CW-DEPT-FINANCE,AU-CW-CCE-INDEHEALAGEDCARE,funds,PBS 2025-26 appropriation,78701000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_076,AU-CW-DEPT-FINANCE,AU-CW-CCE-HEALFUNDBODY,funds,PBS 2025-26 appropriation,7032000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_077,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIINSPAGEDCARE,funds,PBS 2025-26 appropriation,6256000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_078,AU-CW-DEPT-FINANCE,AU-CW-CCE-PROFSERVREVI,funds,PBS 2025-26 appropriation,16916000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_079,AU-CW-DEPT-FINANCE,AU-CW-CCE-SPORINTE,funds,PBS 2025-26 appropriation,58212000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_087,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFSPETRSAFEENVI,funds,PBS 2025-26 appropriation,65273000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_088,AU-CW-DEPT-FINANCE,AU-CW-CCE-RECOFUNDCORP,funds,PBS 2025-26 appropriation,50270000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_091,AU-CW-DEPT-FINANCE,AU-CW-CCE-FILMTELERADISCHO,funds,PBS 2025-26 appropriation,38512000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_093,AU-CW-DEPT-FINANCE,AU-CW-CCE-MARIMUSE,funds,PBS 2025-26 appropriation,41438000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_094,AU-CW-DEPT-FINANCE,AU-CW-CCE-TRANSAFEBURE,funds,PBS 2025-26 appropriation,64500000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_097,AU-CW-DEPT-FINANCE,AU-CW-CCE-HIGHSPEERAILAUTH,funds,PBS 2025-26 appropriation,8220000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_098,AU-CW-DEPT-FINANCE,AU-CW-CCE-INFR,funds,PBS 2025-26 appropriation,13853000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_100,AU-CW-DEPT-FINANCE,AU-CW-CCE-CAPIAUTH,funds,PBS 2025-26 appropriation,67270000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_101,AU-CW-DEPT-FINANCE,AU-CW-CCE-FILMSOUNARCH,funds,PBS 2025-26 appropriation,51286000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_104,AU-CW-DEPT-FINANCE,AU-CW-CCE-MUSE,funds,PBS 2025-26 appropriation,68122000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_105,AU-CW-DEPT-FINANCE,AU-CW-CCE-PORTGALL,funds,PBS 2025-26 appropriation,23837000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_106,AU-CW-DEPT-FINANCE,AU-CW-IGF-NTC,funds,PBS 2025-26 appropriation,18697000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_107,AU-CW-DEPT-FINANCE,AU-CW-CCE-NORTINFRFACI,funds,PBS 2025-26 appropriation,24527000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_108,AU-CW-DEPT-FINANCE,AU-CW-CCE-OLDPARLHOUS,funds,PBS 2025-26 appropriation,29579000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_109,AU-CW-DEPT-FINANCE,AU-CW-CCE-SCRE,funds,PBS 2025-26 appropriation,93880000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_112,AU-CW-DEPT-FINANCE,AU-CW-CCE-HOUSREPR,funds,PBS 2025-26 appropriation,32756000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_113,AU-CW-DEPT-FINANCE,AU-CW-DEPT-PARL-CLERK,funds,PBS 2025-26 appropriation,32021000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_114,AU-CW-DEPT-FINANCE,AU-CW-DEPT-PARL-BUDGET,funds,PBS 2025-26 appropriation,10344000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_115,AU-CW-DEPT-FINANCE,AU-CW-CCE-ABORHOSTLIMI,funds,PBS 2025-26 appropriation,88058000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_116,AU-CW-DEPT-FINANCE,AU-CW-CCE-AIATSIS,funds,PBS 2025-26 appropriation,33648000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_118,AU-CW-DEPT-FINANCE,AU-CW-CCE-PUBLSERVCOMM,funds,PBS 2025-26 appropriation,86075000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_121,AU-CW-DEPT-FINANCE,AU-CW-CCE-INDILANDSEACORP,funds,PBS 2025-26 appropriation,99198000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_123,AU-CW-DEPT-FINANCE,AU-CW-CCE-NETZEROECONAUTH,funds,PBS 2025-26 appropriation,75632000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_125,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIOFFISECRTO,funds,PBS 2025-26 appropriation,21472000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_126,AU-CW-DEPT-FINANCE,AU-CW-CCE-TORRSTRAREGIAUTH,funds,PBS 2025-26 appropriation,64334000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_127,AU-CW-DEPT-FINANCE,AU-CW-CCE-WORKGENDEQUAAGEN,funds,PBS 2025-26 appropriation,11630000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_128,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSTFAMISTUD,funds,PBS 2025-26 appropriation,25403000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_130,AU-CW-DEPT-FINANCE,AU-CW-CCE-DOMEFAMISEXUVIOL,funds,PBS 2025-26 appropriation,5778000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_131,AU-CW-DEPT-FINANCE,AU-CW-CCE-COMMABORTORRSTRA,funds,PBS 2025-26 appropriation,3154000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_141,AU-CW-DEPT-FINANCE,AU-CW-CCE-GRANCOMM,funds,PBS 2025-26 appropriation,8733000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_144,AU-CW-DEPT-FINANCE,AU-CW-CCE-INSPTAXA,funds,PBS 2025-26 appropriation,7296000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_145,AU-CW-DEPT-FINANCE,AU-CW-CCE-COMPCOUN,funds,PBS 2025-26 appropriation,1805000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_146,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIAUDIASSUSTAN,funds,PBS 2025-26 appropriation,3754000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_147,AU-CW-DEPT-FINANCE,AU-CW-CCE-OFFIACCOSTANBOAR,funds,PBS 2025-26 appropriation,8064000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_148,AU-CW-DEPT-FINANCE,AU-CW-CCE-PRODCOMM,funds,PBS 2025-26 appropriation,39456000,2025-26,,HIGH,PBS 2025-26 appropriation
+pbs_150,AU-CW-DEPT-FINANCE,AU-CW-CCE-WARMEMO,funds,PBS 2025-26 appropriation,73557000,2025-26,,HIGH,PBS 2025-26 appropriation
+igf_natcab_nsw,AU-CW-IGF-NATCAB,AU-NSW-DEPT-TREASURY,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_vic,AU-CW-IGF-NATCAB,AU-VIC-STAT-DOTAF,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_qld,AU-CW-IGF-NATCAB,AU-QLD-DEPT-TREASURY,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_sa,AU-CW-IGF-NATCAB,AU-SA-DEPT-DTF,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_wa,AU-CW-IGF-NATCAB,AU-WA-DEPT-TREASURY,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_tas,AU-CW-IGF-NATCAB,AU-TAS-STAT-DOTAF,member_of,National Cabinet member,,,,MEDIUM,National Cabinet member
+igf_natcab_cw,AU-CW-DEPT-FINANCE,AU-CW-IGF-NATCAB,parent_of,Chairs National Cabinet,,,,MEDIUM,Chairs National Cabinet
+igf_cgc_treasury,AU-CW-DEPT-TREASURY,AU-CW-CCE-GRANCOMM,parent_of,Portfolio oversight,,,,MEDIUM,Portfolio oversight
+igf_cffr,AU-CW-DEPT-FINANCE,AU-CW-IGF-CFFR,member_of,Council member,,,,MEDIUM,Council member
+nntt_ags,AU-CW-DEPT-AGS,AU-CW-CCE-NNTT,parent_of,Portfolio,,,,MEDIUM,Portfolio
+nntt_funds,AU-CW-DEPT-FINANCE,AU-CW-CCE-NNTT,funds,Appropriation,45000000,2025-26,,HIGH,Appropriation
+niaa_pmc,AU-CW-DEPT-PMC,AU-CW-CCE-NIAA,parent_of,Portfolio,,,,MEDIUM,Portfolio
+aiatsis_ags,AU-CW-DEPT-AGS,AU-CW-CCE-AIATSIS,parent_of,Portfolio,,,,MEDIUM,Portfolio
+CC-GG-FEC,AU-CW-CONST-GG,AU-CW-CONST-FEC,member_of,chairs,,,Australian Constitution s.62,HIGH,GG chairs Federal Executive Council
+CC-GG-OOSGG,AU-CW-CONST-GG,AU-CW-CCE-OFFIOFFISECRTO,parent_of,supported by,,,Governor-General Act 1974,HIGH,Official Secretary supports the GG
+CC-FEC-PMC,AU-CW-CONST-FEC,AU-CW-DEPT-PMC,overlaps_with,secretariat,,,Australian Constitution s.62,HIGH,PM&C provides ExCo secretariat
+HI-PT-AGRIC-RALIANEG,AU-CW-DEPT-AGRIC,AU-FI-K-AUSTRALIANEG,has_interest_in,statutory contract,,2025-26,"Declared Recipient Bodies) Instrument 2024, item 2 of the table in subsection 5(2); Primary Industries Levies and Charges Disbursement (Egg Industry Body) Declaration 2024.",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-RALIANLI,AU-CW-DEPT-AGRIC,AU-FI-K-AUSTRALIANLI,has_interest_in,statutory contract,,2025-26,Company under the Corporations Act 2001. Declared to be a recipient body for levy and matching payments under s 39 of the Primary Industries Levies and Charges Disbursement Act 2024.,HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-RALIANME,AU-CW-DEPT-AGRIC,AU-FI-K-AUSTRALIANME,has_interest_in,statutory contract,,2025-26,Company under the Corporations Act 2001. Declared to be a recipient body for levy and matching payments under s 39(1) of the Primary Industries Levies and Charges Disbursement Act 2024 ; Primary Industries Levies and Charges Disbursement (List of Declared,HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-RALIANPO,AU-CW-DEPT-AGRIC,AU-FI-K-AUSTRALIANPO,has_interest_in,statutory contract,,2025-26,"Pig Industry Act 2001, s11(1)",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-RALIANWO,AU-CW-DEPT-AGRIC,AU-FI-K-AUSTRALIANWO,has_interest_in,statutory contract,,2025-26,Company under the Corporations Act 2001. Declared to be a recipient body for levy and matching payments under s 39(1) of the Primary Industries Levies and Charges Disbursement Act 2024; Primary Industries Levies and Charges Disbursement (List of Declared,HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-YAUSTRAL,AU-CW-DEPT-AGRIC,AU-FI-K-DAIRYAUSTRAL,has_interest_in,statutory contract,,2025-26,"Primary Industries Levies and Charges Disbursement Act 2024, subsection 39(1); Primary Industries Levies and Charges Disbursement (List of Declared Recipient Bodies) Instrument 2024, item 1 of the table in subsection 5(2); Primary Industries Levies and Ch",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-STANDWOO,AU-CW-DEPT-AGRIC,AU-FI-K-FORESTANDWOO,has_interest_in,statutory contract,,2025-26,"Primary Industries Levies and Charges Disbursement Act 2024, subsection 39(1); Primary Industries Levies and Charges Disbursement (List of Declared Recipient Bodies) Instrument 2024, item 3 of the table in subsection 5(2); Primary Industries Levies and Ch",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-ICULTURE,AU-CW-DEPT-AGRIC,AU-FI-K-HORTICULTURE,has_interest_in,statutory contract,,2025-26,"Primary Industries Levies and Charges Disbursement Act 2024, subsection 39(1); Primary Industries Levies and Charges Disbursement (List of Declared Recipient Bodies) Instrument 2024, item 4 of the table in subsection 5(2); Primary Industries Levies and Ch",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-ANDLIVES,AU-CW-DEPT-AGRIC,AU-FI-K-MEATANDLIVES,has_interest_in,statutory contract,,2025-26,"Primary Industries Levies and Charges Disbursement Act 2024, subsection 39(1); Primary Industries Levies and Charges Disbursement (List of Declared Recipient Bodies) Instrument 2024, item 6 of the table in subsection 5(2); Primary Industries Levies and Ch",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-PT-AGRIC-RRESEARC,AU-CW-DEPT-AGRIC,AU-FI-K-SUGARRESEARC,has_interest_in,statutory contract,,2025-26,"Sugar Research and Development Services Act 2013, s9(1) Primary Industries Levies and Charges Disbursement Act 2024, subsection 39(1); Primary Industries Levies and Charges Disbursement (List of Declared Recipient Bodies) Instrument 2024, item 9 of the t",HIGH,"AGOR Type K: Department of Agriculture, Fisheries and Forestry"
+HI-EAFFAIRS-TIONSECU,AU-CW-DEPT-HOMEAFFAIRS,AU-FI-K-AVIATIONSECU,has_interest_in,statutory contract,,2025-26,Aviation Transport Security Regulations 2005,HIGH,AGOR Type K: Department of Home Affairs
+HI-EAFFAIRS-TIMESECU,AU-CW-DEPT-HOMEAFFAIRS,AU-FI-K-MARITIMESECU,has_interest_in,statutory contract,,2025-26,Maritime Transport and Offshore Facilities Security Regulations 2003,HIGH,AGOR Type K: Department of Home Affairs
+HI-INDUSTRY-STRYCAPA,AU-CW-DEPT-INDUSTRY,AU-FI-K-INDUSTRYCAPA,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Industry, Science and Resources"
+HI-INDUSTRY-ONALRAIL,AU-CW-DEPT-INDUSTRY,AU-FI-K-NATIONALRAIL,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Industry, Science and Resources"
+HI-PT-INFRA-RALIANCO,AU-CW-DEPT-INFRA,AU-FI-K-AUSTRALIANCO,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-UNITYBRO,AU-CW-DEPT-INFRA,AU-FI-K-COMMUNITYBRO,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-INDUSTRY,AU-CW-DEPT-INFRA,AU-FI-K-RAILINDUSTRY,has_interest_in,statutory contract,,2025-26,N/A,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWCENTRA,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWCENTRA,has_interest_in,statutory contract,,2025-26,Funding agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWFARWES,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWFARWES,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWHUNTER,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWHUNTER,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWILLAWA,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWILLAWA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWMIDNOR,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWMIDNOR,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWMURRAY,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWMURRAY,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWNORTHE,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWNORTHE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-NSWORANA,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWORANA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWRIVERI,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWRIVERI,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWSOUTHE,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWSOUTHE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-SWSYDNEY,AU-CW-DEPT-INFRA,AU-FI-K-RDANSWSYDNEY,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-TNORTHER,AU-CW-DEPT-INFRA,AU-FI-K-RDANTNORTHER,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDBRISBA,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDBRISBA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDDARLIN,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDDARLIN,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDTROPIC,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDTROPIC,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDCENTRA,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDCENTRA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDGOLDCO,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDGOLDCO,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDIPSWIC,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDIPSWIC,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDLOGANR,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDLOGANR,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-ORTBUILD,AU-CW-DEPT-INFRA,AU-FI-K-AIRPORTBUILD,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AADELAID,AU-CW-DEPT-INFRA,AU-FI-K-RDASAADELAID,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-ASTASMAN,AU-CW-DEPT-INFRA,AU-FI-K-RDATASTASMAN,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AGOLDFIE,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAGOLDFIE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AGREATSO,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAGREATSO,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AKIMBERL,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAKIMBERL,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AMIDWEST,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAMIDWEST,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-DAWAPEEL,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAPEEL,has_interest_in,statutory contract,,2025-26,,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AWAPERTH,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAPERTH,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-APILBARA,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAPILBARA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-ASOUTHWE,AU-CW-DEPT-INFRA,AU-FI-K-RDAWASOUTHWE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-AWHEATBE,AU-CW-DEPT-INFRA,AU-FI-K-RDAWAWHEATBE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-ORTENVIR,AU-CW-DEPT-INFRA,AU-FI-K-AIRPORTENVIR,has_interest_in,statutory contract,,2025-26,Airports Act 1996,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-RALIANCH,AU-CW-DEPT-INFRA,AU-FI-K-AUSTRALIANCH,has_interest_in,statutory contract,,2025-26,"Body established by the Corporations Act 2001, Company constitution or through a Trust Deed; and Victoria Companies Act 1961, Memorandum and Articles of Association of the Australian Children's Television Foundation",HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDGREATE,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDGREATE,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDMORETO,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDMORETO,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDTOWNSV,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDTOWNSV,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-PT-INFRA-LDWIDEBA,AU-CW-DEPT-INFRA,AU-FI-K-RDAQLDWIDEBA,has_interest_in,statutory contract,,2025-26,Funding Agreement,HIGH,"AGOR Type K: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+HI-DSEACORP-WNERSSTR,AU-CW-CCE-INDILANDSEACORP,AU-FI-K-THEOWNERSSTR,has_interest_in,statutory contract,,2025-26,,HIGH,AGOR Type K: Indigenous Land and Sea Corporation
+HI-TREASURY-RALIANHO,AU-CW-DEPT-TREASURY,AU-FI-K-AUSTRALIANHO,has_interest_in,statutory contract,,2025-26,,HIGH,AGOR Type K: Department of the Treasury
+HI-TREASURY-RALIANSM,AU-CW-DEPT-TREASURY,AU-FI-K-AUSTRALIANSM,has_interest_in,statutory contract,,2025-26,,HIGH,AGOR Type K: Department of the Treasury
+HI-WHYDRLTD-YHYDROTR,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-SNOWYHYDROTR,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-NERGYPTY,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-REDENERGYPTY,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-OBEVALLE,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LATROBEVALLE,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-EYPOWERP,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-VALLEYPOWERP,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ACTPEAKE,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-CONTACTPEAKE,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ENERGYAU,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOENERGYAU,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ENERGYNS,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOENERGYNS,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ENERGYQL,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOENERGYQL,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ENERGYSA,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOENERGYSA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ENERGYTE,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOENERGYTE,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-GENERATI,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-LUMOGENERATI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-GYPTYLTD,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-EMAGYPTYLTD,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ARTNERSP,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-TFIPARTNERSP,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-CTCONNEC,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-DIRECTCONNEC,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI-WHYDRLTD-ECTIONME,AU-CW-CCE-SNOWHYDRLTD,AU-FI-M-CONNECTIONME,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Snowy Hydro Ltd
+HI--AUSPOST-RALIAPOS,AU-CW-GBE-AUSPOST,AU-FI-M-AUSTRALIAPOS,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI-MARIMUSE-RALIANNA,AU-CW-CCE-MARIMUSE,AU-FI-M-AUSTRALIANNA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian National Maritime Museum
+HI--CCE-ABC-EWSCHANN,AU-CW-CCE-ABC,AU-FI-M-THENEWSCHANN,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Broadcasting Corporation
+HI--CCE-ABC-USTRALIA,AU-CW-CCE-ABC,AU-FI-M-ABCAUSTRALIA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Broadcasting Corporation
+HI--AUSPOST-OBALLOGI,AU-CW-GBE-AUSPOST,AU-FI-M-APGLOBALLOGI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-LOGISTIC,AU-CW-GBE-AUSPOST,AU-FI-M-POSTLOGISTIC,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-81623403,AU-CW-GBE-AUSPOST,AU-FI-M-ACN081623403,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-TRACKEXP,AU-CW-GBE-AUSPOST,AU-FI-M-STARTRACKEXP,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-TRACKRET,AU-CW-GBE-AUSPOST,AU-FI-M-STARTRACKRET,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-OBALHOLD,AU-CW-GBE-AUSPOST,AU-FI-M-APGLOBALHOLD,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-TERNATIO,AU-CW-GBE-AUSPOST,AU-FI-M-APINTERNATIO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-TACCELER,AU-CW-GBE-AUSPOST,AU-FI-M-APOSTACCELER,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-TINNOVAT,AU-CW-GBE-AUSPOST,AU-FI-M-APOSTINNOVAT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-RALIANEX,AU-CW-GBE-AUSPOST,AU-FI-M-AUSTRALIANEX,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-NVESTMEN,AU-CW-GBE-AUSPOST,AU-FI-M-AUXINVESTMEN,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI--AUSPOST-PHAPTYLT,AU-CW-GBE-AUSPOST,AU-FI-M-DECIPHAPTYLT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Postal Corporation
+HI-SINGAUST-NVESTMEN,AU-CW-GBE-DEFHOUSINGAUST,AU-FI-M-DHAINVESTMEN,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Defence Housing Australia
+HI-CCE-UNIV-NTERNATI,AU-CW-CCE-UNIV,AU-FI-M-ANUINTERNATI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian National University
+HI-CCE-UNIV-KFOUNDAT,AU-CW-CCE-UNIV,AU-FI-M-ANUUKFOUNDAT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian National University
+HI-CCE-UNIV-NTERPRIS,AU-CW-CCE-UNIV,AU-FI-M-ANUENTERPRIS,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian National University
+HI-CCE-CEFC-INVESTME,AU-CW-CCE-CEFC,AU-FI-M-CEFCINVESTME,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Clean Energy Finance Corporation
+HI-SCPTYLTD-WDSHIPBU,AU-CW-CCE-ASCPTYLTD,AU-FI-M-ASCAWDSHIPBU,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of ASC Pty Ltd
+HI-SCPTYLTD-ODULESPT,AU-CW-CCE-ASCPTYLTD,AU-FI-M-ASCMODULESPT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of ASC Pty Ltd
+HI-SCPTYLTD-BLUETECH,AU-CW-CCE-ASCPTYLTD,AU-FI-M-DEEPBLUETECH,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of ASC Pty Ltd
+HI-SCPTYLTD-PVSHIPBU,AU-CW-CCE-ASCPTYLTD,AU-FI-M-ASCOPVSHIPBU,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of ASC Pty Ltd
+HI-FEDETRUS-EYHARBOU,AU-CW-CCE-SYDNHARBFEDETRUS,AU-FI-M-SYDNEYHARBOU,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Sydney Harbour Federation Trust
+HI-CE-CSIRO-ACINCSIR,AU-CW-CCE-CSIRO,AU-FI-M-FUNDACINCSIR,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-ONALICTA,AU-CW-CCE-CSIRO,AU-FI-M-NATIONALICTA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-OFINANCI,AU-CW-CCE-CSIRO,AU-FI-M-CSIROFINANCI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-OCUSTODI,AU-CW-CCE-CSIRO,AU-FI-M-CSIROCUSTODI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-ROUSALLC,AU-CW-CCE-CSIRO,AU-FI-M-CSIROUSALLC,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-OINNOVAT,AU-CW-CCE-CSIRO,AU-FI-M-CSIROINNOVAT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-AIPRPTYL,AU-CW-CCE-CSIRO,AU-FI-M-NICTAIPRPTYL,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-CE-CSIRO-OFUNDOFF,AU-CW-CCE-CSIRO,AU-FI-M-CSIROFUNDOFF,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Commonwealth Scientific and Industrial Research Organisation
+HI-TECHORGA-ECHSOLUT,AU-CW-CCE-NUCLSCIETECHORGA,AU-FI-M-PETTECHSOLUT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Nuclear Science and Technology Organisation
+HI-CORPLIMI-NDRAILPT,AU-CW-CCE-RAILTRACCORPLIMI,AU-FI-M-INLANDRAILPT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Australian Rail Track Corporation Limited
+HI-CORPLIMI-RIDGEWAR,AU-CW-CCE-INTECORPLIMI,AU-FI-M-BEVERIDGEWAR,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-RUSTEEFO,AU-CW-CCE-INTECORPLIMI,AU-FI-M-THETRUSTEEFO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-ORIANINT,AU-CW-CCE-INTECORPLIMI,AU-FI-M-VICTORIANINT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-RIDGEPRO,AU-CW-CCE-INTECORPLIMI,AU-FI-M-BEVERIDGEPRO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-RIDGETER,AU-CW-CCE-INTECORPLIMI,AU-FI-M-BEVERIDGETER,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-EBANKINT,AU-CW-CCE-INTECORPLIMI,AU-FI-M-MOOREBANKINT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-CORPLIMI-EBANKPRE,AU-CW-CCE-INTECORPLIMI,AU-FI-M-MOOREBANKPRE,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of National Intermodal Corporation Limited
+HI-INDIBUSI-INHOTELP,AU-CW-CCE-INDIBUSI,AU-FI-M-DARWINHOTELP,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ANTCREEK,AU-CW-CCE-INDIBUSI,AU-FI-M-TENNANTCREEK,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-OMINEEST,AU-CW-CCE-INDIBUSI,AU-FI-M-CDCNOMINEEST,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-INHOTELH,AU-CW-CCE-INDIBUSI,AU-FI-M-DARWINHOTELH,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-LENTERPR,AU-CW-CCE-INDIBUSI,AU-FI-M-HOTELENTERPR,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-SSETMANA,AU-CW-CCE-INDIBUSI,AU-FI-M-IBAASSETMANA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ROPERTYI,AU-CW-CCE-INDIBUSI,AU-FI-M-IBAPROPERTYI,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ETAILASS,AU-CW-CCE-INDIBUSI,AU-FI-M-IBARETAILASS,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-AWILPENA,AU-CW-CCE-INDIBUSI,AU-FI-M-IKARAWILPENA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-DUTOURIS,AU-CW-CCE-INDIBUSI,AU-FI-M-KAKADUTOURIS,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-UKAIABOR,AU-CW-CCE-INDIBUSI,AU-FI-M-TJAPUKAIABOR,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ENAPOUND,AU-CW-CCE-INDIBUSI,AU-FI-M-WILPENAPOUND,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ORTHAMSO,AU-CW-CCE-INDIBUSI,AU-FI-M-IBANORTHAMSO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-RUSTEEFO,AU-CW-CCE-INDIBUSI,AU-FI-M-THETRUSTEEFO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-INDIBUSI-ILPENASO,AU-CW-CCE-INDIBUSI,AU-FI-M-IBAWILPENASO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Business Australia
+HI-DSEACORP-ONALCENT,AU-CW-CCE-INDILANDSEACORP,AU-FI-M-NATIONALCENT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Land and Sea Corporation
+HI-DSEACORP-ARYPARTN,AU-CW-CCE-INDILANDSEACORP,AU-FI-M-PRIMARYPARTN,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Land and Sea Corporation
+HI-DSEACORP-GESINDIG,AU-CW-CCE-INDILANDSEACORP,AU-FI-M-VOYAGESINDIG,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Indigenous Land and Sea Corporation
+HI--CCE-RBA-PRINTING,AU-CW-CCE-RBA,AU-FI-M-NOTEPRINTING,has_interest_in,subsidiary,,,,HIGH,AGOR Type M: subsidiary of Reserve Bank of Australia
+HI--FUTFUND--FUTFUND,AU-CW-CCE-FFMA,AU-FI-L-FUTFUND,has_interest_in,investment portfolio,,,,HIGH,229 investment holdings in AGOR Type L
+HI-DEPT-AGS--DEPTAGS,AU-CW-DEPT-AGS,AU-FI-L-DEPTAGS,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI--AUSPOST--AUSPOST,AU-CW-GBE-AUSPOST,AU-FI-L-AUSPOST,has_interest_in,investment portfolio,,,,HIGH,4 investment holdings in AGOR Type L
+HI--CCE-ABC-L-CCEABC,AU-CW-CCE-ABC,AU-FI-L-CCEABC,has_interest_in,investment portfolio,,,,HIGH,3 investment holdings in AGOR Type L
+HI-CCE-GALL--CCEGALL,AU-CW-CCE-GALL,AU-FI-L-CCEGALL,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI-SINGAUST-SINGAUST,AU-CW-GBE-DEFHOUSINGAUST,AU-FI-L-SINGAUST,has_interest_in,investment portfolio,,,,HIGH,3 investment holdings in AGOR Type L
+HI--DEFENCE--DEFENCE,AU-CW-DEPT-DEFENCE,AU-FI-L-DEFENCE,has_interest_in,investment portfolio,,,,HIGH,2 investment holdings in AGOR Type L
+HI-PT-AGRIC--PTAGRIC,AU-CW-DEPT-AGRIC,AU-FI-L-PTAGRIC,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI-CCE-UNIV--CCEUNIV,AU-CW-CCE-UNIV,AU-FI-L-CCEUNIV,has_interest_in,investment portfolio,,,,HIGH,2 investment holdings in AGOR Type L
+HI--FINANCE--FINANCE,AU-CW-DEPT-FINANCE,AU-FI-L-FINANCE,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI-FEDETRUS-FEDETRUS,AU-CW-CCE-SYDNHARBFEDETRUS,AU-FI-L-FEDETRUS,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI-INDUSTRY-INDUSTRY,AU-CW-DEPT-INDUSTRY,AU-FI-L-INDUSTRY,has_interest_in,investment portfolio,,,,HIGH,1 investment holdings in AGOR Type L
+HI-CE-CSIRO--CECSIRO,AU-CW-CCE-CSIRO,AU-FI-L-CECSIRO,has_interest_in,investment portfolio,,,,HIGH,3 investment holdings in AGOR Type L
+HI-INDIBUSI-INDIBUSI,AU-CW-CCE-INDIBUSI,AU-FI-L-INDIBUSI,has_interest_in,investment portfolio,,,,HIGH,11 investment holdings in AGOR Type L
+HI-T-SOCSVC--TSOCSVC,AU-CW-DEPT-SOCSVC,AU-FI-L-TSOCSVC,has_interest_in,investment portfolio,,,,HIGH,2 investment holdings in AGOR Type L
+HI-CE-CSIRO-RALIANSC,AU-CW-CCE-CSIRO,AU-FI-M-AUSTRALIANSC,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-BURESTAT-OCIALRES,AU-CW-CCE-BURESTAT,AU-FI-M-THESOCIALRES,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-CCE-GALL-ONALGALL,AU-CW-CCE-GALL,AU-FI-M-NATIONALGALL,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-DEVECORP-NSAUSTRA,AU-CW-CCE-GRAIRESEDEVECORP,AU-FI-M-GRAINSAUSTRA,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-PORTGALL-ONALPORT,AU-CW-CCE-PORTGALL,AU-FI-M-NATIONALPORT,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-CE-CSIRO-OFOLLOWO,AU-CW-CCE-CSIRO,AU-FI-M-CSIROFOLLOWO,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-CE-CSIRO-OGENERAL,AU-CW-CCE-CSIRO,AU-FI-M-CSIROGENERAL,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-CE-CSIRO-OGPFUND2,AU-CW-CCE-CSIRO,AU-FI-M-CSIROGPFUND2,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+HI-CE-CSIRO-SEQUENCE,AU-CW-CCE-CSIRO,AU-FI-M-MAINSEQUENCE,has_interest_in,subsidiary,,,,HIGH,AGOR Type M subsidiary
+g0070,AU-CW-CONST-GG,AU-WA-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0071,AU-CW-CONST-GG,AU-SA-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0072,AU-CW-CONST-GG,AU-NSW-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0073,AU-CW-CONST-GG,AU-VIC-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0074,AU-CW-CONST-GG,AU-QLD-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0077,AU-CW-CONST-GG,AU-TAS-CONST-GOV,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0078,AU-CW-CONST-GG,AU-NT-CONST-ADMIN,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0079,AU-CW-CONST-GG,AU-ACT-CONST-ADMIN,constitutional_role,Vice-regal hierarchy,,,,HIGH,
+g0080,AU-NSW-CONST-GOV,AU-NSW-DEPT-PREMIER,parent_of,State portfolio,,,,MEDIUM,
+g0081,AU-NSW-CONST-GOV,AU-NSW-DEPT-TREASURY,parent_of,State portfolio,,,,MEDIUM,
+g0082,AU-NSW-CONST-GOV,AU-NSW-STAT-MOH,parent_of,State portfolio,,,,MEDIUM,
+g0083,AU-NSW-CONST-GOV,AU-NSW-DEPT-EDUCATION,parent_of,State portfolio,,,,MEDIUM,
+g0084,AU-NSW-CONST-GOV,AU-NSW-DEPT-TRANSPORT,parent_of,State portfolio,,,,MEDIUM,
+g0085,AU-NSW-CONST-GOV,AU-NSW-DEPT-DCJ,parent_of,State portfolio,,,,MEDIUM,
+g0086,AU-NSW-CONST-GOV,AU-NSW-DEPT-PLANNING,parent_of,State portfolio,,,,MEDIUM,
+g0087,AU-VIC-CONST-GOV,AU-VIC-STAT-DOPAC,parent_of,State portfolio,,,,MEDIUM,
+g0088,AU-VIC-CONST-GOV,AU-VIC-STAT-DOTAF,parent_of,State portfolio,,,,MEDIUM,
+g0089,AU-VIC-CONST-GOV,AU-VIC-STAT-DOH,parent_of,State portfolio,,,,MEDIUM,
+g0090,AU-VIC-CONST-GOV,AU-VIC-STAT-DOE,parent_of,State portfolio,,,,MEDIUM,
+g0091,AU-VIC-CONST-GOV,AU-VIC-STAT-DOTAP,parent_of,State portfolio,,,,MEDIUM,
+g0092,AU-VIC-CONST-GOV,AU-VIC-STAT-DOJSIAR,parent_of,State portfolio,,,,MEDIUM,
+g0093,AU-VIC-CONST-GOV,AU-VIC-STAT-DOJACS,parent_of,State portfolio,,,,MEDIUM,
+g0094,AU-VIC-CONST-GOV,AU-VIC-STAT-DOFFAH,parent_of,State portfolio,,,,MEDIUM,
+g0095,AU-VIC-CONST-GOV,AU-VIC-STAT-DOEEACA,parent_of,State portfolio,,,,MEDIUM,
+g0096,AU-QLD-CONST-GOV,AU-QLD-DEPT-PREMIER,parent_of,State portfolio,,,,MEDIUM,
+g0097,AU-QLD-CONST-GOV,AU-QLD-DEPT-TREASURY,parent_of,State portfolio,,,,MEDIUM,
+g0098,AU-QLD-CONST-GOV,AU-QLD-DEPT-HEALTH,parent_of,State portfolio,,,,MEDIUM,
+g0099,AU-QLD-CONST-GOV,AU-QLD-STAT-DOE,parent_of,State portfolio,,,,MEDIUM,
+g0100,AU-QLD-CONST-GOV,AU-QLD-STAT-DOTAMR,parent_of,State portfolio,,,,MEDIUM,
+g0101,AU-WA-CONST-GOV,AU-WA-DEPT-PREMIER,parent_of,State portfolio,,,,MEDIUM,
+g0102,AU-WA-CONST-GOV,AU-WA-DEPT-TREASURY,parent_of,State portfolio,,,,MEDIUM,
+g0103,AU-WA-CONST-GOV,AU-WA-DEPT-HEALTH,parent_of,State portfolio,,,,MEDIUM,
+g0104,AU-WA-CONST-GOV,AU-WA-STAT-DOEW,parent_of,State portfolio,,,,MEDIUM,
+g0105,AU-WA-CONST-GOV,AU-WA-DEPT-JUSTICE,parent_of,State portfolio,,,,MEDIUM,
+g0106,AU-WA-CONST-GOV,AU-WA-DEPT-COMMUNITIES,parent_of,State portfolio,,,,MEDIUM,
+g0107,AU-SA-CONST-GOV,AU-SA-DEPT-DPC,parent_of,State portfolio,,,,MEDIUM,
+g0108,AU-SA-CONST-GOV,AU-SA-DEPT-DTF,parent_of,State portfolio,,,,MEDIUM,
+g0109,AU-SA-CONST-GOV,AU-SA-DEPT-HEALTH,parent_of,State portfolio,,,,MEDIUM,
+g0110,AU-TAS-CONST-GOV,AU-TAS-STAT-DOPAC,parent_of,State portfolio,,,,MEDIUM,
+g0111,AU-TAS-CONST-GOV,AU-TAS-STAT-DOH,parent_of,State portfolio,,,,MEDIUM,
+g0112,AU-TAS-CONST-GOV,AU-TAS-STAT-DFECAYP,parent_of,State portfolio,,,,MEDIUM,
+g0113,AU-ACT-CONST-ADMIN,AU-ACT-DIR-CMTEDD,parent_of,State portfolio,,,,MEDIUM,
+g0114,AU-ACT-CONST-ADMIN,AU-ACT-DIR-CED,parent_of,State portfolio,,,,MEDIUM,
+g0115,AU-ACT-CONST-ADMIN,AU-ACT-DIR-HEALTH,parent_of,State portfolio,,,,MEDIUM,
+g0116,AU-ACT-CONST-ADMIN,AU-ACT-DIR-EDUCATION,parent_of,State portfolio,,,,MEDIUM,
+g0117,AU-ACT-CONST-ADMIN,AU-ACT-DIR-JACS,parent_of,State portfolio,,,,MEDIUM,
+g0118,AU-ACT-CONST-ADMIN,AU-ACT-OLA,parent_of,State portfolio,,,,MEDIUM,
+g0119,AU-NT-CONST-ADMIN,AU-NT-DEPT-CHIEFMIN,parent_of,State portfolio,,,,MEDIUM,
+g0120,AU-NT-CONST-ADMIN,AU-NT-DEPT-TREASURY,parent_of,State portfolio,,,,MEDIUM,
+g0121,AU-NT-CONST-ADMIN,AU-NT-DEPT-HEALTH,parent_of,State portfolio,,,,MEDIUM,
+g0122,AU-NT-CONST-ADMIN,AU-NT-DEPT-CORRECTIONS,parent_of,State portfolio,,,,MEDIUM,
+g0123,AU-NT-CONST-ADMIN,AU-NT-DEPT-LEGASSEMBLY,parent_of,State portfolio,,,,MEDIUM,
+g0124,AU-NT-CONST-ADMIN,AU-NT-DEPT-POLICE,parent_of,State portfolio,,,,MEDIUM,
+g0125,AU-NT-CONST-ADMIN,AU-NT-DEPT-FIRE,parent_of,State portfolio,,,,MEDIUM,
+g0126,AU-NT-CONST-ADMIN,AU-NT-DEPT-AGFISH,parent_of,State portfolio,,,,MEDIUM,
+g0127,AU-NT-CONST-ADMIN,AU-NT-DEPT-MINING,parent_of,State portfolio,,,,MEDIUM,
+g0128,AU-NT-CONST-ADMIN,AU-NT-GOC-TERRGEN,parent_of,State portfolio,,,,MEDIUM,
+g0129,AU-NT-CONST-ADMIN,AU-NT-DEPT-AGD,parent_of,State portfolio,,,,MEDIUM,
+g0130,AU-NT-CONST-ADMIN,AU-NT-DEPT-TOURISM,parent_of,State portfolio,,,,MEDIUM,
+g0131,AU-NT-CONST-ADMIN,AU-NT-DEPT-HOUSING,parent_of,State portfolio,,,,MEDIUM,
+g0132,AU-NT-CONST-ADMIN,AU-NT-DEPT-LANDS,parent_of,State portfolio,,,,MEDIUM,
+g0133,AU-NT-CONST-ADMIN,AU-NT-DEPT-HOUSING,parent_of,State portfolio,,,,MEDIUM,
+g0134,AU-NT-CONST-ADMIN,AU-NT-DEPT-EDUCATION,parent_of,State portfolio,,,,MEDIUM,
+g0135,AU-NT-CONST-ADMIN,AU-NT-DEPT-TRADE,parent_of,State portfolio,,,,MEDIUM,
+g0136,AU-NT-CONST-ADMIN,AU-NT-DEPT-CHILDREN,parent_of,State portfolio,,,,MEDIUM,
+g0137,AU-NT-CONST-ADMIN,AU-NT-DEPT-PEOPLE,parent_of,State portfolio,,,,MEDIUM,
+g0138,AU-WA-CONST-GOV,AU-WA-PARL-LEGASSEMBLY,parent_of,State portfolio,,,,MEDIUM,
+g0139,AU-WA-CONST-GOV,AU-WA-PARL-LEGCOUNCIL,parent_of,State portfolio,,,,MEDIUM,
+g0140,AU-WA-CONST-GOV,AU-WA-DEPT-ENERGY,parent_of,State portfolio,,,,MEDIUM,
+g0141,AU-WA-CONST-GOV,AU-WA-DEPT-CREATIVE,parent_of,State portfolio,,,,MEDIUM,
+g0142,AU-WA-CONST-GOV,AU-WA-DEPT-PRIMARY,parent_of,State portfolio,,,,MEDIUM,
+g0143,AU-WA-CONST-GOV,AU-WA-DEPT-MINES,parent_of,State portfolio,,,,MEDIUM,
+g0144,AU-WA-CONST-GOV,AU-WA-DEPT-CREATIVE,parent_of,State portfolio,,,,MEDIUM,
+g0145,AU-WA-CONST-GOV,AU-WA-DEPT-FES,parent_of,State portfolio,,,,MEDIUM,
+g0146,AU-WA-CONST-GOV,AU-WA-DEPT-LGIRS,parent_of,State portfolio,,,,MEDIUM,
+g0147,AU-WA-CONST-GOV,AU-WA-DEPT-TRANSPORT,parent_of,State portfolio,,,,MEDIUM,
+g0148,AU-WA-CONST-GOV,AU-WA-DEPT-HOUSING,parent_of,State portfolio,,,,MEDIUM,
+g0149,AU-WA-CONST-GOV,AU-WA-DEPT-LGIRS,parent_of,State portfolio,,,,MEDIUM,
+g0150,AU-SA-CONST-GOV,AU-SA-STAT-DFES,parent_of,State portfolio,,,,MEDIUM,
+g0151,AU-SA-CONST-GOV,AU-SA-DEPT-TRANSPORT,parent_of,State portfolio,,,,MEDIUM,
+g0152,AU-SA-CONST-GOV,AU-SA-DEPT-HUMANSVCS,parent_of,State portfolio,,,,MEDIUM,
+g0153,AU-TAS-CONST-GOV,AU-TAS-STAT-DOTAF,parent_of,State portfolio,,,,MEDIUM,
+g0154,AU-TAS-CONST-GOV,AU-TAS-STAT-DOJ,parent_of,State portfolio,,,,MEDIUM,
+g0155,AU-TAS-CONST-GOV,AU-TAS-STAT-DOSG,parent_of,State portfolio,,,,MEDIUM,
+g0156,AU-SA-CONST-GOV,AU-SA-DEPT-AGD,parent_of,State portfolio,,,,MEDIUM,
+g0157,AU-SA-CONST-GOV,AU-SA-STAT-ADS,parent_of,State portfolio,,,,MEDIUM,
+g0158,AU-SA-CONST-GOV,AU-SA-DEPT-CEIH,parent_of,State portfolio,,,,MEDIUM,
+g0159,AU-SA-CONST-GOV,AU-SA-DEPT-COURTS,parent_of,State portfolio,,,,MEDIUM,
+g0160,AU-SA-CONST-GOV,AU-SA-DEPT-DEFSA,parent_of,State portfolio,,,,MEDIUM,
+g0161,AU-SA-CONST-GOV,AU-SA-DEPT-DCP,parent_of,State portfolio,,,,MEDIUM,
+g0162,AU-SA-CONST-GOV,AU-SA-DEPT-DCS,parent_of,State portfolio,,,,MEDIUM,
+g0163,AU-SA-CONST-GOV,AU-SA-DEPT-ENERGY,parent_of,State portfolio,,,,MEDIUM,
+g0164,AU-SA-CONST-GOV,AU-SA-DEPT-ENVWATER,parent_of,State portfolio,,,,MEDIUM,
+g0165,AU-SA-CONST-GOV,AU-SA-DEPT-HOUSING,parent_of,State portfolio,,,,MEDIUM,
+g0166,AU-SA-CONST-GOV,AU-SA-DEPT-HUMANSVCS,parent_of,State portfolio,,,,MEDIUM,
+g0167,AU-SA-CONST-GOV,AU-SA-DEPT-DPC,parent_of,State portfolio,,,,MEDIUM,
+g0168,AU-SA-CONST-GOV,AU-SA-DEPT-PIRSA,parent_of,State portfolio,,,,MEDIUM,
+g0169,AU-SA-CONST-GOV,AU-SA-DEPT-STATEDEV,parent_of,State portfolio,,,,MEDIUM,
+g0170,AU-SA-CONST-GOV,AU-SA-DEPT-DTF,parent_of,State portfolio,,,,MEDIUM,
+g0171,AU-SA-CONST-GOV,AU-SA-DEPT-PARLIAMENT,parent_of,State portfolio,,,,MEDIUM,
+g0172,AU-SA-CONST-GOV,AU-SA-DEPT-PREVHLTH,parent_of,State portfolio,,,,MEDIUM,
+g0173,AU-SA-CONST-GOV,AU-SA-DEPT-SAPOL,parent_of,State portfolio,,,,MEDIUM,
+g0174,AU-SA-CONST-GOV,AU-SA-DEPT-SAFIRE,parent_of,State portfolio,,,,MEDIUM,
+g0175,AU-SA-CONST-GOV,AU-SA-DEPT-TOURISM,parent_of,State portfolio,,,,MEDIUM,
+g0176,AU-ACT-CONST-ADMIN,AU-ACT-EXEC,parent_of,State portfolio,,,,MEDIUM,
+g0177,AU-ACT-CONST-ADMIN,AU-ACT-DIGITAL,parent_of,State portfolio,,,,MEDIUM,
+g0178,AU-ACT-CONST-ADMIN,AU-ACT-TCO,parent_of,State portfolio,,,,MEDIUM,
+g0179,AU-CW-DEPT-PARL-CLERK,AU-CW-DEPT-PARL-LIBRARY,parent_of,Portfolio body,,,,MEDIUM,
+g0180,AU-CW-DEPT-PARL-DPS,AU-CW-DEPT-PARL-BUDGET,parent_of,Portfolio body,,,,MEDIUM,
+g0181,AU-CW-DEPT-TREASURY,AU-CW-CCE-HOUSINGAUST,parent_of,Portfolio body,,,,MEDIUM,
+g0182,AU-CW-DEPT-PMC,AU-CW-CCE-TGA,parent_of,Portfolio body,,,,MEDIUM,
+g0183,AU-CW-DEPT-PMC,AU-CW-CCE-ACDC,parent_of,Portfolio body,,,,MEDIUM,
+g0184,AU-CW-DEPT-FINANCE,AU-CW-CCE-SERVICESAUST,parent_of,Portfolio body,,,,MEDIUM,
+g0185,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-ASIO,parent_of,Portfolio body,,,,MEDIUM,
+g0186,AU-CW-DEPT-PMC,AU-CW-CCE-AER,parent_of,Portfolio body,,,,MEDIUM,
+g0187,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASCPTYLTD,parent_of,Portfolio body,,,,MEDIUM,
+g0188,AU-CW-DEPT-DEFENCE,AU-CW-CCE-DEFEVETESERVCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0189,AU-CW-DEPT-SOCSVC,AU-CW-CCE-COMMABORTORRSTRA,parent_of,Portfolio body,,,,MEDIUM,
+g0190,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-NETZEROECONAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0191,AU-CW-DEPT-AGS,AU-CW-CCE-ADMIREVITRIB,parent_of,Portfolio body,,,,MEDIUM,
+g0192,AU-CW-DEPT-HEALTH,AU-CW-CCE-OFFIINSPAGEDCARE,parent_of,Portfolio body,,,,MEDIUM,
+g0193,AU-CW-DEPT-FINANCE,AU-CW-CCE-PARLWORKSUPPSERV,parent_of,Portfolio body,,,,MEDIUM,
+g0194,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-RECOFUNDCORP,parent_of,Portfolio body,,,,MEDIUM,
+g0195,AU-CW-DEPT-DEFENCE,AU-CW-CCE-SUBMAGEN,parent_of,Portfolio body,,,,MEDIUM,
+g0196,AU-CW-DEPT-INFRA,AU-CW-CCE-HIGHSPEERAILAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0197,AU-CW-DEPT-EMPLOY,AU-CW-CCE-OFFIFAIRWORKOMBU,parent_of,Portfolio body,,,,MEDIUM,
+g0198,AU-CW-DEPT-PMC,AU-CW-CCE-NORTTERRABORINVE,parent_of,Portfolio body,,,,MEDIUM,
+g0199,AU-CW-DEPT-SOCSVC,AU-CW-CCE-DOMEFAMISEXUVIOL,parent_of,Portfolio body,,,,MEDIUM,
+g0200,AU-CW-DEPT-FINANCE,AU-CW-CCE-NAVAINFRPTYLTD,parent_of,Portfolio body,,,,MEDIUM,
+g0201,AU-CW-DEPT-FINANCE,AU-CW-CCE-INDEPARLEXPEAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0202,AU-CW-DEPT-DEFENCE,AU-CW-CCE-WARMEMO,parent_of,Portfolio body,,,,MEDIUM,
+g0203,AU-CW-DEPT-TREASURY,AU-CW-CCE-ROYAMINT,parent_of,Portfolio body,,,,MEDIUM,
+g0204,AU-CW-DEPT-TREASURY,AU-CW-CCE-PRODCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0205,AU-CW-DEPT-TREASURY,AU-CW-CCE-OFFIACCOSTANBOAR,parent_of,Portfolio body,,,,MEDIUM,
+g0206,AU-CW-DEPT-TREASURY,AU-CW-CCE-OFFIAUDIASSUSTAN,parent_of,Portfolio body,,,,MEDIUM,
+g0207,AU-CW-DEPT-TREASURY,AU-CW-CCE-COMPCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0208,AU-CW-DEPT-TREASURY,AU-CW-CCE-INSPTAXA,parent_of,Portfolio body,,,,MEDIUM,
+g0209,AU-CW-DEPT-TREASURY,AU-CW-CCE-REINPOOLCORP,parent_of,Portfolio body,,,,MEDIUM,
+g0210,AU-CW-DEPT-TREASURY,AU-CW-CCE-OFFIFINAMANA,parent_of,Portfolio body,,,,MEDIUM,
+g0211,AU-CW-DEPT-TREASURY,AU-CW-CCE-BURESTAT,parent_of,Portfolio body,,,,MEDIUM,
+g0212,AU-CW-DEPT-SOCSVC,AU-CW-CCE-INSTFAMISTUD,parent_of,Portfolio body,,,,MEDIUM,
+g0213,AU-CW-DEPT-PMC,AU-CW-CCE-WRECBAYABORCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0214,AU-CW-DEPT-PMC,AU-CW-CCE-TORRSTRAREGIAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0215,AU-CW-DEPT-PMC,AU-CW-CCE-TIWILANDCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0216,AU-CW-DEPT-PMC,AU-CW-CCE-OUTBSTORPTYLTD,parent_of,Portfolio body,,,,MEDIUM,
+g0217,AU-CW-DEPT-PMC,AU-CW-CCE-OFFIOFFISECRTO,parent_of,Portfolio body,,,,MEDIUM,
+g0218,AU-CW-DEPT-AGS,AU-CW-CCE-OFFIINSPINTESECU,parent_of,Portfolio body,,,,MEDIUM,
+g0219,AU-CW-DEPT-AGS,AU-CW-CCE-OFFIOMBU,parent_of,Portfolio body,,,,MEDIUM,
+g0220,AU-CW-DEPT-PMC,AU-CW-CCE-OFFIINTE,parent_of,Portfolio body,,,,MEDIUM,
+g0221,AU-CW-DEPT-PMC,AU-CW-CCE-NORTLANDCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0222,AU-CW-DEPT-PMC,AU-CW-CCE-DAYCOUNLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0223,AU-CW-DEPT-PMC,AU-CW-CCE-INDILANDSEACORP,parent_of,Portfolio body,,,,MEDIUM,
+g0224,AU-CW-DEPT-PMC,AU-CW-CCE-INDIBUSI,parent_of,Portfolio body,,,,MEDIUM,
+g0225,AU-CW-DEPT-FINANCE,AU-CW-CCE-DIGITRANAGEN,parent_of,Portfolio body,,,,MEDIUM,
+g0226,AU-CW-DEPT-PMC,AU-CW-CCE-CENTLANDCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0227,AU-CW-DEPT-PMC,AU-CW-CCE-PUBLSERVCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0228,AU-CW-DEPT-PMC,AU-CW-CCE-AUDIOFFI,parent_of,Portfolio body,,,,MEDIUM,
+g0229,AU-CW-DEPT-PMC,AU-CW-CCE-ANINLANDCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0230,AU-CW-DEPT-PMC,AU-CW-CCE-ABORHOSTLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0231,AU-CW-DEPT-INFRA,AU-CW-CCE-CAPIAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0232,AU-CW-DEPT-INFRA,AU-CW-CCE-INTECORPLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0233,AU-CW-DEPT-INFRA,AU-CW-CCE-INFR,parent_of,Portfolio body,,,,MEDIUM,
+g0234,AU-CW-DEPT-INFRA,AU-CW-CCE-CIVIAVIASAFEAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0235,AU-CW-DEPT-INFRA,AU-CW-CCE-TRANSAFEBURE,parent_of,Portfolio body,,,,MEDIUM,
+g0236,AU-CW-DEPT-INFRA,AU-CW-CCE-RAILTRACCORPLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0237,AU-CW-DEPT-INFRA,AU-CW-CCE-MARISAFEAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0238,AU-CW-DEPT-INFRA,AU-CW-CCE-AIRS,parent_of,Portfolio body,,,,MEDIUM,
+g0239,AU-CW-DEPT-INFRA,AU-CW-CCE-NORTINFRFACI,parent_of,Portfolio body,,,,MEDIUM,
+g0240,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-OFFSPETRSAFEENVI,parent_of,Portfolio body,,,,MEDIUM,
+g0241,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-IP,parent_of,Portfolio body,,,,MEDIUM,
+g0242,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-GEOS,parent_of,Portfolio body,,,,MEDIUM,
+g0243,AU-CW-DEPT-INDUSTRY,AU-CW-CCE-NUCLSCIETECHORGA,parent_of,Portfolio body,,,,MEDIUM,
+g0244,AU-CW-DEPT-HEALTH,AU-CW-CCE-HEARSERVHEAR,parent_of,Portfolio body,,,,MEDIUM,
+g0245,AU-CW-DEPT-HEALTH,AU-CW-CCE-PROFSERVREVI,parent_of,Portfolio body,,,,MEDIUM,
+g0246,AU-CW-DEPT-HEALTH,AU-CW-CCE-HEALFUNDBODY,parent_of,Portfolio body,,,,MEDIUM,
+g0247,AU-CW-DEPT-HEALTH,AU-CW-CCE-HEALMEDIRESECOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0248,AU-CW-DEPT-HEALTH,AU-CW-CCE-BLOOAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0249,AU-CW-DEPT-HEALTH,AU-CW-CCE-INDEHEALAGEDCARE,parent_of,Portfolio body,,,,MEDIUM,
+g0250,AU-CW-DEPT-HEALTH,AU-CW-CCE-CANC,parent_of,Portfolio body,,,,MEDIUM,
+g0251,AU-CW-DEPT-INFRA,AU-CW-CCE-SPORFOUNLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0252,AU-CW-DEPT-INFRA,AU-CW-CCE-SPORCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0253,AU-CW-DEPT-HEALTH,AU-CW-CCE-RADIPROTNUCLSAFE,parent_of,Portfolio body,,,,MEDIUM,
+g0254,AU-CW-DEPT-HEALTH,AU-CW-CCE-ORGATISSAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0255,AU-CW-DEPT-HEALTH,AU-CW-CCE-PREVHEALAGEN,parent_of,Portfolio body,,,,MEDIUM,
+g0256,AU-CW-DEPT-HEALTH,AU-CW-CCE-INSTHEALWELF,parent_of,Portfolio body,,,,MEDIUM,
+g0257,AU-CW-DEPT-HEALTH,AU-CW-CCE-DIGIHEALAGEN,parent_of,Portfolio body,,,,MEDIUM,
+g0258,AU-CW-DEPT-HEALTH,AU-CW-CCE-COMMONSAFEQUAL,parent_of,Portfolio body,,,,MEDIUM,
+g0259,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-TOUR,parent_of,Portfolio body,,,,MEDIUM,
+g0260,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-EXPOFINAEFA,parent_of,Portfolio body,,,,MEDIUM,
+g0261,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-TRADINVECOMMAUST,parent_of,Portfolio body,,,,MEDIUM,
+g0262,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-SECRINTESERV,parent_of,Portfolio body,,,,MEDIUM,
+g0263,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-CENTINTEAGRIRESE,parent_of,Portfolio body,,,,MEDIUM,
+g0264,AU-CW-DEPT-FINANCE,AU-CW-CCE-SUPECORP,parent_of,Portfolio body,,,,MEDIUM,
+g0265,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASCPTYLTD,parent_of,Portfolio body,,,,MEDIUM,
+g0266,AU-CW-DEPT-PMC,AU-CW-CCE-WORKGENDEQUAAGEN,parent_of,Portfolio body,,,,MEDIUM,
+g0267,AU-CW-DEPT-EMPLOY,AU-CW-CCE-SEAFSAFEREHACOMP,parent_of,Portfolio body,,,,MEDIUM,
+g0268,AU-CW-DEPT-EMPLOY,AU-CW-CCE-SAFEWORK,parent_of,Portfolio body,,,,MEDIUM,
+g0269,AU-CW-DEPT-EMPLOY,AU-CW-CCE-FAIRWORKCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0270,AU-CW-DEPT-EMPLOY,AU-CW-CCE-COMC,parent_of,Portfolio body,,,,MEDIUM,
+g0271,AU-CW-DEPT-EMPLOY,AU-CW-CCE-COALMINIINDULONG,parent_of,Portfolio body,,,,MEDIUM,
+g0272,AU-CW-DEPT-EMPLOY,AU-CW-CCE-ASBESILISAFEERAD,parent_of,Portfolio body,,,,MEDIUM,
+g0273,AU-CW-DEPT-EMPLOY,AU-CW-CCE-SKILQUALAUTHVOCA,parent_of,Portfolio body,,,,MEDIUM,
+g0274,AU-CW-DEPT-EDUCATION,AU-CW-CCE-RESECOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0275,AU-CW-DEPT-EDUCATION,AU-CW-CCE-UNIV,parent_of,Portfolio body,,,,MEDIUM,
+g0276,AU-CW-DEPT-EDUCATION,AU-CW-CCE-INSTTEACSCHOLEAD,parent_of,Portfolio body,,,,MEDIUM,
+g0277,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ROYANAVYRELITRUS,parent_of,Portfolio body,,,,MEDIUM,
+g0278,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ROYANAVYCENTCANT,parent_of,Portfolio body,,,,MEDIUM,
+g0279,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ROYAAIRFORCWELF,parent_of,Portfolio body,,,,MEDIUM,
+g0280,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ROYAAIRFORCVETE,parent_of,Portfolio body,,,,MEDIUM,
+g0281,AU-CW-DEPT-DEFENCE,AU-CW-CCE-RAAFWELFRECRCOMP,parent_of,Portfolio body,,,,MEDIUM,
+g0282,AU-CW-DEPT-DEFENCE,AU-CW-CCE-STRAPOLIINSTLIMI,parent_of,Portfolio body,,,,MEDIUM,
+g0283,AU-CW-DEPT-DEFENCE,AU-CW-CCE-MILIFORCRELITRUS,parent_of,Portfolio body,,,,MEDIUM,
+g0284,AU-CW-DEPT-DEFENCE,AU-CW-CCE-ARMYAIRFORCCANT,parent_of,Portfolio body,,,,MEDIUM,
+g0285,AU-CW-DEPT-DEFENCE,AU-CW-CCE-AAFCOMPTRUSARMY,parent_of,Portfolio body,,,,MEDIUM,
+g0286,AU-CW-DEPT-INFRA,AU-CW-CCE-SCRE,parent_of,Portfolio body,,,,MEDIUM,
+g0287,AU-CW-DEPT-INFRA,AU-CW-CCE-PORTGALL,parent_of,Portfolio body,,,,MEDIUM,
+g0288,AU-CW-DEPT-INFRA,AU-CW-CCE-MUSE,parent_of,Portfolio body,,,,MEDIUM,
+g0289,AU-CW-DEPT-INFRA,AU-CW-CCE-LIBR,parent_of,Portfolio body,,,,MEDIUM,
+g0290,AU-CW-DEPT-INFRA,AU-CW-CCE-GALL,parent_of,Portfolio body,,,,MEDIUM,
+g0291,AU-CW-DEPT-INFRA,AU-CW-CCE-FILMSOUNARCH,parent_of,Portfolio body,,,,MEDIUM,
+g0292,AU-CW-DEPT-INFRA,AU-CW-CCE-OLDPARLHOUS,parent_of,Portfolio body,,,,MEDIUM,
+g0293,AU-CW-DEPT-INFRA,AU-CW-CCE-BUNDTRUS,parent_of,Portfolio body,,,,MEDIUM,
+g0294,AU-CW-DEPT-INFRA,AU-CW-CCE-MARIMUSE,parent_of,Portfolio body,,,,MEDIUM,
+g0295,AU-CW-DEPT-INFRA,AU-CW-CCE-FILMTELERADISCHO,parent_of,Portfolio body,,,,MEDIUM,
+g0296,AU-CW-DEPT-INFRA,AU-CW-CCE-CREA,parent_of,Portfolio body,,,,MEDIUM,
+g0297,AU-CW-DEPT-AGS,AU-CW-CCE-OFFIDIREPUBLPROS,parent_of,Portfolio body,,,,MEDIUM,
+g0298,AU-CW-DEPT-AGS,AU-CW-CCE-OFFIINFOCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0299,AU-CW-DEPT-AGS,AU-CW-CCE-OFFIPARLCOUN,parent_of,Portfolio body,,,,MEDIUM,
+g0300,AU-CW-DEPT-INFRA,AU-CW-CCE-ARCH,parent_of,Portfolio body,,,,MEDIUM,
+g0301,AU-CW-DEPT-AGS,AU-CW-CCE-FEDECOUR,parent_of,Portfolio body,,,,MEDIUM,
+g0302,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-INSTCRIM,parent_of,Portfolio body,,,,MEDIUM,
+g0303,AU-CW-DEPT-AGS,AU-CW-CCE-HUMARIGHCOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0304,AU-CW-DEPT-TREASURY,AU-CW-CCE-FINASECUAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0305,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-CCE-CRIMINTECOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0306,AU-CW-DEPT-AGRIC,AU-CW-CCE-RURAINDURESEDEVE,parent_of,Portfolio body,,,,MEDIUM,
+g0307,AU-CW-DEPT-AGRIC,AU-CW-CCE-GRAIRESEDEVECORP,parent_of,Portfolio body,,,,MEDIUM,
+g0308,AU-CW-DEPT-AGRIC,AU-CW-CCE-FISHRESEDEVECORP,parent_of,Portfolio body,,,,MEDIUM,
+g0309,AU-CW-DEPT-AGRIC,AU-CW-CCE-COTTRESEDEVECORP,parent_of,Portfolio body,,,,MEDIUM,
+g0310,AU-CW-DEPT-AGRIC,AU-CW-CCE-PESTVETEMEDIAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0311,AU-CW-DEPT-AGRIC,AU-CW-CCE-WINE,parent_of,Portfolio body,,,,MEDIUM,
+g0312,AU-CW-DEPT-AGRIC,AU-CW-CCE-FISHMANAAUTH,parent_of,Portfolio body,,,,MEDIUM,
+g0313,AU-CW-DEPT-AGS,AU-CW-CCE-OFFISPECINVE,parent_of,Portfolio body,,,,MEDIUM,
+g0314,AU-CW-DEPT-INFRA,AU-CW-CCE-SPORINTE,parent_of,Portfolio body,,,,MEDIUM,
+g0315,AU-CW-DEPT-HEALTH,AU-CW-CCE-AGEDCAREQUALSAFE,parent_of,Portfolio body,,,,MEDIUM,
+g0316,AU-CW-DEPT-DEFENCE,AU-CW-CCE-SIGNDIRE,parent_of,Portfolio body,,,,MEDIUM,
+g0317,AU-CW-DEPT-HEALTH,AU-CW-CCE-NDISQUALSAFECOMM,parent_of,Portfolio body,,,,MEDIUM,
+g0318,AU-CW-DEPT-AGRIC,AU-CW-CCE-REGIINVECORP,parent_of,Portfolio body,,,,MEDIUM,
+g0319,AU-CW-DEPT-FINANCE,AU-CW-BOARD-DAT,parent_of,Portfolio body,,,,MEDIUM,
+g0320,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDINNSCIINN,parent_of,Portfolio body,,,,MEDIUM,
+g0321,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDINNSCIRDI,parent_of,Portfolio body,,,,MEDIUM,
+g0322,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDINNSCICOO,parent_of,Portfolio body,,,,MEDIUM,
+g0323,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDINNSCIIND,parent_of,Portfolio body,,,,MEDIUM,
+g0324,AU-CW-DEPT-HEALTH,AU-CW-BOARD-GENTECETHCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0325,AU-CW-DEPT-HEALTH,AU-CW-BOARD-GENTECTEC,parent_of,Portfolio body,,,,MEDIUM,
+g0326,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INTTRAREMFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0327,AU-CW-DEPT-INFRA,AU-CW-BOARD-WRI,parent_of,Portfolio body,,,,MEDIUM,
+g0328,AU-CW-DEPT-INFRA,AU-CW-BOARD-FIRNAT,parent_of,Portfolio body,,,,MEDIUM,
+g0329,AU-CW-DEPT-INFRA,AU-CW-BOARD-MUS,parent_of,Portfolio body,,,,MEDIUM,
+g0330,AU-CW-DEPT-INFRA,AU-CW-BOARD-CREWOR,parent_of,Portfolio body,,,,MEDIUM,
+g0331,AU-CW-DEPT-HEALTH,AU-CW-BOARD-CAN,parent_of,Portfolio body,,,,MEDIUM,
+g0332,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-JOBSKIMIN,parent_of,Portfolio body,,,,MEDIUM,
+g0333,AU-CW-DEPT-INFRA,AU-CW-BOARD-SPODRUMED,parent_of,Portfolio body,,,,MEDIUM,
+g0334,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-FEDSAFCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0335,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-WORRELCON,parent_of,Portfolio body,,,,MEDIUM,
+g0336,AU-CW-DEPT-PMC,AU-CW-BOARD-OFFREGABOTOR,parent_of,Portfolio body,,,,MEDIUM,
+g0337,AU-CW-DEPT-PMC,AU-CW-BOARD-EXEDIRTOWLEA,parent_of,Portfolio body,,,,MEDIUM,
+g0338,AU-CW-DEPT-PMC,AU-CW-BOARD-OFFABOLANCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0339,AU-CW-DEPT-HEALTH,AU-CW-BOARD-AGECARCOMCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0340,AU-CW-DEPT-HEALTH,AU-CW-BOARD-AGECARQUASAF,parent_of,Portfolio body,,,,MEDIUM,
+g0341,AU-CW-DEPT-AGRIC,AU-CW-BOARD-RURINDRESDEV,parent_of,Portfolio body,,,,MEDIUM,
+g0342,AU-CW-DEPT-AGRIC,AU-CW-BOARD-GRARESDEVCOR,parent_of,Portfolio body,,,,MEDIUM,
+g0343,AU-CW-DEPT-AGRIC,AU-CW-BOARD-FISRESDEVCOR,parent_of,Portfolio body,,,,MEDIUM,
+g0344,AU-CW-DEPT-AGRIC,AU-CW-BOARD-COTRESDEVCOR,parent_of,Portfolio body,,,,MEDIUM,
+g0345,AU-CW-DEPT-AGRIC,AU-CW-BOARD-WINSEL,parent_of,Portfolio body,,,,MEDIUM,
+g0346,AU-CW-DEPT-AGS,AU-CW-BOARD-PRI,parent_of,Portfolio body,,,,MEDIUM,
+g0347,AU-CW-DEPT-INFRA,AU-CW-BOARD-ARC,parent_of,Portfolio body,,,,MEDIUM,
+g0348,AU-CW-DEPT-AGS,AU-CW-BOARD-FEDCIRFAMCOU,parent_of,Portfolio body,,,,MEDIUM,
+g0349,AU-CW-DEPT-AGS,AU-CW-BOARD-DEFFORDISAPP,parent_of,Portfolio body,,,,MEDIUM,
+g0350,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-INSPOLMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0351,AU-CW-DEPT-AGS,AU-CW-BOARD-ANTCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0352,AU-CW-DEPT-AGS,AU-CW-BOARD-INSANTCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0353,AU-CW-DEPT-AGS,AU-CW-BOARD-INDSECLEGMON,parent_of,Portfolio body,,,,MEDIUM,
+g0354,AU-CW-DEPT-AGS,AU-CW-BOARD-ADMREV,parent_of,Portfolio body,,,,MEDIUM,
+g0355,AU-CW-DEPT-AGS,AU-CW-BOARD-ADMRUL,parent_of,Portfolio body,,,,MEDIUM,
+g0356,AU-CW-DEPT-AGS,AU-CW-BOARD-FAMLAW,parent_of,Portfolio body,,,,MEDIUM,
+g0357,AU-CW-DEPT-AGS,AU-CW-BOARD-COPTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0358,AU-CW-DEPT-INFRA,AU-CW-BOARD-DIGRADPLA,parent_of,Portfolio body,,,,MEDIUM,
+g0359,AU-CW-DEPT-INFRA,AU-CW-BOARD-ESACOM,parent_of,Portfolio body,,,,MEDIUM,
+g0360,AU-CW-DEPT-INFRA,AU-CW-BOARD-CONCONFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0361,AU-CW-DEPT-INFRA,AU-CW-BOARD-ABC,parent_of,Portfolio body,,,,MEDIUM,
+g0362,AU-CW-DEPT-AGS,AU-CW-BOARD-INF,parent_of,Portfolio body,,,,MEDIUM,
+g0363,AU-CW-DEPT-INFRA,AU-CW-BOARD-SBSCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0364,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DHA,parent_of,Portfolio body,,,,MEDIUM,
+g0365,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-AIRFORROYAIR,parent_of,Portfolio body,,,,MEDIUM,
+g0366,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-ARM,parent_of,Portfolio body,,,,MEDIUM,
+g0367,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-CHIJUDADV,parent_of,Portfolio body,,,,MEDIUM,
+g0368,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DEFFORADV,parent_of,Portfolio body,,,,MEDIUM,
+g0369,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DEFHONAWAAPP,parent_of,Portfolio body,,,,MEDIUM,
+g0370,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DIRMILPRO,parent_of,Portfolio body,,,,MEDIUM,
+g0371,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-INSDEFFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0372,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-JUDADVGENDEP,parent_of,Portfolio body,,,,MEDIUM,
+g0373,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-OFFRESSERPRO,parent_of,Portfolio body,,,,MEDIUM,
+g0374,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-REGMILJUS,parent_of,Portfolio body,,,,MEDIUM,
+g0375,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-NAVROYNAV,parent_of,Portfolio body,,,,MEDIUM,
+g0376,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DIRDEFCOUSER,parent_of,Portfolio body,,,,MEDIUM,
+g0377,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-AUSECOACC,parent_of,Portfolio body,,,,MEDIUM,
+g0378,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-HIGEDUSTAPAN,parent_of,Portfolio body,,,,MEDIUM,
+g0379,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-TUIPROSER,parent_of,Portfolio body,,,,MEDIUM,
+g0380,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-TUIPROSERDIR,parent_of,Portfolio body,,,,MEDIUM,
+g0381,AU-CW-DEPT-AGRIC,AU-CW-BOARD-INSANIWELLIV,parent_of,Portfolio body,,,,MEDIUM,
+g0382,AU-CW-DEPT-AGRIC,AU-CW-BOARD-FUTDROFUNCON,parent_of,Portfolio body,,,,MEDIUM,
+g0383,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-ROATRAGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0384,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-ASBSILSAFERA,parent_of,Portfolio body,,,,MEDIUM,
+g0385,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-VOCEDUTRAREG,parent_of,Portfolio body,,,,MEDIUM,
+g0386,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-RES,parent_of,Portfolio body,,,,MEDIUM,
+g0387,AU-CW-DEPT-AGRIC,AU-CW-BOARD-RUR,parent_of,Portfolio body,,,,MEDIUM,
+g0388,AU-CW-DEPT-AGRIC,AU-CW-BOARD-STAFISRIGALL,parent_of,Portfolio body,,,,MEDIUM,
+g0389,AU-CW-DEPT-AGRIC,AU-CW-BOARD-FORWOOPRO,parent_of,Portfolio body,,,,MEDIUM,
+g0390,AU-CW-DEPT-AGRIC,AU-CW-BOARD-DIRBIO,parent_of,Portfolio body,,,,MEDIUM,
+g0391,AU-CW-DEPT-AGRIC,AU-CW-BOARD-INSBIO,parent_of,Portfolio body,,,,MEDIUM,
+g0392,AU-CW-DEPT-FINANCE,AU-CW-BOARD-FUTFUNGUA,parent_of,Portfolio body,,,,MEDIUM,
+g0393,AU-CW-DEPT-FINANCE,AU-CW-BOARD-COMSUPSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0394,AU-CW-DEPT-FINANCE,AU-CW-BOARD-DEFFORRETDEA,parent_of,Portfolio body,,,,MEDIUM,
+g0395,AU-CW-DEPT-FINANCE,AU-CW-BOARD-FUTFUNDESACT,parent_of,Portfolio body,,,,MEDIUM,
+g0396,AU-CW-DEPT-FINANCE,AU-CW-BOARD-MILSUPBENSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0397,AU-CW-DEPT-FINANCE,AU-CW-BOARD-PUBSECSUPACC,parent_of,Portfolio body,,,,MEDIUM,
+g0398,AU-CW-DEPT-FINANCE,AU-CW-BOARD-PUBSECSUPSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0399,AU-CW-DEPT-FINANCE,AU-CW-BOARD-OFFDATCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0400,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-POLINTAGRRES,parent_of,Portfolio body,,,,MEDIUM,
+g0401,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-COMINTAGRRES,parent_of,Portfolio body,,,,MEDIUM,
+g0402,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-SAFNONOFF,parent_of,Portfolio body,,,,MEDIUM,
+g0403,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONBIO,parent_of,Portfolio body,,,,MEDIUM,
+g0404,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONCHESCH,parent_of,Portfolio body,,,,MEDIUM,
+g0405,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONCOMMED,parent_of,Portfolio body,,,,MEDIUM,
+g0406,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONMEDDEV,parent_of,Portfolio body,,,,MEDIUM,
+g0407,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONMEDSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0408,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONVAC,parent_of,Portfolio body,,,,MEDIUM,
+g0409,AU-CW-DEPT-HEALTH,AU-CW-BOARD-COMPHAAUT,parent_of,Portfolio body,,,,MEDIUM,
+g0410,AU-CW-DEPT-HEALTH,AU-CW-BOARD-OFFGENTECREG,parent_of,Portfolio body,,,,MEDIUM,
+g0411,AU-CW-DEPT-HEALTH,AU-CW-BOARD-FIFREVDENBEN,parent_of,Portfolio body,,,,MEDIUM,
+g0412,AU-CW-DEPT-HEALTH,AU-CW-BOARD-OFFRURHEACOM,parent_of,Portfolio body,,,,MEDIUM,
+g0413,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ONMED,parent_of,Portfolio body,,,,MEDIUM,
+g0414,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEADIR,parent_of,Portfolio body,,,,MEDIUM,
+g0415,AU-CW-DEPT-HEALTH,AU-CW-BOARD-MEDPARREV,parent_of,Portfolio body,,,,MEDIUM,
+g0416,AU-CW-DEPT-HEALTH,AU-CW-BOARD-INDCHEINTSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0417,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PHABEN,parent_of,Portfolio body,,,,MEDIUM,
+g0418,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PHABENREMTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0419,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PHASERFEDINQ,parent_of,Portfolio body,,,,MEDIUM,
+g0420,AU-CW-DEPT-HEALTH,AU-CW-BOARD-NUCSAF,parent_of,Portfolio body,,,,MEDIUM,
+g0421,AU-CW-DEPT-HEALTH,AU-CW-BOARD-RADHEASAF,parent_of,Portfolio body,,,,MEDIUM,
+g0422,AU-CW-DEPT-HEALTH,AU-CW-BOARD-RADHEA,parent_of,Portfolio body,,,,MEDIUM,
+g0423,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ORGTISDONTRA,parent_of,Portfolio body,,,,MEDIUM,
+g0424,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DIGHEAAGECLI,parent_of,Portfolio body,,,,MEDIUM,
+g0425,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DIGHEAAGECON,parent_of,Portfolio body,,,,MEDIUM,
+g0426,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DIGHEAAGEJUR,parent_of,Portfolio body,,,,MEDIUM,
+g0427,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DIGHEAAGEPRI,parent_of,Portfolio body,,,,MEDIUM,
+g0428,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PATACC,parent_of,Portfolio body,,,,MEDIUM,
+g0429,AU-CW-DEPT-HEALTH,AU-CW-BOARD-COMONSAFQUAH,parent_of,Portfolio body,,,,MEDIUM,
+g0430,AU-CW-DEPT-HEALTH,AU-CW-BOARD-COMONSAFQUAH2,parent_of,Portfolio body,,,,MEDIUM,
+g0431,AU-CW-DEPT-HEALTH,AU-CW-BOARD-COMONSAFQUAH3,parent_of,Portfolio body,,,,MEDIUM,
+g0432,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PROSERREVDET,parent_of,Portfolio body,,,,MEDIUM,
+g0433,AU-CW-DEPT-HEALTH,AU-CW-BOARD-PROSERREVPAN,parent_of,Portfolio body,,,,MEDIUM,
+g0434,AU-CW-DEPT-HEALTH,AU-CW-BOARD-ADMHEAFUNPOO,parent_of,Portfolio body,,,,MEDIUM,
+g0435,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRESHEA,parent_of,Portfolio body,,,,MEDIUM,
+g0436,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRESHEA2,parent_of,Portfolio body,,,,MEDIUM,
+g0437,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRESRES,parent_of,Portfolio body,,,,MEDIUM,
+g0438,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRESEMB,parent_of,Portfolio body,,,,MEDIUM,
+g0439,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRESCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0440,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HEAMEDRES,parent_of,Portfolio body,,,,MEDIUM,
+g0441,AU-CW-DEPT-HEALTH,AU-CW-BOARD-HAE,parent_of,Portfolio body,,,,MEDIUM,
+g0442,AU-CW-DEPT-HEALTH,AU-CW-BOARD-INDHEAAGECAR,parent_of,Portfolio body,,,,MEDIUM,
+g0443,AU-CW-DEPT-HEALTH,AU-CW-BOARD-INDHEAAGECAR2,parent_of,Portfolio body,,,,MEDIUM,
+g0444,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-INSTRASEC,parent_of,Portfolio body,,,,MEDIUM,
+g0445,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-BORFORCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0446,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-BOARD-CUSBROLIC,parent_of,Portfolio body,,,,MEDIUM,
+g0447,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-ANTCOM2,parent_of,Portfolio body,,,,MEDIUM,
+g0448,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-ANTREVPAN,parent_of,Portfolio body,,,,MEDIUM,
+g0449,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDPARAUT,parent_of,Portfolio body,,,,MEDIUM,
+g0450,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-MEAINS,parent_of,Portfolio body,,,,MEDIUM,
+g0451,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-OFFPETTITADM,parent_of,Portfolio body,,,,MEDIUM,
+g0452,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-INDINNSCI,parent_of,Portfolio body,,,,MEDIUM,
+g0453,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-OFFINFREG,parent_of,Portfolio body,,,,MEDIUM,
+g0454,AU-CW-DEPT-INFRA,AU-CW-BOARD-FILCER,parent_of,Portfolio body,,,,MEDIUM,
+g0455,AU-CW-DEPT-INFRA,AU-CW-BOARD-CULHER,parent_of,Portfolio body,,,,MEDIUM,
+g0456,AU-CW-DEPT-INFRA,AU-CW-BOARD-PUBLENRIG,parent_of,Portfolio body,,,,MEDIUM,
+g0457,AU-CW-DEPT-INFRA,AU-CW-BOARD-REGTELINDREV,parent_of,Portfolio body,,,,MEDIUM,
+g0458,AU-CW-DEPT-INFRA,AU-CW-BOARD-CLA,parent_of,Portfolio body,,,,MEDIUM,
+g0459,AU-CW-DEPT-INFRA,AU-CW-BOARD-CLAREV,parent_of,Portfolio body,,,,MEDIUM,
+g0460,AU-CW-DEPT-INFRA,AU-CW-BOARD-NOMPANABCSBS,parent_of,Portfolio body,,,,MEDIUM,
+g0461,AU-CW-DEPT-INFRA,AU-CW-BOARD-CHRISLEMEMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0462,AU-CW-DEPT-INFRA,AU-CW-BOARD-COCKEEISLEME,parent_of,Portfolio body,,,,MEDIUM,
+g0463,AU-CW-DEPT-INFRA,AU-CW-BOARD-SPOTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0464,AU-CW-DEPT-INFRA,AU-CW-BOARD-CHIWELOFF,parent_of,Portfolio body,,,,MEDIUM,
+g0465,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-OFFPETSAFENV,parent_of,Portfolio body,,,,MEDIUM,
+g0466,AU-CW-DEPT-INFRA,AU-CW-BOARD-CANMEM,parent_of,Portfolio body,,,,MEDIUM,
+g0467,AU-CW-DEPT-INFRA,AU-CW-BOARD-INTAIRSERCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0468,AU-CW-DEPT-INFRA,AU-CW-BOARD-MOTVEHSTAREV,parent_of,Portfolio body,,,,MEDIUM,
+g0469,AU-CW-DEPT-INFRA,AU-CW-BOARD-REGLINSHI,parent_of,Portfolio body,,,,MEDIUM,
+g0470,AU-CW-DEPT-INFRA,AU-CW-BOARD-SLOCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0471,AU-CW-DEPT-INFRA,AU-CW-BOARD-SPEMAGJERBAY,parent_of,Portfolio body,,,,MEDIUM,
+g0472,AU-CW-DEPT-INFRA,AU-CW-BOARD-ACTADMINDOCE,parent_of,Portfolio body,,,,MEDIUM,
+g0473,AU-CW-DEPT-INFRA,AU-CW-BOARD-ADMNORISL,parent_of,Portfolio body,,,,MEDIUM,
+g0474,AU-CW-DEPT-INFRA,AU-CW-BOARD-ADMINDOCETER,parent_of,Portfolio body,,,,MEDIUM,
+g0475,AU-CW-DEPT-INFRA,AU-CW-BOARD-ADMVEHSTA,parent_of,Portfolio body,,,,MEDIUM,
+g0476,AU-CW-DEPT-INFRA,AU-CW-BOARD-ASSADMVEHSTA,parent_of,Portfolio body,,,,MEDIUM,
+g0477,AU-CW-DEPT-INFRA,AU-CW-BOARD-DEPADMINDOCE,parent_of,Portfolio body,,,,MEDIUM,
+g0478,AU-CW-DEPT-INFRA,AU-CW-BOARD-JERBAYTEREME,parent_of,Portfolio body,,,,MEDIUM,
+g0479,AU-CW-DEPT-INFRA,AU-CW-BOARD-JERBAYTERFIR,parent_of,Portfolio body,,,,MEDIUM,
+g0480,AU-CW-DEPT-INFRA,AU-CW-BOARD-DIGGAMTAXOFF,parent_of,Portfolio body,,,,MEDIUM,
+g0481,AU-CW-DEPT-INFRA,AU-CW-BOARD-SUPCOUNORISL,parent_of,Portfolio body,,,,MEDIUM,
+g0482,AU-CW-DEPT-PMC,AU-CW-BOARD-REMTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0483,AU-CW-DEPT-PMC,AU-CW-BOARD-DEFFORREMTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0484,AU-CW-DEPT-PMC,AU-CW-BOARD-OFFMERPROCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0485,AU-CW-DEPT-TREASURY,AU-CW-BOARD-SMABUSFAMENT,parent_of,Portfolio body,,,,MEDIUM,
+g0486,AU-CW-DEPT-TREASURY,AU-CW-BOARD-FOOGROCODCON,parent_of,Portfolio body,,,,MEDIUM,
+g0487,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DISINSSCHACT,parent_of,Portfolio body,,,,MEDIUM,
+g0488,AU-CW-DEPT-HEALTH,AU-CW-BOARD-NDIIND,parent_of,Portfolio body,,,,MEDIUM,
+g0489,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DISINSSCHREV,parent_of,Portfolio body,,,,MEDIUM,
+g0490,AU-CW-DEPT-SOCSVC,AU-CW-BOARD-ECOINC,parent_of,Portfolio body,,,,MEDIUM,
+g0491,AU-CW-DEPT-PMC,AU-CW-BOARD-EMEMED,parent_of,Portfolio body,,,,MEDIUM,
+g0492,AU-CW-DEPT-TREASURY,AU-CW-BOARD-STA,parent_of,Portfolio body,,,,MEDIUM,
+g0493,AU-CW-DEPT-TREASURY,AU-CW-BOARD-DATSTACHA,parent_of,Portfolio body,,,,MEDIUM,
+g0494,AU-CW-DEPT-TREASURY,AU-CW-BOARD-HOUSUPAFF,parent_of,Portfolio body,,,,MEDIUM,
+g0495,AU-CW-DEPT-TREASURY,AU-CW-BOARD-FINSERCREPAN,parent_of,Portfolio body,,,,MEDIUM,
+g0496,AU-CW-DEPT-TREASURY,AU-CW-BOARD-MOTVEHSERREP,parent_of,Portfolio body,,,,MEDIUM,
+g0497,AU-CW-DEPT-TREASURY,AU-CW-BOARD-FINREP,parent_of,Portfolio body,,,,MEDIUM,
+g0498,AU-CW-DEPT-TREASURY,AU-CW-BOARD-TAKPAN,parent_of,Portfolio body,,,,MEDIUM,
+g0499,AU-CW-DEPT-TREASURY,AU-CW-BOARD-COMTRI,parent_of,Portfolio body,,,,MEDIUM,
+g0500,AU-CW-DEPT-TREASURY,AU-CW-BOARD-COMAUDDIS,parent_of,Portfolio body,,,,MEDIUM,
+g0501,AU-CW-DEPT-TREASURY,AU-CW-BOARD-LOA,parent_of,Portfolio body,,,,MEDIUM,
+g0502,AU-CW-DEPT-TREASURY,AU-CW-BOARD-TAXPRA,parent_of,Portfolio body,,,,MEDIUM,
+g0503,AU-CW-DEPT-TREASURY,AU-CW-BOARD-PAYSYSRESBAN,parent_of,Portfolio body,,,,MEDIUM,
+g0504,AU-CW-DEPT-TREASURY,AU-CW-BOARD-GOVCOMNEUCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0505,AU-CW-DEPT-TREASURY,AU-CW-BOARD-CHANOTCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0506,AU-CW-DEPT-TREASURY,AU-CW-BOARD-CHANOTCOM2,parent_of,Portfolio body,,,,MEDIUM,
+g0507,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-MILREHCOMCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0508,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-REPCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0509,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-REPMEDAUT,parent_of,Portfolio body,,,,MEDIUM,
+g0510,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DEFSERHOMINS,parent_of,Portfolio body,,,,MEDIUM,
+g0511,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DIROFFWARGRA,parent_of,Portfolio body,,,,MEDIUM,
+g0512,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-SPEMEDREV,parent_of,Portfolio body,,,,MEDIUM,
+g0513,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-VETREV,parent_of,Portfolio body,,,,MEDIUM,
+g0514,AU-CW-DEPT-TREASURY,AU-CW-BOARD-GOVRESBAN,parent_of,Portfolio body,,,,MEDIUM,
+g0515,AU-CW-DEPT-TREASURY,AU-CW-BOARD-MONPOLRESBAN,parent_of,Portfolio body,,,,MEDIUM,
+g0516,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-SRCACTREV,parent_of,Portfolio body,,,,MEDIUM,
+g0517,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-JOBSKI,parent_of,Portfolio body,,,,MEDIUM,
+g0518,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-CONINDFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0519,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-STUIDEREG,parent_of,Portfolio body,,,,MEDIUM,
+g0520,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-SAFREHCOMCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0521,AU-CW-DEPT-EDUCATION,AU-CW-BOARD-SCHRES,parent_of,Portfolio body,,,,MEDIUM,
+g0522,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-ENEINDWORRED,parent_of,Portfolio body,,,,MEDIUM,
+g0523,AU-CW-DEPT-FINANCE,AU-CW-BOARD-INDPARSTACOM,parent_of,Portfolio body,,,,MEDIUM,
+g0524,AU-CW-DEPT-FINANCE,AU-CW-BOARD-PARWORSUPSER,parent_of,Portfolio body,,,,MEDIUM,
+g0525,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-DIGLABPLACON,parent_of,Portfolio body,,,,MEDIUM,
+g0526,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-FAMINJWOR,parent_of,Portfolio body,,,,MEDIUM,
+g0527,AU-CW-DEPT-EMPLOY,AU-CW-BOARD-REVJOBSKIACT,parent_of,Portfolio body,,,,MEDIUM,
+g0528,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DEFFORCOVSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0529,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-DEFFORSUPSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0530,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-CHIDEFFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0531,AU-CW-DEPT-DEFENCE,AU-CW-BOARD-VICCHIDEFFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0532,AU-CW-DEPT-AGS,AU-CW-BOARD-INTONCRICOM,parent_of,Portfolio body,,,,MEDIUM,
+g0533,AU-CW-DEPT-HEALTH,AU-CW-BOARD-MEDRES,parent_of,Portfolio body,,,,MEDIUM,
+g0534,AU-CW-DEPT-HEALTH,AU-CW-BOARD-DIRHUMBIO,parent_of,Portfolio body,,,,MEDIUM,
+g0535,AU-CW-DEPT-FINANCE,AU-CW-BOARD-CHIEXECEN,parent_of,Portfolio body,,,,MEDIUM,
+g0536,AU-CW-DEPT-FINANCE,AU-CW-BOARD-CHIEXEMED,parent_of,Portfolio body,,,,MEDIUM,
+g0537,AU-CW-DEPT-FINANCE,AU-CW-BOARD-CHISUPREG,parent_of,Portfolio body,,,,MEDIUM,
+g0538,AU-CW-DEPT-AGS,AU-CW-BOARD-FEDCIRFAMCOU2,parent_of,Portfolio body,,,,MEDIUM,
+g0539,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-TRAIPATT,parent_of,Portfolio body,,,,MEDIUM,
+g0540,AU-CW-DEPT-INDUSTRY,AU-CW-BOARD-TRAIPATTDIST,parent_of,Portfolio body,,,,MEDIUM,
+g0541,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-OPEARM,parent_of,Portfolio body,,,,MEDIUM,
+g0542,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-MEDWORSTRSTE,parent_of,Portfolio body,,,,MEDIUM,
+g0543,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-MEDWORSTRSER,parent_of,Portfolio body,,,,MEDIUM,
+g0544,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-BIOCOMENGNET,parent_of,Portfolio body,,,,MEDIUM,
+g0545,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-RESDEVEXTGOV,parent_of,Portfolio body,,,,MEDIUM,
+g0546,AU-CW-DEPT-INFRA,AU-CW-ADVIS-ESAYOU,parent_of,Portfolio body,,,,MEDIUM,
+g0547,AU-CW-DEPT-INDUSTRY,AU-CW-ADVIS-SCIINDENDFUN,parent_of,Portfolio body,,,,MEDIUM,
+g0548,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-AGECOMCARFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0549,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-YOUVETCONNEE,parent_of,Portfolio body,,,,MEDIUM,
+g0550,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-FREVERINVWOR,parent_of,Portfolio body,,,,MEDIUM,
+g0551,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-TERINVWORGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0552,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-WEEWORGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0553,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-TERVERWORGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0554,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-SPEORTEXPCLI,parent_of,Portfolio body,,,,MEDIUM,
+g0555,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-SPINEUEXPCLI,parent_of,Portfolio body,,,,MEDIUM,
+g0556,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-GENSUREXPCLI,parent_of,Portfolio body,,,,MEDIUM,
+g0557,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-HIPKNEEXPCLI,parent_of,Portfolio body,,,,MEDIUM,
+g0558,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-OPHEXPCLIGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0559,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-CAREXPCLIGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0560,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-TROTUNMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0561,AU-CW-DEPT-PMC,AU-CW-ADVIS-TERSTOGENRED,parent_of,Portfolio body,,,,MEDIUM,
+g0562,AU-CW-DEPT-PMC,AU-CW-ADVIS-NAI,parent_of,Portfolio body,,,,MEDIUM,
+g0563,AU-CW-DEPT-PMC,AU-CW-ADVIS-ABOTORSTRISL,parent_of,Portfolio body,,,,MEDIUM,
+g0564,AU-CW-DEPT-PMC,AU-CW-ADVIS-INDEVA,parent_of,Portfolio body,,,,MEDIUM,
+g0565,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-NORPRAFISMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0566,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SOUBLUTUNFIS,parent_of,Portfolio body,,,,MEDIUM,
+g0567,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SCAMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0568,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-GREBIGMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0569,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SOUEASMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0570,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SUBFISMAN,parent_of,Portfolio body,,,,MEDIUM,
+g0571,AU-CW-DEPT-AGS,AU-CW-ADVIS-RES,parent_of,Portfolio body,,,,MEDIUM,
+g0572,AU-CW-DEPT-AGS,AU-CW-ADVIS-GOVSOL,parent_of,Portfolio body,,,,MEDIUM,
+g0573,AU-CW-DEPT-AGS,AU-CW-ADVIS-INTCON,parent_of,Portfolio body,,,,MEDIUM,
+g0574,AU-CW-DEPT-AGS,AU-CW-ADVIS-MODSLAEXPGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0575,AU-CW-DEPT-AGS,AU-CW-ADVIS-OPEGOVFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0576,AU-CW-DEPT-INFRA,AU-CW-ADVIS-POSSTA,parent_of,Portfolio body,,,,MEDIUM,
+g0577,AU-CW-DEPT-INFRA,AU-CW-ADVIS-NUM,parent_of,Portfolio body,,,,MEDIUM,
+g0578,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEFCOL,parent_of,Portfolio body,,,,MEDIUM,
+g0579,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEFFORFINSER,parent_of,Portfolio body,,,,MEDIUM,
+g0580,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEPDEFVETAFF,parent_of,Portfolio body,,,,MEDIUM,
+g0581,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-GEOINTORG,parent_of,Portfolio body,,,,MEDIUM,
+g0582,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEFFAM,parent_of,Portfolio body,,,,MEDIUM,
+g0583,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEFINTORG,parent_of,Portfolio body,,,,MEDIUM,
+g0584,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-DEFSCITECGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0585,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-FORENT,parent_of,Portfolio body,,,,MEDIUM,
+g0586,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-PHOCENPOSMEN,parent_of,Portfolio body,,,,MEDIUM,
+g0587,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-WOOPROARE,parent_of,Portfolio body,,,,MEDIUM,
+g0588,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-ASIPACCENMIL,parent_of,Portfolio body,,,,MEDIUM,
+g0589,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-GOVSECVETAGE,parent_of,Portfolio body,,,,MEDIUM,
+g0590,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-MARDEF,parent_of,Portfolio body,,,,MEDIUM,
+g0591,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-FIRPRIREVOVE,parent_of,Portfolio body,,,,MEDIUM,
+g0592,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-YOUENDYOUSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0593,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-COMEMERESTEA,parent_of,Portfolio body,,,,MEDIUM,
+g0594,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-STASMAONL,parent_of,Portfolio body,,,,MEDIUM,
+g0595,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-AFGINQIMPOVE,parent_of,Portfolio body,,,,MEDIUM,
+g0596,AU-CW-DEPT-DEFENCE,AU-CW-ADVIS-SUB,parent_of,Portfolio body,,,,MEDIUM,
+g0597,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-INTTEREDUCOM,parent_of,Portfolio body,,,,MEDIUM,
+g0598,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-UNIACCIMP,parent_of,Portfolio body,,,,MEDIUM,
+g0599,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-INITEAEDUQUA,parent_of,Portfolio body,,,,MEDIUM,
+g0600,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-EXPONUNIGOV,parent_of,Portfolio body,,,,MEDIUM,
+g0601,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-CLICHAWATYOU,parent_of,Portfolio body,,,,MEDIUM,
+g0602,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-ANTRAPREVSCH,parent_of,Portfolio body,,,,MEDIUM,
+g0603,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-CREINDYOUGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0604,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-PREGENVIOYOU,parent_of,Portfolio body,,,,MEDIUM,
+g0605,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-CIVENGYOUGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0606,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-FIRNATYOUGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0607,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-RESRELEDUEXP,parent_of,Portfolio body,,,,MEDIUM,
+g0608,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-INTEDU,parent_of,Portfolio body,,,,MEDIUM,
+g0609,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-DRORESADOINN,parent_of,Portfolio body,,,,MEDIUM,
+g0610,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-FIS,parent_of,Portfolio body,,,,MEDIUM,
+g0611,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-LIVANIEXPFIN,parent_of,Portfolio body,,,,MEDIUM,
+g0612,AU-CW-DEPT-EDUCATION,AU-CW-ADVIS-RESINDFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0613,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-FORINVSTE,parent_of,Portfolio body,,,,MEDIUM,
+g0614,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SCIGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0615,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-SEAEXPCON,parent_of,Portfolio body,,,,MEDIUM,
+g0616,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-AGRFINFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0617,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-EXPMEAIND,parent_of,Portfolio body,,,,MEDIUM,
+g0618,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-BEEIND,parent_of,Portfolio body,,,,MEDIUM,
+g0619,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-DAIEXPINDCON,parent_of,Portfolio body,,,,MEDIUM,
+g0620,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-EXPWILGAMMEA,parent_of,Portfolio body,,,,MEDIUM,
+g0621,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-FOOGROSECGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0622,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-HALCON,parent_of,Portfolio body,,,,MEDIUM,
+g0623,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-ANISTE,parent_of,Portfolio body,,,,MEDIUM,
+g0624,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-CARSCIGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0625,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-DEPAGRFISFOR,parent_of,Portfolio body,,,,MEDIUM,
+g0626,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-STA,parent_of,Portfolio body,,,,MEDIUM,
+g0627,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-ENVBIOGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0628,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-BIOSTRIMP,parent_of,Portfolio body,,,,MEDIUM,
+g0629,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-GRAPLAPROEXP,parent_of,Portfolio body,,,,MEDIUM,
+g0630,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-FIRNATGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0631,AU-CW-DEPT-AGRIC,AU-CW-ADVIS-LIVSHEPHAOUT,parent_of,Portfolio body,,,,MEDIUM,
+g0632,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-FOUAUSRELNFA,parent_of,Portfolio body,,,,MEDIUM,
+g0633,AU-CW-DEPT-FINANCE,AU-CW-ADVIS-POLEXC,parent_of,Portfolio body,,,,MEDIUM,
+g0634,AU-CW-DEPT-FINANCE,AU-CW-ADVIS-COM,parent_of,Portfolio body,,,,MEDIUM,
+g0635,AU-CW-DEPT-FINANCE,AU-CW-ADVIS-COM2,parent_of,Portfolio body,,,,MEDIUM,
+g0636,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-TOURES,parent_of,Portfolio body,,,,MEDIUM,
+g0637,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-TOURES2,parent_of,Portfolio body,,,,MEDIUM,
+g0638,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-TOUACCWORGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0639,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-ASECEN,parent_of,Portfolio body,,,,MEDIUM,
+g0640,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-TRA204TAS,parent_of,Portfolio body,,,,MEDIUM,
+g0641,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-PARHEAREGTEC,parent_of,Portfolio body,,,,MEDIUM,
+g0642,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-CENAUSRELCAI,parent_of,Portfolio body,,,,MEDIUM,
+g0643,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-AUSINSAII,parent_of,Portfolio body,,,,MEDIUM,
+g0644,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-AUSFOU,parent_of,Portfolio body,,,,MEDIUM,
+g0645,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-AUSFOU2,parent_of,Portfolio body,,,,MEDIUM,
+g0646,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-CAAAUSREL,parent_of,Portfolio body,,,,MEDIUM,
+g0647,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-ONLATAMERELC,parent_of,Portfolio body,,,,MEDIUM,
+g0648,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-EDI,parent_of,Portfolio body,,,,MEDIUM,
+g0649,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-PACSECCOLAPS,parent_of,Portfolio body,,,,MEDIUM,
+g0650,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-INFFINFACPAC,parent_of,Portfolio body,,,,MEDIUM,
+g0651,AU-CW-DEPT-HOMEAFFAIRS,AU-CW-ADVIS-APEBUSABA,parent_of,Portfolio body,,,,MEDIUM,
+g0652,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-TECGROONIMM,parent_of,Portfolio body,,,,MEDIUM,
+g0653,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-GENTECSTA,parent_of,Portfolio body,,,,MEDIUM,
+g0654,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-LIFSAVDRUPRO,parent_of,Portfolio body,,,,MEDIUM,
+g0655,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-QUAUSEPAT,parent_of,Portfolio body,,,,MEDIUM,
+g0656,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-HEASTARAT,parent_of,Portfolio body,,,,MEDIUM,
+g0657,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-MEDWORCOL,parent_of,Portfolio body,,,,MEDIUM,
+g0658,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-PUBHEALABNET,parent_of,Portfolio body,,,,MEDIUM,
+g0659,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-STRMEDTAS,parent_of,Portfolio body,,,,MEDIUM,
+g0660,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-THEGOOADVCON,parent_of,Portfolio body,,,,MEDIUM,
+g0661,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-GROABOTORSTR,parent_of,Portfolio body,,,,MEDIUM,
+g0662,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-GENPRATRA,parent_of,Portfolio body,,,,MEDIUM,
+g0663,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-AGECAR,parent_of,Portfolio body,,,,MEDIUM,
+g0664,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-MEDBENSCHREV,parent_of,Portfolio body,,,,MEDIUM,
+g0665,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-ELD,parent_of,Portfolio body,,,,MEDIUM,
+g0666,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-INFPRECONEXP,parent_of,Portfolio body,,,,MEDIUM,
+g0667,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-AGECARCLIRED,parent_of,Portfolio body,,,,MEDIUM,
+g0668,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-MEDSER,parent_of,Portfolio body,,,,MEDIUM,
+g0669,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-VIGSUREXP,parent_of,Portfolio body,,,,MEDIUM,
+g0670,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-EYETIS,parent_of,Portfolio body,,,,MEDIUM,
+g0671,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-JURGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0672,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-TRALIAREFGRO,parent_of,Portfolio body,,,,MEDIUM,
+g0673,AU-CW-DEPT-HEALTH,AU-CW-ADVIS-CLIGOV,parent_of,Portfolio body,,,,MEDIUM,
+g0674,AU-CW-DEPT-PMC,AU-CW-CCE-AIATSIS,parent_of,Portfolio body,,,,MEDIUM,
+g0675,AU-CW-DEPT-AGS,AU-CW-CCE-NNTT,parent_of,Portfolio body,,,,MEDIUM,
+g0676,AU-NT-DEPT-TREASURY,AU-CW-IGF-CFFR,member_of,Member — CFFR,,,,HIGH,
+g0677,AU-TAS-STAT-DOTAF,AU-CW-IGF-CFFR,member_of,Member — CFFR,,,,HIGH,
+g0678,AU-SA-DEPT-DTF,AU-CW-IGF-CFFR,member_of,Member — CFFR,,,,HIGH,
+g0679,AU-LG-LGA-52730,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0680,AU-LG-LGA-24850,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0681,AU-LG-LGA-36250,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0682,AU-LG-LGA-51120,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0683,AU-LG-LGA-26490,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0684,AU-LG-LGA-50840,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0685,AU-LG-LGA-43360,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0686,AU-LG-LGA-42750,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0687,AU-LG-LGA-25710,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0688,AU-LG-LGA-22410,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0689,AU-LG-LGA-40150,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0690,AU-LG-LGA-25900,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0691,AU-LG-LGA-32750,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0692,AU-LG-LGA-33100,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0693,AU-LG-LGA-26730,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0694,AU-LG-LGA-48540,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0695,AU-LG-LGA-36300,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0696,AU-LG-LGA-60610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0697,AU-LG-LGA-23270,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0698,AU-LG-LGA-27260,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0699,AU-LG-LGA-54060,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0700,AU-LG-LGA-55320,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0701,AU-LG-LGA-55950,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0702,AU-LG-LGA-30410,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0703,AU-LG-LGA-35670,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0704,AU-LG-LGA-33830,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0705,AU-LG-LGA-53010,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0706,AU-LG-LGA-54620,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0707,AU-LG-LGA-74680,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0708,AU-LG-LGA-52800,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0709,AU-LG-LGA-45120,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0710,AU-LG-LGA-60410,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0711,AU-LG-LGA-41750,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0712,AU-LG-LGA-40120,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0713,AU-LG-LGA-51680,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0714,AU-LG-LGA-58570,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0715,AU-LG-LGA-34580,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0716,AU-LG-LGA-61010,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0717,AU-LG-LGA-54170,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0718,AU-LG-LGA-53640,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0719,AU-LG-LGA-71150,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0720,AU-LG-LGA-59360,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0721,AU-LG-LGA-37010,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0722,AU-LG-LGA-55670,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0723,AU-LG-LGA-50420,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0724,AU-LG-LGA-51330,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0725,AU-LG-LGA-27170,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0726,AU-LG-LGA-53290,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0727,AU-LG-LGA-37570,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0728,AU-LG-LGA-54130,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0729,AU-LG-LGA-59320,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0730,AU-LG-LGA-47290,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0731,AU-LG-LGA-21180,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0732,AU-LG-LGA-64010,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0733,AU-LG-LGA-74560,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0734,AU-LG-LGA-36910,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0735,AU-LG-LGA-21450,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0736,AU-LG-LGA-70620,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0737,AU-LG-LGA-47490,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0738,AU-LG-LGA-22110,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0739,AU-LG-LGA-33610,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0740,AU-QLD-DEPT-WOMEN,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0741,AU-LG-LGA-46300,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0742,AU-LG-LGA-32270,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0743,AU-LG-LGA-32310,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0744,AU-LG-LGA-40520,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0745,AU-LG-LGA-20910,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0746,AU-LG-LGA-52030,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0747,AU-LG-LGA-53430,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0748,AU-LG-LGA-35790,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0749,AU-LG-LGA-57980,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0750,AU-LG-LGA-58260,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0751,AU-LG-LGA-45040,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0752,AU-LG-LGA-55810,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0753,AU-LG-LGA-44060,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0754,AU-LG-LGA-32450,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0755,AU-LG-LGA-33620,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0756,AU-LG-LGA-64810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0757,AU-LG-LGA-48050,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0758,AU-LG-LGA-45890,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0759,AU-LG-LGA-21110,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0760,AU-LG-LGA-51310,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0761,AU-LG-LGA-59100,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0762,AU-LG-LGA-54310,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0763,AU-LG-LGA-21610,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0764,AU-LG-LGA-27450,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0765,AU-LG-LGA-57140,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0766,AU-LG-LGA-50210,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0767,AU-LG-LGA-55110,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0768,AU-LG-LGA-47140,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0769,AU-LG-LGA-57350,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0770,AU-LG-LGA-33220,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0771,AU-LG-LGA-58890,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0772,AU-LG-LGA-41010,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0773,AU-LG-LGA-22910,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0774,AU-LG-LGA-25430,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0775,AU-LG-LGA-36630,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0776,AU-LG-LGA-26080,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0777,AU-LG-LGA-35250,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0778,AU-LG-LGA-37400,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0779,AU-LG-LGA-41060,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0780,AU-LG-LGA-50280,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0781,AU-LG-LGA-61810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0782,AU-LG-LGA-59030,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0783,AU-LG-LGA-20830,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0784,AU-LG-LGA-25150,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0785,AU-LG-LGA-20740,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0786,AU-LG-LGA-70540,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0787,AU-LG-LGA-23350,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0788,AU-LG-LGA-73600,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0789,AU-LG-LGA-54200,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0790,AU-LG-LGA-42600,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0791,AU-LG-LGA-43790,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0792,AU-LG-LGA-55880,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0793,AU-LG-LGA-57770,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0794,AU-LG-LGA-61210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0795,AU-LG-LGA-21750,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0796,AU-LG-LGA-41190,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0797,AU-LG-LGA-27350,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0798,AU-LG-LGA-37340,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0799,AU-LG-LGA-47980,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0800,AU-LG-LGA-23110,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0801,AU-LG-LGA-60210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0802,AU-LG-LGA-26610,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0803,AU-LG-LGA-54970,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0804,AU-LG-LGA-33980,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0805,AU-LG-LGA-52170,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0806,AU-LG-LGA-34530,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0807,AU-LG-LGA-47700,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0808,AU-LG-LGA-40430,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0809,AU-LG-LGA-52450,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0810,AU-LG-LGA-63810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0811,AU-LG-LGA-41560,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0812,AU-LG-LGA-56160,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0813,AU-LG-LGA-20570,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0814,AU-LG-LGA-40910,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0815,AU-LG-LGA-50350,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0816,AU-LG-LGA-36580,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0817,AU-LG-LGA-58330,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0818,AU-LG-LGA-61410,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0819,AU-LG-LGA-25060,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0820,AU-LG-LGA-63010,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0821,AU-LG-LGA-55600,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0822,AU-LG-LGA-51960,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0823,AU-LG-LGA-45680,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0824,AU-LG-LGA-34420,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0825,AU-LG-LGA-65010,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0826,AU-LG-LGA-24970,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0827,AU-LG-LGA-33960,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0828,AU-LG-LGA-54340,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0829,AU-LG-LGA-24600,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0830,AU-LG-LGA-36960,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0831,AU-LG-LGA-31750,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0832,AU-LG-LGA-26810,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0833,AU-LG-LGA-22750,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0834,AU-LG-LGA-33360,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0835,AU-LG-LGA-55180,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0836,AU-LG-LGA-56370,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0837,AU-LG-LGA-51820,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0838,AU-LG-LGA-37300,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0839,AU-LG-LGA-34830,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0840,AU-LG-LGA-22310,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0841,AU-LG-LGA-36720,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0842,AU-LG-LGA-59350,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0843,AU-LG-LGA-53080,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0844,AU-LG-LGA-57910,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0845,AU-LG-LGA-51080,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0846,AU-LG-LGA-56300,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0847,AU-LG-LGA-36370,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0848,AU-LG-LGA-21890,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0849,AU-LG-LGA-72330,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0850,AU-LG-LGA-58470,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0851,AU-LG-LGA-54280,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0852,AU-LG-LGA-36660,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0853,AU-LG-LGA-48260,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0854,AU-LG-LGA-53360,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0855,AU-LG-LGA-32250,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0856,AU-LG-LGA-35600,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0857,AU-LG-LGA-37550,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0858,AU-LG-LGA-65410,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0859,AU-LG-LGA-57840,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0860,AU-LG-LGA-59250,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0861,AU-LG-LGA-46090,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0862,AU-LG-LGA-22490,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0863,AU-LG-LGA-20110,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0864,AU-LG-LGA-24780,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0865,AU-LG-LGA-31820,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0866,AU-LG-LGA-51190,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0867,AU-LG-LGA-30900,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0868,AU-LG-LGA-57280,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0869,AU-LG-LGA-62010,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0870,AU-LG-LGA-52310,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0871,AU-LG-LGA-52520,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0872,AU-LG-LGA-63610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0873,AU-LG-LGA-34800,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0874,AU-LG-LGA-36070,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0875,AU-LG-LGA-29399,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0876,AU-LG-LGA-53920,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0877,AU-LG-LGA-70200,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0878,AU-LG-LGA-25810,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0879,AU-LG-LGA-53780,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0880,AU-LG-LGA-22670,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0881,AU-LG-LGA-72800,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0882,AU-LG-LGA-44830,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0883,AU-LG-LGA-24650,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0884,AU-LG-LGA-25620,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0885,AU-LG-LGA-50980,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0886,AU-LG-LGA-37600,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0887,AU-LG-LGA-44340,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0888,AU-LG-LGA-57700,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0889,AU-LG-LGA-58610,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0890,AU-LG-LGA-36510,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0891,AU-LG-LGA-50560,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0892,AU-LG-LGA-79399,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0893,AU-LG-LGA-26350,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0894,AU-LG-LGA-50910,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0895,AU-LG-LGA-23190,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0896,AU-LG-LGA-23670,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0897,AU-LG-LGA-20660,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0898,AU-LG-LGA-71000,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0899,AU-LG-LGA-53710,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0900,AU-LG-LGA-52940,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0901,AU-LG-LGA-72300,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0902,AU-LG-LGA-45340,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0903,AU-LG-LGA-42030,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0904,AU-LG-LGA-51610,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0905,AU-LG-LGA-26170,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0906,AU-LG-LGA-21270,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0907,AU-LG-LGA-26260,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0908,AU-LG-LGA-45290,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0909,AU-LG-LGA-34710,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0910,AU-LG-LGA-34880,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0911,AU-LG-LGA-22170,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0912,AU-LG-LGA-30300,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0913,AU-LG-LGA-41140,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0914,AU-LG-LGA-32600,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0915,AU-LG-LGA-47800,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0916,AU-LG-LGA-34590,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0917,AU-LG-LGA-44210,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0918,AU-LG-LGA-22620,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0919,AU-LG-LGA-30760,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0920,AU-LG-LGA-24130,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0921,AU-LG-LGA-53570,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0922,AU-LG-LGA-21670,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0923,AU-LG-LGA-72200,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0924,AU-LG-LGA-74660,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0925,AU-LG-LGA-30370,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0926,AU-LG-LGA-51470,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0927,AU-LG-LGA-25990,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0928,AU-LG-LGA-59310,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0929,AU-LG-LGA-34860,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0930,AU-LG-LGA-56790,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0931,AU-LG-LGA-52590,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0932,AU-LG-LGA-56730,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0933,AU-LG-LGA-50770,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0934,AU-LG-LGA-60810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0935,AU-LG-LGA-33800,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0936,AU-LG-LGA-65210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0937,AU-LG-LGA-57080,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0938,AU-LG-LGA-59370,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0939,AU-LG-LGA-20260,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0940,AU-LG-LGA-46970,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0941,AU-LG-LGA-53220,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0942,AU-LG-LGA-57630,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0943,AU-LG-LGA-32770,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0944,AU-LG-LGA-55390,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0945,AU-LG-LGA-52240,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0946,AU-LG-LGA-48640,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0947,AU-LG-LGA-35010,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0948,AU-LG-LGA-63410,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0949,AU-LG-LGA-42250,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0950,AU-LG-LGA-34570,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0951,AU-LG-LGA-41330,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0952,AU-LG-LGA-26670,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0953,AU-LG-LGA-59340,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0954,AU-LG-LGA-30250,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0955,AU-LG-LGA-26430,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0956,AU-LG-LGA-58050,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0957,AU-LG-LGA-65610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0958,AU-LG-LGA-41960,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0959,AU-LG-LGA-63210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0960,AU-LG-LGA-51400,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0961,AU-LG-LGA-41830,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0962,AU-LG-LGA-33200,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0963,AU-LG-LGA-26980,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0964,AU-LG-LGA-24410,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0965,AU-LG-LGA-56230,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0966,AU-LG-LGA-35780,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0967,AU-LG-LGA-58680,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0968,AU-LG-LGA-42110,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0969,AU-LG-LGA-58400,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0970,AU-LG-LGA-48410,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0971,AU-LG-LGA-57420,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0972,AU-LG-LGA-24330,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0973,AU-LG-LGA-51890,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0974,AU-LG-LGA-58510,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0975,AU-LG-LGA-26890,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0976,AU-LG-LGA-56460,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0977,AU-LG-LGA-47630,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0978,AU-LG-LGA-53150,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0979,AU-LG-LGA-35300,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g0980,AU-LG-LGA-40250,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0981,AU-LG-LGA-50630,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0982,AU-LG-LGA-43710,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g0983,AU-LG-LGA-56620,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0984,AU-LG-LGA-23810,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0985,AU-LG-LGA-59330,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0986,AU-LG-LGA-56580,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0987,AU-LG-LGA-56090,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0988,AU-LG-LGA-55530,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0989,AU-LG-LGA-57000,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0990,AU-LG-LGA-61610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0991,AU-LG-LGA-58760,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0992,AU-LG-LGA-64210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0993,AU-LG-LGA-62610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0994,AU-LG-LGA-65810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g0995,AU-LG-LGA-55040,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g0996,AU-LG-LGA-71300,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g0997,AU-LG-LGA-25490,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0998,AU-LG-LGA-26700,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g0999,AU-LG-LGA-54760,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1000,AU-LG-LGA-47910,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1001,AU-LG-LGA-34770,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1002,AU-LG-LGA-43650,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1003,AU-LG-LGA-40070,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1004,AU-LG-LGA-54830,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1005,AU-LG-LGA-36150,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1006,AU-LG-LGA-46510,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1007,AU-LG-LGA-54410,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1008,AU-LG-LGA-24210,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1009,AU-LG-LGA-58540,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1010,AU-LG-LGA-31000,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1011,AU-LG-LGA-48130,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1012,AU-LG-LGA-22830,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1013,AU-LG-LGA-44620,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1014,AU-LG-LGA-55250,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1015,AU-LG-LGA-24250,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1016,AU-LG-LGA-48750,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1017,AU-LG-LGA-50080,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1018,AU-LG-LGA-62410,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g1019,AU-LG-LGA-52870,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1020,AU-LG-LGA-48830,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1021,AU-LG-LGA-40310,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1022,AU-LG-LGA-53990,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1023,AU-LG-LGA-43220,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1024,AU-LG-LGA-44000,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1025,AU-LG-LGA-54690,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1026,AU-LG-LGA-51540,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1027,AU-LG-LGA-55740,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1028,AU-LG-LGA-32260,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1029,AU-LG-LGA-44550,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1030,AU-LG-LGA-51750,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1031,AU-LG-LGA-70420,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g1032,AU-LG-LGA-56930,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1033,AU-LG-LGA-30450,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1034,AU-LG-LGA-23430,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1035,AU-LG-LGA-24900,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1036,AU-LG-LGA-61510,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g1037,AU-LG-LGA-57490,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1038,AU-LG-LGA-21370,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1039,AU-LG-LGA-32810,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1040,AU-LG-LGA-70700,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g1041,AU-LG-LGA-52660,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1042,AU-LG-LGA-58820,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1043,AU-LG-LGA-32330,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1044,AU-LG-LGA-40700,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1045,AU-LG-LGA-31900,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1046,AU-LG-LGA-52380,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1047,AU-LG-LGA-57210,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1048,AU-LG-LGA-74550,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g1049,AU-LG-LGA-22980,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1050,AU-LG-LGA-46860,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1051,AU-LG-LGA-32500,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1052,AU-LG-LGA-22250,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1053,AU-LG-LGA-45400,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1054,AU-LG-LGA-46670,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1055,AU-LG-LGA-25340,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1056,AU-LG-LGA-54550,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1057,AU-LG-LGA-45090,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1058,AU-LG-LGA-64610,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g1059,AU-LG-LGA-27070,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1060,AU-LG-LGA-35740,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1061,AU-LG-LGA-27630,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1062,AU-LG-LGA-49399,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1063,AU-LG-LGA-45540,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1064,AU-LG-LGA-46450,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1065,AU-LG-LGA-31950,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1066,AU-LG-LGA-53800,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1067,AU-LG-LGA-55460,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1068,AU-LG-LGA-51260,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1069,AU-LG-LGA-52100,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1070,AU-LG-LGA-35760,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1071,AU-LG-LGA-50490,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1072,AU-LG-LGA-58190,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1073,AU-LG-LGA-59170,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1074,AU-LG-LGA-36820,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1075,AU-LG-LGA-25250,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1076,AU-LG-LGA-35800,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1077,AU-LG-LGA-74050,AU-IGF-LGANT,member_of,Member council,,,,MEDIUM,
+g1078,AU-LG-LGA-54900,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1079,AU-LG-LGA-50250,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1080,AU-LG-LGA-54480,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1081,AU-LG-LGA-56860,AU-IGF-WALGA,member_of,Member council,,,,MEDIUM,
+g1082,AU-LG-LGA-37310,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1083,AU-LG-LGA-32080,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1084,AU-LG-LGA-21830,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1085,AU-LG-LGA-23940,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1086,AU-LG-LGA-21010,AU-IGF-MAV,member_of,Member council,,,,MEDIUM,
+g1087,AU-LG-LGA-33430,AU-IGF-LGAQ,member_of,Member council,,,,MEDIUM,
+g1088,AU-LG-LGA-43080,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1089,AU-LG-LGA-40220,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1090,AU-LG-LGA-62810,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g1091,AU-LG-LGA-48340,AU-IGF-LGASA,member_of,Member council,,,,MEDIUM,
+g1092,AU-LG-LGA-62210,AU-IGF-LGAT,member_of,Member council,,,,MEDIUM,
+g1093,AU-CW-DEPT-FINANCE,AU-CW-CCE-RBA,shareholder_of,CW shareholder,,,,HIGH,
+g1094,AU-CW-DEPT-FINANCE,AU-CW-CCE-NAVAINFRPTYLTD,shareholder_of,CW shareholder,,,,HIGH,
+g1095,AU-CW-DEPT-FINANCE,AU-CW-CCE-REINPOOLCORP,shareholder_of,CW shareholder,,,,HIGH,
+g1096,AU-CW-DEPT-FINANCE,AU-CW-CCE-INTECORPLIMI,shareholder_of,CW shareholder,,,,HIGH,
+g1097,AU-CW-DEPT-FINANCE,AU-CW-CCE-RAILTRACCORPLIMI,shareholder_of,CW shareholder,,,,HIGH,
+g1098,AU-CW-DEPT-FINANCE,AU-CW-CCE-AIRS,shareholder_of,CW shareholder,,,,HIGH,
+g1099,AU-CW-DEPT-FINANCE,AU-CW-CCE-HEARSERVHEAR,shareholder_of,CW shareholder,,,,HIGH,
+g1100,AU-CW-DEPT-FINANCE,AU-CW-CCE-EXPOFINAEFA,shareholder_of,CW shareholder,,,,HIGH,
+g1101,AU-CW-DEPT-FINANCE,AU-CW-CCE-ASCPTYLTD,shareholder_of,CW shareholder,,,,HIGH,
+g1102,AU-CW-DEPT-FINANCE,AU-CW-CCE-COALMINIINDULONG,shareholder_of,CW shareholder,,,,HIGH,
+g1103,AU-CW-DEPT-FINANCE,AU-CW-CCE-SNOWHYDRLTD,shareholder_of,CW shareholder,,,,HIGH,
+x9000,AU-QLD-CONST-GOV,AU-QLD-DEPT-POLICE,parent_of,State portfolio,,,,MEDIUM,
+x9001,AU-QLD-CONST-GOV,AU-QLD-DEPT-HOUSING,parent_of,State portfolio,,,,MEDIUM,
+x9002,AU-QLD-CONST-GOV,AU-QLD-DEPT-JUSTICE,parent_of,State portfolio,,,,MEDIUM,
+x9003,AU-QLD-CONST-GOV,AU-QLD-DEPT-CORRECTIONS,parent_of,State portfolio,,,,MEDIUM,
+x9004,AU-QLD-CONST-GOV,AU-QLD-DEPT-COMMUNITIES,parent_of,State portfolio,,,,MEDIUM,
+x9005,AU-QLD-CONST-GOV,AU-QLD-DEPT-STATEDEV,parent_of,State portfolio,,,,MEDIUM,
+x9006,AU-QLD-CONST-GOV,AU-QLD-DEPT-YOUTHJUSTICE,parent_of,State portfolio,,,,MEDIUM,
+x9007,AU-QLD-CONST-GOV,AU-QLD-DEPT-CUSTOMER,parent_of,State portfolio,,,,MEDIUM,
+x9008,AU-QLD-CONST-GOV,AU-QLD-DEPT-PRIMARY,parent_of,State portfolio,,,,MEDIUM,
+x9009,AU-QLD-CONST-GOV,AU-QLD-DEPT-TRADE,parent_of,State portfolio,,,,MEDIUM,
+x9010,AU-QLD-CONST-GOV,AU-QLD-DEPT-ENVIRON,parent_of,State portfolio,,,,MEDIUM,
+x9011,AU-QLD-CONST-GOV,AU-QLD-DEPT-LOCALGOV,parent_of,State portfolio,,,,MEDIUM,
+x9012,AU-QLD-CONST-GOV,AU-QLD-DEPT-WOMEN,parent_of,State portfolio,,,,MEDIUM,
+x9013,AU-QLD-CONST-GOV,AU-QLD-DEPT-SPORT,parent_of,State portfolio,,,,MEDIUM,
+x9014,AU-QLD-CONST-GOV,AU-QLD-DEPT-FIRE,parent_of,State portfolio,,,,MEDIUM,
+x9015,AU-QLD-CONST-GOV,AU-QLD-DEPT-NATURALRES,parent_of,State portfolio,,,,MEDIUM,
+x9016,AU-NSW-CONST-GOV,AU-NSW-DEPT-DCJ,parent_of,State portfolio,,,,MEDIUM,
+x9017,AU-NSW-CONST-GOV,AU-NSW-DEPT-POLICE,parent_of,State portfolio,,,,MEDIUM,
+x9018,AU-NSW-CONST-GOV,AU-NSW-DEPT-INDUSTRY,parent_of,State portfolio,,,,MEDIUM,
+x9019,AU-NSW-CONST-GOV,AU-NSW-DEPT-ENERGY,parent_of,State portfolio,,,,MEDIUM,
+x9020,AU-NSW-CONST-GOV,AU-NSW-DEPT-CUSTOMER,parent_of,State portfolio,,,,MEDIUM,
+x9021,AU-NSW-CONST-GOV,AU-NSW-DEPT-CORRECTIONS,parent_of,State portfolio,,,,MEDIUM,
