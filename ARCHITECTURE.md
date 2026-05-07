@@ -1,13 +1,13 @@
 # Architecture
 
 **Version:** 4.1
-**Status:** Build-ready — under active architectural review
+**Status:** Build-ready - under active architectural review
 
 ---
 
 ## 1. Project Scope
 
-This project is a federated constitutional and governance atlas — broader than a narrow executive machinery of government model. The term "Machinery of Government" is retained for accessibility but the scope covers:
+This project is a federated constitutional and governance atlas - broader than a narrow executive machinery of government model. The term "Machinery of Government" is retained for accessibility but the scope covers:
 
 - Commonwealth, State, Territory and Local government
 - Parliamentary institutions
@@ -33,12 +33,12 @@ The v4.1 schema defines the following first-class objects:
 | `Relationship` | Enduring structural link between entities |
 | `Interaction` | Discrete action, decision or event by an accountable actor |
 | `Function` | What an authority empowers an entity to do |
-| `Legislation` | Act, regulation or instrument — first-class object (v4.1) |
-| `IntergovernmentalAgreement` | IGA — first-class object (v4.1) |
-| `CourtDecision` | Court determination — first-class object (v4.1) |
+| `Legislation` | Act, regulation or instrument - first-class object (v4.1) |
+| `IntergovernmentalAgreement` | IGA - first-class object (v4.1) |
+| `CourtDecision` | Court determination - first-class object (v4.1) |
 | `FinancialFlow` | Financial transfer between entities |
-| `Program` | Government program — first-class object (v4.1) |
-| `SpatialReference` | Spatial area — LGA, state, native title determination area, cadastral parcel |
+| `Program` | Government program - first-class object (v4.1) |
+| `SpatialReference` | Spatial area - LGA, state, native title determination area, cadastral parcel |
 | `NativeTitleStatus` | Native title determination record |
 | `Constraint` | Legal constraint on a function within a spatial area |
 
@@ -78,14 +78,14 @@ cross_government_committee
 ## 4. Authority Sources
 
 ```
-constitution                    — Commonwealth Constitution
-state_constitution              — State/Territory constitutions
-statute                         — Act of Parliament
-court_determination             — Court decision (e.g. native title)
-recognised_right                — Recognised rights
-executive                       — Cabinet/Executive Council/PM/Premier directive
-intergovernmental_agreement     — IGA between polities
-administrative_instrument       — AAO, terms of reference, executive instrument
+constitution                    - Commonwealth Constitution
+state_constitution              - State/Territory constitutions
+statute                         - Act of Parliament
+court_determination             - Court decision (e.g. native title)
+recognised_right                - Recognised rights
+executive                       - Cabinet/Executive Council/PM/Premier directive
+intergovernmental_agreement     - IGA between polities
+administrative_instrument       - AAO, terms of reference, executive instrument
 ```
 
 **Core rule:** Authority is never inferred. Every entity's existence and every power it exercises must trace to an explicit Authority record citing a legal instrument.
@@ -114,17 +114,17 @@ administrative_instrument       — AAO, terms of reference, executive instrumen
 
 ### Relationship View
 - Primary exploration view
-- Radial cluster layout — no single central node
+- Radial cluster layout - no single central node
 - Clustered by jurisdiction and entity type
 - Default edges: portfolio membership, regulatory authority, coordination
 - Toggleable: funding, controlled entity, shareholder, membership, constitutional basis
 
 ### Map View
 - Spatial view
-- Commonwealth entities: national overlay or floating node — not pinned to Canberra
+- Commonwealth entities: national overlay or floating node - not pinned to Canberra
 - State/Territory entities: polygon highlight + capital city anchor
 - Local government: clustered within state polygon
-- Intergovernmental bodies: connectors between member polities — not inside any single jurisdiction
+- Intergovernmental bodies: connectors between member polities - not inside any single jurisdiction
 - Non-spatial entities: floating layer / panel only
 
 ### Authority View
@@ -155,7 +155,7 @@ administrative_instrument       — AAO, terms of reference, executive instrumen
 |---|---|---|
 | `normal` | Solid border | Yes |
 | `provisional` | Dashed border + warning badge | Yes |
-| `deprecated` | 40% opacity | No — requires explicit filter |
+| `deprecated` | 40% opacity | No - requires explicit filter |
 
 ---
 
@@ -168,13 +168,13 @@ The graph has no administrative root. Commonwealth entities do not sit above sta
 Spatial coverage describes where an entity operates or has effect. It does not determine legal authority. Authority is held in Authority records, never inferred from the map.
 
 ### Westminster responsible government
-The model correctly represents the fusion of executive and legislature in Westminster systems. Ministers are members of Parliament and the Executive simultaneously. This is not a defect — it is a constitutional fact that the model must represent accurately.
+The model correctly represents the fusion of executive and legislature in Westminster systems. Ministers are members of Parliament and the Executive simultaneously. This is not a defect - it is a constitutional fact that the model must represent accurately.
 
 ### Judicial separation
 Courts are modelled as constitutionally separate from the executive. Visual architecture must not imply executive authority over judicial institutions.
 
 ### Federation
-Commonwealth authority does not derive from superiority over States. Each polity is constitutionally grounded. Cross-jurisdiction relationships are modelled as coordination or intergovernmental agreement — not hierarchy.
+Commonwealth authority does not derive from superiority over States. Each polity is constitutionally grounded. Cross-jurisdiction relationships are modelled as coordination or intergovernmental agreement - not hierarchy.
 
 ### Functions and Legislation as first-class objects (v4.1)
 Free-text references to functions and Acts are deprecated. All references must use `function_id` and `legislation_id` pointing to first-class objects.
@@ -189,9 +189,9 @@ Free-text references to functions and Acts are deprecated. All references must u
 - For `cabinet_committee`, Authority source must be `executive`
 - For `ministerial_council`, Authority source must be `intergovernmental_agreement`
 - Where `authority_mechanism = delegated`, a Delegation record must exist
-- `function_id` must be populated — `power_or_function` (free text) is deprecated
+- `function_id` must be populated - `power_or_function` (free text) is deprecated
 - Where `authority_source = statute`, `legislation_id` must be populated
-- `delegation_instrument` must cite a specific instrument — not generic
+- `delegation_instrument` must cite a specific instrument - not generic
 
 ---
 
@@ -207,7 +207,7 @@ Temporal scope covers:
 - IGA execution and termination
 - Court determinations
 
-Identifiers are stable across temporal changes — a new AAO does not create a new entity record; it creates a new relationship or updates `valid_to` on the existing one.
+Identifiers are stable across temporal changes - a new AAO does not create a new entity record; it creates a new relationship or updates `valid_to` on the existing one.
 
 ---
 
