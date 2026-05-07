@@ -1,7 +1,7 @@
 # Data
 
 **Version:** 4.1
-**Status:** Partially populated — significant provisional content
+**Status:** Partially populated - significant provisional content
 
 ---
 
@@ -24,14 +24,14 @@
 
 Entity and relationship data was sourced from:
 
-- **Commonwealth Budget Statements** (2025-26) — portfolio structure, entity lists, financial flows
-- **Administrative Arrangements Orders** — Commonwealth portfolio and function assignments
-- **Safe Work Australia / agency websites** — entity existence and legislative basis
-- **Australian Government organisations register** — PGPA entity classification
-- **State and Territory government websites** — state entity structure
-- **Federal Register of Legislation** — Act citations and commencement dates
-- **NNTT Register of Native Title Determinations** — native title spatial data
-- **ABS Australian Statistical Geography Standard** — LGA and state boundary identifiers
+- **Commonwealth Budget Statements** (2025-26) - portfolio structure, entity lists, financial flows
+- **Administrative Arrangements Orders** - Commonwealth portfolio and function assignments
+- **Safe Work Australia / agency websites** - entity existence and legislative basis
+- **Australian Government organisations register** - PGPA entity classification
+- **State and Territory government websites** - state entity structure
+- **Federal Register of Legislation** - Act citations and commencement dates
+- **NNTT Register of Native Title Determinations** - native title spatial data
+- **ABS Australian Statistical Geography Standard** - LGA and state boundary identifiers
 
 Data was extracted through a combination of PDF scraping, structured web extraction, and manual curation. Budget Statements were processed as Word documents via the Claude project context.
 
@@ -50,7 +50,7 @@ Records marked `status: provisional` are present in the model but have not been 
 - Financial flow amount confirmed but authority source not yet resolved
 - Relationship inferred from organisational context rather than confirmed from instrument
 
-**232 of 240 financial flow records are currently provisional** — amounts are drawn from Budget Statements but the specific authority instruments (appropriation act references, program IDs) are not yet fully resolved.
+**232 of 240 financial flow records are currently provisional** - amounts are drawn from Budget Statements but the specific authority instruments (appropriation act references, program IDs) are not yet fully resolved.
 
 ### Deprecated records
 Records marked `status: deprecated` represent entities or relationships that no longer exist. They are hidden by default in the interface but retained in the dataset for temporal completeness.
@@ -60,8 +60,8 @@ Records marked `status: deprecated` represent entities or relationships that no 
 ## Known Gaps
 
 - **Commonwealth**: AAO references partially populated; some non-corporate Commonwealth entities lack `legal_basis_id` resolution to specific statutory sections
-- **States/Territories**: Coverage is partial — Queensland and NSW are more complete than other states
-- **Local government**: Placeholder coverage only — 537 local government councils are not individually modelled at this stage
+- **States/Territories**: Coverage is partial - Queensland and NSW are more complete than other states
+- **Local government**: Placeholder coverage only - 537 local government councils are not individually modelled at this stage
 - **Legislation dataset**: Referenced throughout the model but a complete `Legislation` object dataset is not yet built
 - **IntergovernmentalAgreement dataset**: Key IGAs modelled (CFFR, National Cabinet, Planning Ministers' Meeting) but coverage is incomplete
 - **Financial flows**: Authority resolution pending for 232 of 240 records
