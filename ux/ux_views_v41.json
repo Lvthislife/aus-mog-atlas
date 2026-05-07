@@ -1,0 +1,162 @@
+{
+  "relationship_view": {
+    "name": "Relationship View",
+    "description": "Primary exploration of entities and relationships (authority, coordination, portfolio).",
+    "role": "primary",
+    "layout": "radial_cluster_graph",
+    "primary_nodes": "ux_nodes_v41",
+    "edges": "ux_edges_v41",
+    "central_node": null,
+    "no_single_central_node": true,
+    "cluster_by": [
+      "jurisdiction",
+      "entity_type"
+    ],
+    "visual_groups": [
+      "Commonwealth cluster",
+      "NSW cluster",
+      "VIC cluster",
+      "QLD cluster",
+      "WA cluster",
+      "SA cluster",
+      "TAS cluster",
+      "ACT cluster",
+      "NT cluster",
+      "Local Government cluster",
+      "Intergovernmental / Committee cluster"
+    ],
+    "edge_visibility": {
+      "default_on": [
+        "portfolio_membership",
+        "regulatory_authority",
+        "coordination"
+      ],
+      "default_off": [
+        "funding_relationship"
+      ],
+      "toggleable": [
+        "funding_relationship",
+        "controlled_entity",
+        "shareholder_entity",
+        "membership",
+        "constitutional_basis"
+      ]
+    },
+    "interaction": {
+      "click_node": "open_panel",
+      "click_edge": "show_relationship_details",
+      "expand_node": "reveal_connected_entities"
+    },
+    "show_status_flags": true,
+    "default_filters": {
+      "status_flag": [
+        "normal",
+        "provisional"
+      ]
+    }
+  },
+  "map_view": {
+    "name": "Map View",
+    "description": "Spatial view of jurisdiction, coverage, and funding flows.",
+    "role": "secondary",
+    "base_layer": "Australia",
+    "spatial_nodes": "ux_spatial_nodes_v41",
+    "connectors": "ux_map_connectors_v41",
+    "rules_reference": "ux_map_rules_v41",
+    "interaction": {
+      "select_node": "highlight_coverage",
+      "select_edge": "show_connection",
+      "select_entity": "open_panel"
+    },
+    "show_status_flags": true,
+    "default_filters": {
+      "status_flag": [
+        "normal",
+        "provisional"
+      ]
+    },
+    "notes": "Spatial coverage is geographic only. Authority is read from the truth layer (Authority records), never inferred from the map."
+  },
+  "authority_view": {
+    "name": "Authority View",
+    "description": "Shows the chain Entity \u2192 Authority \u2192 Legislation / IGA / Instrument.",
+    "primary_nodes": "entities",
+    "edge_filter": {
+      "relationship_types": [
+        "constitutional_basis",
+        "regulatory_authority"
+      ]
+    },
+    "panel_sections": [
+      "authority_summary",
+      "legislation_list",
+      "functions"
+    ],
+    "group_by": "jurisdiction",
+    "show_status_flags": true,
+    "default_filters": {
+      "status_flag": [
+        "normal",
+        "provisional"
+      ]
+    }
+  },
+  "funding_view": {
+    "name": "Funding View",
+    "description": "Shows financial flows between entities, including provisional flows.",
+    "primary_nodes": "entities",
+    "edge_filter": {
+      "relationship_types": [
+        "funding_relationship"
+      ]
+    },
+    "edge_data_source": "financial_flows_v41_step2b",
+    "edge_attributes": [
+      "amount_aud",
+      "financial_year",
+      "authority_id",
+      "program_id",
+      "provisional_flag",
+      "derivation_method"
+    ],
+    "group_by": "jurisdiction",
+    "show_status_flags": true,
+    "notes": "232 of 240 financial flows have unresolved authority and are flagged provisional; render with warning indicator."
+  },
+  "coordination_view": {
+    "name": "Coordination View",
+    "description": "Shows intergovernmental coordination relationships and IGAs.",
+    "primary_nodes": "entities",
+    "edge_filter": {
+      "relationship_types": [
+        "coordination",
+        "membership"
+      ],
+      "edge_direction": "bidirectional_for_coordination"
+    },
+    "overlay_dataset": "intergov_agreements_v41_step2b",
+    "group_by": "display_group",
+    "show_status_flags": true,
+    "highlight": "Intergovernmental display_group"
+  },
+  "portfolio_view": {
+    "name": "Portfolio View",
+    "description": "Shows the portfolio hierarchy: portfolio departments and their entities.",
+    "primary_nodes": "entities",
+    "edge_filter": {
+      "relationship_types": [
+        "portfolio_membership",
+        "controlled_entity",
+        "shareholder_entity"
+      ]
+    },
+    "layout": "tree",
+    "root_filter": {
+      "entity_type": [
+        "department"
+      ]
+    },
+    "group_by": "jurisdiction",
+    "show_status_flags": true
+  }
+}

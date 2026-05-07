@@ -1,0 +1,230 @@
+{
+  "jurisdiction": {
+    "label": "Jurisdiction",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "act",
+        "label": "act"
+      },
+      {
+        "value": "commonwealth",
+        "label": "commonwealth"
+      },
+      {
+        "value": "cross_jurisdiction",
+        "label": "cross_jurisdiction"
+      },
+      {
+        "value": "nsw",
+        "label": "nsw"
+      },
+      {
+        "value": "nt",
+        "label": "nt"
+      },
+      {
+        "value": "qld",
+        "label": "qld"
+      },
+      {
+        "value": "sa",
+        "label": "sa"
+      },
+      {
+        "value": "tas",
+        "label": "tas"
+      },
+      {
+        "value": "vic",
+        "label": "vic"
+      },
+      {
+        "value": "wa",
+        "label": "wa"
+      }
+    ]
+  },
+  "entity_type": {
+    "label": "Entity type",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "cabinet_committee",
+        "label": "cabinet_committee"
+      },
+      {
+        "value": "corporate_commonwealth_entity",
+        "label": "corporate_commonwealth_entity"
+      },
+      {
+        "value": "court",
+        "label": "court"
+      },
+      {
+        "value": "cross_government_committee",
+        "label": "cross_government_committee"
+      },
+      {
+        "value": "department",
+        "label": "department"
+      },
+      {
+        "value": "government_business_enterprise",
+        "label": "government_business_enterprise"
+      },
+      {
+        "value": "independent_officer",
+        "label": "independent_officer"
+      },
+      {
+        "value": "intergovernmental_body",
+        "label": "intergovernmental_body"
+      },
+      {
+        "value": "local_government_council",
+        "label": "local_government_council"
+      },
+      {
+        "value": "ministerial_council",
+        "label": "ministerial_council"
+      },
+      {
+        "value": "non_corporate_commonwealth_entity",
+        "label": "non_corporate_commonwealth_entity"
+      },
+      {
+        "value": "polity",
+        "label": "polity"
+      },
+      {
+        "value": "recognised_body",
+        "label": "recognised_body"
+      },
+      {
+        "value": "statutory_authority",
+        "label": "statutory_authority"
+      }
+    ]
+  },
+  "authority_source": {
+    "label": "Authority source",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "administrative_instrument",
+        "label": "administrative_instrument"
+      },
+      {
+        "value": "constitution",
+        "label": "constitution"
+      },
+      {
+        "value": "executive",
+        "label": "executive"
+      },
+      {
+        "value": "intergovernmental_agreement",
+        "label": "intergovernmental_agreement"
+      },
+      {
+        "value": "state_constitution",
+        "label": "state_constitution"
+      },
+      {
+        "value": "statute",
+        "label": "statute"
+      }
+    ]
+  },
+  "relationship_type": {
+    "label": "Relationship type",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "constitutional_basis",
+        "label": "Constitutional role"
+      },
+      {
+        "value": "controlled_entity",
+        "label": "Controls"
+      },
+      {
+        "value": "coordination",
+        "label": "Coordinates with"
+      },
+      {
+        "value": "funding_relationship",
+        "label": "Funds"
+      },
+      {
+        "value": "membership",
+        "label": "Member of"
+      },
+      {
+        "value": "portfolio_membership",
+        "label": "Part of portfolio"
+      },
+      {
+        "value": "regulatory_authority",
+        "label": "Regulates"
+      },
+      {
+        "value": "shareholder_entity",
+        "label": "Shareholder of"
+      }
+    ]
+  },
+  "status_flag": {
+    "label": "Status",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "normal",
+        "label": "Confirmed"
+      },
+      {
+        "value": "provisional",
+        "label": "Provisional (uncertain)"
+      },
+      {
+        "value": "deprecated",
+        "label": "Deprecated"
+      }
+    ],
+    "default_selected": [
+      "normal",
+      "provisional"
+    ]
+  },
+  "coverage_type": {
+    "label": "Coverage",
+    "multi_select": true,
+    "options": [
+      {
+        "value": "local",
+        "label": "Local"
+      },
+      {
+        "value": "multi_state",
+        "label": "Multi-state"
+      },
+      {
+        "value": "national",
+        "label": "National"
+      },
+      {
+        "value": "non_spatial",
+        "label": "Non-spatial"
+      },
+      {
+        "value": "state",
+        "label": "State"
+      },
+      {
+        "value": "territory",
+        "label": "Territory"
+      }
+    ]
+  }
+}

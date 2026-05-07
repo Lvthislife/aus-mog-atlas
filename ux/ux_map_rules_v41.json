@@ -1,0 +1,77 @@
+{
+  "principles": {
+    "no_central_node": true,
+    "authority_is_not_geography": "Spatial coverage describes where an entity operates or is located. It does NOT determine legal authority. Authority is held in the truth-layer Authority records.",
+    "national_not_pinned_to_canberra": "Commonwealth entities cover the whole nation. They are rendered as a national overlay or as a floating node \u2014 not as a point in the ACT."
+  },
+  "rules_by_coverage_type": {
+    "national": {
+      "render": [
+        "australia_wide_highlight",
+        "floating_node"
+      ],
+      "anchor_to_capital": false,
+      "notes": "Two rendering modes; UI may toggle. Floating-node mode keeps Commonwealth entities outside any state polygon."
+    },
+    "state": {
+      "render": [
+        "state_polygon_highlight",
+        "capital_city_anchor"
+      ],
+      "anchor_to_capital": true,
+      "show_polygon": true
+    },
+    "territory": {
+      "render": [
+        "territory_polygon_highlight",
+        "capital_city_anchor"
+      ],
+      "anchor_to_capital": true,
+      "show_polygon": true,
+      "territories": [
+        "ACT",
+        "NT"
+      ]
+    },
+    "local": {
+      "render": [
+        "cluster_within_state"
+      ],
+      "cluster_at_low_zoom": true,
+      "show_lga_boundary_at_low_zoom": false,
+      "reveal_individual_at_high_zoom": true
+    },
+    "multi_state": {
+      "render": [
+        "multi_polygon_highlight"
+      ],
+      "notes": "Cross-jurisdiction entities span more than one state/territory."
+    },
+    "non_spatial": {
+      "render": [
+        "floating_layer",
+        "panel_only"
+      ],
+      "place_on_map": false,
+      "notes": "Intergovernmental bodies, ministerial councils, cabinet committees, and cross-government committees are not placed inside any single jurisdiction."
+    }
+  },
+  "intergovernmental_rendering": {
+    "rule": "Render as connectors between member polities; never inside a single jurisdiction.",
+    "connector_anchors": "member_entity_jurisdictions"
+  },
+  "status_propagation": {
+    "provisional": {
+      "opacity": 1.0,
+      "border_style": "dashed",
+      "badge": "warning",
+      "visible_by_default": true
+    },
+    "deprecated": {
+      "opacity": 0.4,
+      "visible_by_default": false,
+      "requires_explicit_filter": true
+    },
+    "rule": "Same as ux_status_rules_v41.json \u2014 spatial view inherits truth-layer flags unchanged."
+  }
+}

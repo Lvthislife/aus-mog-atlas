@@ -1,0 +1,55 @@
+{
+  "connectors_by_relationship_type": {
+    "funding_relationship": {
+      "render": "directional_arrow",
+      "arrow_head": "to",
+      "colour_token": "financial",
+      "visible_on_map_by_default": true,
+      "animate_flow": true,
+      "notes": "Provisional flows render with dashed stroke per status rules."
+    },
+    "coordination": {
+      "render": "curved_connector",
+      "arrow_head": "both",
+      "visible_on_map_by_default": true,
+      "notes": "Bidirectional; rendered as curved arc between member polities."
+    },
+    "membership": {
+      "render": "spoke_to_shared_node",
+      "visible_on_map_by_default": true,
+      "shared_node_strategy": "parent_or_iga_target",
+      "notes": "Members of intergovernmental bodies/committees connect to a shared floating node representing the body itself."
+    },
+    "regulatory_authority": {
+      "render": "none",
+      "visible_on_map_by_default": false,
+      "visible_in_panel": true,
+      "notes": "Regulatory relationships shown only in the entity panel, not on map."
+    },
+    "portfolio_membership": {
+      "render": "none",
+      "visible_on_map_by_default": false,
+      "visible_in_relationship_view": true,
+      "notes": "Portfolio structure is shown in Relationship View, not on the map."
+    },
+    "controlled_entity": {
+      "render": "none",
+      "visible_on_map_by_default": false,
+      "visible_in_relationship_view": true
+    },
+    "shareholder_entity": {
+      "render": "none",
+      "visible_on_map_by_default": false,
+      "visible_in_relationship_view": true
+    },
+    "constitutional_basis": {
+      "render": "none",
+      "visible_on_map_by_default": false,
+      "visible_in_panel": true
+    }
+  },
+  "colour_tokens": {
+    "financial": "tokenised by client theme; semantic = \"money flow\""
+  },
+  "status_inheritance": "Connector status_flag inherits from underlying ux_edges_v41 row."
+}
