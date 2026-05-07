@@ -1,0 +1,1739 @@
+id,coverage_type,coverage_scope,map_anchor_type,map_anchor_value
+AU-CW-POLITY,national,AU,polygon,AU
+AU-NSW-POLITY,state,NSW,polygon,AU-NSW
+AU-VIC-POLITY,state,VIC,polygon,AU-VIC
+AU-QLD-POLITY,state,QLD,polygon,AU-QLD
+AU-WA-POLITY,state,WA,polygon,AU-WA
+AU-SA-POLITY,state,SA,polygon,AU-SA
+AU-TAS-POLITY,state,TAS,polygon,AU-TAS
+AU-ACT-POLITY,territory,ACT,polygon,AU-ACT
+AU-NT-POLITY,territory,NT,polygon,AU-NT
+AU-CW-DEPT-PMC,national,AU,point,AU
+AU-CW-DEPT-TREASURY,national,AU,point,AU
+AU-CW-DEPT-FINANCE,national,AU,point,AU
+AU-CW-DEPT-DEFENCE,national,AU,point,AU
+AU-CW-DEPT-HOMEAFFAIRS,national,AU,point,AU
+AU-CW-DEPT-HEALTH,national,AU,point,AU
+AU-CW-DEPT-EDUCATION,national,AU,point,AU
+AU-CW-DEPT-EMPLOY,national,AU,point,AU
+AU-CW-DEPT-SOCSVC,national,AU,point,AU
+AU-CW-DEPT-AGRIC,national,AU,point,AU
+AU-CW-DEPT-ENVWATER,national,AU,point,AU
+AU-CW-DEPT-INDUSTRY,national,AU,point,AU
+AU-CW-DEPT-INFRA,national,AU,point,AU
+AU-CW-DEPT-VETERANS,national,AU,point,AU
+AU-CW-DEPT-DFAT,national,AU,point,AU
+AU-CW-DEPT-AGS,national,AU,point,AU
+AU-CW-DEPT-PARL-DPS,national,AU,point,AU
+AU-CW-DEPT-PARL-LIBRARY,national,AU,point,AU
+AU-CW-DEPT-PARL-BUDGET,national,AU,point,AU
+AU-CW-DEPT-PARL-CLERK,national,AU,point,AU
+AU-CW-CCE-ATO,national,AU,point,AU
+AU-CW-CCE-RBA,national,AU,point,AU
+AU-CW-CCE-ACCC,national,AU,point,AU
+AU-CW-CCE-ASIC,national,AU,point,AU
+AU-CW-CCE-APRA,national,AU,point,AU
+AU-CW-CCE-HOUSINGAUST,national,AU,point,AU
+AU-CW-CCE-FFMA,national,AU,point,AU
+AU-CW-CCE-NDIA,national,AU,point,AU
+AU-CW-CCE-TGA,national,AU,point,AU
+AU-CW-CCE-ACDC,national,AU,point,AU
+AU-CW-CCE-SERVICESAUST,national,AU,point,AU
+AU-CW-CCE-AFP,national,AU,point,AU
+AU-CW-CCE-ASIO,national,AU,point,AU
+AU-CW-CCE-AUSTRAC,national,AU,point,AU
+AU-CW-CCE-NEMA,national,AU,point,AU
+AU-CW-CCE-ANNPSR,national,AU,point,AU
+AU-CW-CCE-AER,national,AU,point,AU
+AU-CW-CCE-AEMO,national,AU,point,AU
+AU-CW-CCE-CEFC,national,AU,point,AU
+AU-CW-CCE-CER,national,AU,point,AU
+AU-CW-CCE-MDBA,national,AU,point,AU
+AU-CW-CCE-ACARA,national,AU,point,AU
+AU-CW-CCE-TEQSA,national,AU,point,AU
+AU-CW-CCE-CSIRO,national,AU,point,AU
+AU-CW-CCE-ARENA,national,AU,point,AU
+AU-CW-CCE-ABC,national,AU,point,AU
+AU-CW-CCE-SBS,national,AU,point,AU
+AU-CW-CCE-ACMA,national,AU,point,AU
+AU-CW-CCE-AEC,national,AU,point,AU
+AU-CW-CCE-NACC,national,AU,point,AU
+AU-CW-CCE-ALRC,national,AU,point,AU
+AU-CW-GBE-AUSPOST,national,AU,point,AU
+AU-CW-GBE-NBNCOLTD,national,AU,point,AU
+AU-CW-GBE-SNOWYHYDRO,national,AU,point,AU
+AU-CW-GBE-ARTC,national,AU,point,AU
+AU-CW-GBE-DEFHOUSINGAUST,national,AU,point,AU
+AU-CW-GBE-WSACO,national,AU,point,AU
+AU-CW-GBE-CEATECH,national,AU,point,AU
+AU-NSW-DEPT-PREMIER,state,NSW,point,Sydney
+AU-NSW-DEPT-TREASURY,state,NSW,point,Sydney
+AU-NSW-DEPT-EDUCATION,state,NSW,point,Sydney
+AU-NSW-DEPT-TRANSPORT,state,NSW,point,Sydney
+AU-NSW-DEPT-DCJ,state,NSW,point,Sydney
+AU-NSW-DEPT-PLANNING,state,NSW,point,Sydney
+AU-NSW-SOC-SYDWATER,state,NSW,point,Sydney
+AU-NSW-SOC-HUNTERWATER,state,NSW,point,Sydney
+AU-NSW-SOC-WATERNSW,state,NSW,point,Sydney
+AU-NSW-SOC-ESSENTIALENERGY,state,NSW,point,Sydney
+AU-NSW-SOC-PORTAUTH,state,NSW,point,Sydney
+AU-NSW-SOC-TAHE,state,NSW,point,Sydney
+AU-NSW-SOC-LANDCOM,state,NSW,point,Sydney
+AU-NSW-PFC-TCORP,state,NSW,point,Sydney
+AU-NSW-PFC-ICARE,state,NSW,point,Sydney
+AU-VIC-SA-MELBWATER,state,VIC,point,Melbourne
+AU-VIC-SA-SEWATER,state,VIC,point,Melbourne
+AU-VIC-SA-VICTRACK,state,VIC,point,Melbourne
+AU-VIC-SA-TCV,state,VIC,point,Melbourne
+AU-VIC-SA-SECVIC,state,VIC,point,Melbourne
+AU-VIC-SA-CITYWESTWATER,state,VIC,point,Melbourne
+AU-VIC-SA-YARRAWATER,state,VIC,point,Melbourne
+AU-VIC-SA-HOMESVIC,state,VIC,point,Melbourne
+AU-VIC-SA-WORKSAFE,state,VIC,point,Melbourne
+AU-VIC-SA-TAC,state,VIC,point,Melbourne
+AU-VIC-SA-VMIA,state,VIC,point,Melbourne
+AU-VIC-SA-PORTMLB,state,VIC,point,Melbourne
+AU-VIC-SA-STATETOLLER,state,VIC,point,Melbourne
+AU-QLD-DEPT-PREMIER,state,QLD,point,Brisbane
+AU-QLD-DEPT-TREASURY,state,QLD,point,Brisbane
+AU-QLD-DEPT-HEALTH,state,QLD,point,Brisbane
+AU-QLD-GOC-CSENERGY,state,QLD,point,Brisbane
+AU-QLD-GOC-STANWELL,state,QLD,point,Brisbane
+AU-QLD-GOC-CLEANCO,state,QLD,point,Brisbane
+AU-QLD-GOC-ENERGYQLD,state,QLD,point,Brisbane
+AU-QLD-GOC-POWERLINK,state,QLD,point,Brisbane
+AU-QLD-GOC-QRAIL,state,QLD,point,Brisbane
+AU-QLD-GOC-QIC,state,QLD,point,Brisbane
+AU-QLD-GOC-QTC,state,QLD,point,Brisbane
+AU-QLD-GOC-SEQWATER,state,QLD,point,Brisbane
+AU-QLD-GOC-SUNWATER,state,QLD,point,Brisbane
+AU-QLD-SA-UNITYWATER,state,QLD,point,Brisbane
+AU-QLD-SA-QUU,state,QLD,point,Brisbane
+AU-QLD-SA-LINKWATER,state,QLD,point,Brisbane
+AU-WA-DEPT-PREMIER,state,WA,point,Perth
+AU-WA-DEPT-TREASURY,state,WA,point,Perth
+AU-WA-DEPT-HEALTH,state,WA,point,Perth
+AU-WA-GTE-WESTERNPOWER,state,WA,point,Perth
+AU-WA-GTE-WATERCORP,state,WA,point,Perth
+AU-WA-GTE-WATC,state,WA,point,Perth
+AU-WA-GTE-HORIZONPOWER,state,WA,point,Perth
+AU-WA-GTE-BUNBURYWATER,state,WA,point,Perth
+AU-WA-GTE-BUSSELTONWATER,state,WA,point,Perth
+AU-WA-GTE-FREMANTLEPORT,state,WA,point,Perth
+AU-WA-GTE-PILBARAPORTS,state,WA,point,Perth
+AU-WA-GTE-MIDWESTPORTS,state,WA,point,Perth
+AU-WA-GTE-KIMBERLEYPORTS,state,WA,point,Perth
+AU-WA-GTE-ICWA,state,WA,point,Perth
+AU-WA-GTE-PTA,state,WA,point,Perth
+AU-WA-DEPT-JUSTICE,state,WA,point,Perth
+AU-WA-DEPT-COMMUNITIES,state,WA,point,Perth
+AU-SA-DEPT-HEALTH,state,SA,point,Adelaide
+AU-SA-SA-SAWATER,state,SA,point,Adelaide
+AU-SA-SA-SAFA,state,SA,point,Adelaide
+AU-SA-SA-HOMESTART,state,SA,point,Adelaide
+AU-TAS-GBE-HYDRO,state,TAS,point,Hobart
+AU-TAS-SOC-TASNETWORKS,state,TAS,point,Hobart
+AU-TAS-SOC-AURORAENERGY,state,TAS,point,Hobart
+AU-TAS-SA-TASWATER,state,TAS,point,Hobart
+AU-TAS-SOC-TTLINE,state,TAS,point,Hobart
+AU-TAS-GBE-TASCORP,state,TAS,point,Hobart
+AU-ACT-DIR-CMTEDD,territory,ACT,point,Canberra
+AU-ACT-DIR-CED,territory,ACT,point,Canberra
+AU-ACT-DIR-HEALTH,territory,ACT,point,Canberra
+AU-ACT-DIR-EDUCATION,territory,ACT,point,Canberra
+AU-ACT-DIR-JACS,territory,ACT,point,Canberra
+AU-ACT-OLA,territory,ACT,point,Canberra
+AU-ACT-CHS,territory,ACT,point,Canberra
+AU-ACT-CIT,territory,ACT,point,Canberra
+AU-ACT-CFC,territory,ACT,point,Canberra
+AU-ACT-INFRA,territory,ACT,point,Canberra
+AU-ACT-AEC,territory,ACT,point,Canberra
+AU-ACT-TOC-ICONWATER,territory,ACT,point,Canberra
+AU-ACT-PTE-HOUSINGACT,territory,ACT,point,Canberra
+AU-ACT-PTE-SLA,territory,ACT,point,Canberra
+AU-ACT-PTE-CRA,territory,ACT,point,Canberra
+AU-ACT-PTE-CEMETERIES,territory,ACT,point,Canberra
+AU-NT-DEPT-CHIEFMIN,territory,NT,point,Darwin
+AU-NT-DEPT-TREASURY,territory,NT,point,Darwin
+AU-NT-DEPT-HEALTH,territory,NT,point,Darwin
+AU-NT-DEPT-CORRECTIONS,territory,NT,point,Darwin
+AU-NT-GOC-PWC,territory,NT,point,Darwin
+AU-NT-GOC-JACANA,territory,NT,point,Darwin
+AU-NT-GOC-TERRGEN,territory,NT,point,Darwin
+AU-CW-IGF-NATCAB,non_spatial,,none,
+AU-CW-IGF-CFFR,non_spatial,,none,
+AU-CW-IGF-MDBMINCOUNCIL,non_spatial,,none,
+AU-CW-IGF-NHVR,non_spatial,,none,
+AU-CW-IGF-AHMM,non_spatial,,none,
+AU-CW-IGF-ALGA,multi_state,AU,none,
+AU-CW-IGF-FSANZ,non_spatial,,none,
+AU-CW-IGF-NTC,non_spatial,,none,
+AU-NT-DEPT-LEGASSEMBLY,territory,NT,point,Darwin
+AU-NT-OFFICE-AUDITOR,territory,NT,point,Darwin
+AU-NT-OFFICE-ICAC,territory,NT,point,Darwin
+AU-NT-OFFICE-OMBUDSMAN,territory,NT,point,Darwin
+AU-NT-DEPT-POLICE,territory,NT,point,Darwin
+AU-NT-DEPT-FIRE,territory,NT,point,Darwin
+AU-NT-DEPT-AGFISH,territory,NT,point,Darwin
+AU-NT-DEPT-MINING,territory,NT,point,Darwin
+AU-NT-DEPT-AGD,territory,NT,point,Darwin
+AU-NT-DEPT-TOURISM,territory,NT,point,Darwin
+AU-NT-DEPT-LANDS,territory,NT,point,Darwin
+AU-NT-DEPT-EDUCATION,territory,NT,point,Darwin
+AU-NT-DEPT-TRADE,territory,NT,point,Darwin
+AU-NT-DEPT-CHILDREN,territory,NT,point,Darwin
+AU-NT-DEPT-PEOPLE,territory,NT,point,Darwin
+AU-WA-PARL-LEGASSEMBLY,state,WA,point,Perth
+AU-WA-PARL-LEGCOUNCIL,state,WA,point,Perth
+AU-WA-OFFICE-OMBUDSMAN,state,WA,point,Perth
+AU-WA-OFFICE-AUDITOR,state,WA,point,Perth
+AU-WA-SA-PSC,state,WA,point,Perth
+AU-WA-SA-ELECTORAL,state,WA,point,Perth
+AU-WA-SA-SAT,state,WA,point,Perth
+AU-WA-SA-CCYP,state,WA,point,Perth
+AU-WA-SA-INFOCOMM,state,WA,point,Perth
+AU-WA-SA-WORKCOVER,state,WA,point,Perth
+AU-WA-SA-WAIRC,state,WA,point,Perth
+AU-WA-SA-ERA,state,WA,point,Perth
+AU-WA-DEPT-ENERGY,state,WA,point,Perth
+AU-WA-DEPT-CREATIVE,state,WA,point,Perth
+AU-WA-DEPT-PRIMARY,state,WA,point,Perth
+AU-WA-DEPT-MINES,state,WA,point,Perth
+AU-WA-SA-SBDC,state,WA,point,Perth
+AU-WA-SA-RBDC,state,WA,point,Perth
+AU-WA-SA-WAMIA,state,WA,point,Perth
+AU-WA-SA-FPC,state,WA,point,Perth
+AU-WA-SA-RWWA,state,WA,point,Perth
+AU-WA-SA-MHC,state,WA,point,Perth
+AU-WA-SA-HADSCO,state,WA,point,Perth
+AU-WA-SA-BCITB,state,WA,point,Perth
+AU-WA-SA-POLICE,state,WA,point,Perth
+AU-WA-SA-SSO,state,WA,point,Perth
+AU-WA-SA-LEGALAID,state,WA,point,Perth
+AU-WA-DEPT-FES,state,WA,point,Perth
+AU-WA-SA-DPP,state,WA,point,Perth
+AU-WA-SA-CCC,state,WA,point,Perth
+AU-WA-SA-CHEMCENTRE,state,WA,point,Perth
+AU-WA-DEPT-LGIRS,state,WA,point,Perth
+AU-WA-SA-WASCT,state,WA,point,Perth
+AU-WA-SA-WAIS,state,WA,point,Perth
+AU-WA-SA-MCB,state,WA,point,Perth
+AU-WA-DEPT-TRANSPORT,state,WA,point,Perth
+AU-WA-SA-MAINROADS,state,WA,point,Perth
+AU-WA-DEPT-HOUSING,state,WA,point,Perth
+AU-WA-SA-WAPC,state,WA,point,Perth
+AU-WA-SA-NATIONALTRUST,state,WA,point,Perth
+AU-SA-DEPT-TRANSPORT,state,SA,point,Adelaide
+AU-SA-GBE-TAFESA,state,SA,point,Adelaide
+AU-SA-GBE-RENEWALSA,state,SA,point,Adelaide
+AU-SA-SA-RETURNTOWORK,state,SA,point,Adelaide
+AU-SA-SA-SAFEWORK,state,SA,point,Adelaide
+AU-ACT-OFFICE-AUDITOR,territory,ACT,point,Canberra
+AU-ACT-SA-HRC,territory,ACT,point,Canberra
+AU-LG-LGA-52730,local,Denmark,point,AU-WA
+AU-LG-LGA-24850,local,Mitchell,point,AU-VIC
+AU-LG-LGA-14400,local,Kiama,point,AU-NSW
+AU-LG-LGA-36250,local,Redland,point,AU-QLD
+AU-LG-LGA-17950,local,Warren,point,AU-NSW
+AU-LG-LGA-51120,local,Bruce Rock,point,AU-WA
+AU-LG-LGA-26490,local,Surf Coast,point,AU-VIC
+AU-LG-LGA-50840,local,Bridgetown-Greenbushes,point,AU-WA
+AU-LG-LGA-43360,local,Kingston (SA),point,AU-SA
+AU-LG-LGA-42750,local,Kangaroo Island,point,AU-SA
+AU-LG-LGA-12950,local,Gilgandra,point,AU-NSW
+AU-LG-LGA-25710,local,Nillumbik,point,AU-VIC
+AU-LG-LGA-22410,local,Glenelg,point,AU-VIC
+AU-LG-LGA-40150,local,Adelaide Plains,point,AU-SA
+AU-LG-LGA-25900,local,Port Phillip,point,AU-VIC
+AU-LG-LGA-32750,local,Diamantina,point,AU-QLD
+AU-LG-LGA-33100,local,Etheridge,point,AU-QLD
+AU-LG-LGA-26730,local,Warrnambool,point,AU-VIC
+AU-LG-LGA-11250,local,Broken Hill,point,AU-NSW
+AU-LG-LGA-48540,local,Whyalla,point,AU-SA
+AU-LG-LGA-36300,local,Richmond,point,AU-QLD
+AU-LG-LGA-60610,local,Burnie,point,AU-TAS
+AU-LG-LGA-23270,local,Hume,point,AU-VIC
+AU-LG-LGA-27260,local,Wyndham,point,AU-VIC
+AU-LG-LGA-54060,local,Irwin,point,AU-WA
+AU-LG-LGA-55320,local,Melville,point,AU-WA
+AU-LG-LGA-55950,local,Mukinbudin,point,AU-WA
+AU-LG-LGA-30410,local,Barcaldine,point,AU-QLD
+AU-LG-LGA-35670,local,Napranum,point,AU-QLD
+AU-LG-LGA-33830,local,Hope Vale,point,AU-QLD
+AU-LG-LGA-11800,local,Coffs Harbour,point,AU-NSW
+AU-LG-LGA-12380,local,Cumberland,point,AU-NSW
+AU-LG-LGA-53010,local,Dumbleyung,point,AU-WA
+AU-LG-LGA-10850,local,Blayney,point,AU-NSW
+AU-LG-LGA-54620,local,Kondinin,point,AU-WA
+AU-LG-LGA-74680,local,West Daly,point,AU-NT
+AU-LG-LGA-52800,local,Derby-West Kimberley,point,AU-WA
+AU-LG-LGA-45120,local,Northern Areas,point,AU-SA
+AU-LG-LGA-60410,local,Brighton,point,AU-TAS
+AU-LG-LGA-15350,local,Mosman,point,AU-NSW
+AU-LG-LGA-41750,local,Elliston,point,AU-SA
+AU-LG-LGA-12900,local,Forbes,point,AU-NSW
+AU-LG-LGA-14750,local,Leeton,point,AU-NSW
+AU-LG-LGA-40120,local,Adelaide Hills,point,AU-SA
+AU-LG-LGA-51680,local,Chittering,point,AU-WA
+AU-LG-LGA-58570,local,Vincent,point,AU-WA
+AU-LG-LGA-34580,local,Lockyer Valley,point,AU-QLD
+AU-LG-LGA-61010,local,Central Highlands (Tas.),point,AU-TAS
+AU-LG-LGA-54170,local,Joondalup,point,AU-WA
+AU-LG-LGA-53640,local,Gnowangerup,point,AU-WA
+AU-LG-LGA-71150,local,Darwin Waterfront Precinct,point,AU-NT
+AU-LG-LGA-59360,local,Yilgarn,point,AU-WA
+AU-LG-LGA-10050,local,Albury,point,AU-NSW
+AU-LG-LGA-17620,local,Upper Hunter Shire,point,AU-NSW
+AU-LG-LGA-37010,local,Townsville,point,AU-QLD
+AU-LG-LGA-55670,local,Morawa,point,AU-WA
+AU-LG-LGA-50420,local,Bayswater,point,AU-WA
+AU-LG-LGA-51330,local,Canning,point,AU-WA
+AU-LG-LGA-27170,local,Wodonga,point,AU-VIC
+AU-LG-LGA-53290,local,Esperance,point,AU-WA
+AU-LG-LGA-15900,local,Newcastle,point,AU-NSW
+AU-LG-LGA-16400,local,Port Stephens,point,AU-NSW
+AU-LG-LGA-37570,local,Wujal Wujal,point,AU-QLD
+AU-LG-LGA-54130,local,Jerramungup,point,AU-WA
+AU-LG-LGA-14000,local,Hornsby,point,AU-NSW
+AU-LG-LGA-12850,local,Fairfield,point,AU-NSW
+AU-LG-LGA-59320,local,Woodanilling,point,AU-WA
+AU-LG-LGA-47290,local,Southern Mallee,point,AU-SA
+AU-LG-LGA-21180,local,Brimbank,point,AU-VIC
+AU-LG-LGA-11700,local,Central Darling,point,AU-NSW
+AU-LG-LGA-64010,local,Launceston,point,AU-TAS
+AU-LG-LGA-11570,local,Canterbury-Bankstown,point,AU-NSW
+AU-LG-LGA-14870,local,Lithgow,point,AU-NSW
+AU-LG-LGA-74560,local,Wagait,point,AU-NT
+AU-LG-LGA-12160,local,Cootamundra-Gundagai Regional,point,AU-NSW
+AU-LG-LGA-36910,local,Toowoomba,point,AU-QLD
+AU-LG-LGA-16950,local,Shoalhaven,point,AU-NSW
+AU-LG-LGA-21450,local,Cardinia,point,AU-VIC
+AU-LG-LGA-70620,local,Central Desert,point,AU-NT
+AU-LG-LGA-47490,local,Streaky Bay,point,AU-SA
+AU-LG-LGA-22110,local,East Gippsland,point,AU-VIC
+AU-LG-LGA-16610,local,Richmond Valley,point,AU-NSW
+AU-LG-LGA-33610,local,Goondiwindi,point,AU-QLD
+AU-LG-LGA-46300,local,Port Lincoln,point,AU-SA
+AU-LG-LGA-16380,local,Port Macquarie-Hastings,point,AU-NSW
+AU-LG-LGA-89399,local,Unincorporated ACT,point,AU-ACT
+AU-LG-LGA-15990,local,Northern Beaches,point,AU-NSW
+AU-LG-LGA-32270,local,Central Highlands (Qld),point,AU-QLD
+AU-LG-LGA-32310,local,Charters Towers,point,AU-QLD
+AU-LG-LGA-40520,local,Berri Barmera,point,AU-SA
+AU-LG-LGA-20910,local,Bayside (Vic.),point,AU-VIC
+AU-LG-LGA-52030,local,Coorow,point,AU-WA
+AU-LG-LGA-53430,local,Fremantle,point,AU-WA
+AU-LG-LGA-35790,local,Palm Island,point,AU-QLD
+AU-LG-LGA-57980,local,Subiaco,point,AU-WA
+AU-LG-LGA-58260,local,Three Springs,point,AU-WA
+AU-LG-LGA-11300,local,Burwood,point,AU-NSW
+AU-LG-LGA-45040,local,Murray Bridge,point,AU-SA
+AU-LG-LGA-55810,local,Mount Magnet,point,AU-WA
+AU-LG-LGA-44060,local,Marion,point,AU-SA
+AU-LG-LGA-32450,local,Cloncurry,point,AU-QLD
+AU-LG-LGA-33620,local,Gympie,point,AU-QLD
+AU-LG-LGA-64810,local,Sorell,point,AU-TAS
+AU-LG-LGA-48050,local,Victor Harbor,point,AU-SA
+AU-LG-LGA-45890,local,Port Adelaide Enfield,point,AU-SA
+AU-LG-LGA-11750,local,Cobar,point,AU-NSW
+AU-LG-LGA-17200,local,Sydney,point,AU-NSW
+AU-LG-LGA-21110,local,Boroondara,point,AU-VIC
+AU-LG-LGA-14900,local,Liverpool,point,AU-NSW
+AU-LG-LGA-18350,local,Wingecarribee,point,AU-NSW
+AU-LG-LGA-51310,local,Cambridge,point,AU-WA
+AU-LG-LGA-59100,local,Wickepin,point,AU-WA
+AU-LG-LGA-10180,local,Armidale Regional,point,AU-NSW
+AU-LG-LGA-54310,local,Karratha,point,AU-WA
+AU-LG-LGA-21610,local,Casey,point,AU-VIC
+AU-LG-LGA-27450,local,Yarra Ranges,point,AU-VIC
+AU-LG-LGA-57140,local,Pingelly,point,AU-WA
+AU-LG-LGA-50210,local,Armadale,point,AU-WA
+AU-LG-LGA-55110,local,Mandurah,point,AU-WA
+AU-LG-LGA-47140,local,Salisbury,point,AU-SA
+AU-LG-LGA-17000,local,Singleton,point,AU-NSW
+AU-LG-LGA-57350,local,Quairading,point,AU-WA
+AU-LG-LGA-33220,local,Fraser Coast,point,AU-QLD
+AU-LG-LGA-58890,local,West Arthur,point,AU-WA
+AU-LG-LGA-15050,local,Maitland,point,AU-NSW
+AU-LG-LGA-41010,local,Ceduna,point,AU-SA
+AU-LG-LGA-22910,local,Hepburn,point,AU-VIC
+AU-LG-LGA-25430,local,Mount Alexander,point,AU-VIC
+AU-LG-LGA-36630,local,South Burnett,point,AU-QLD
+AU-LG-LGA-26080,local,Queenscliffe,point,AU-VIC
+AU-LG-LGA-18500,local,Woollahra,point,AU-NSW
+AU-LG-LGA-35250,local,Mornington,point,AU-QLD
+AU-LG-LGA-37400,local,Winton,point,AU-QLD
+AU-LG-LGA-41060,local,Charles Sturt,point,AU-SA
+AU-LG-LGA-13800,local,Hawkesbury,point,AU-NSW
+AU-LG-LGA-50280,local,Augusta Margaret River,point,AU-WA
+AU-LG-LGA-61810,local,Dorset,point,AU-TAS
+AU-LG-LGA-59030,local,Westonia,point,AU-WA
+AU-LG-LGA-20830,local,Baw Baw,point,AU-VIC
+AU-LG-LGA-25150,local,Moorabool,point,AU-VIC
+AU-LG-LGA-20740,local,Bass Coast,point,AU-VIC
+AU-LG-LGA-70540,local,Belyuen,point,AU-NT
+AU-LG-LGA-23350,local,Indigo,point,AU-VIC
+AU-LG-LGA-73600,local,Roper Gulf,point,AU-NT
+AU-LG-LGA-54200,local,Kalamunda,point,AU-WA
+AU-LG-LGA-42600,local,Holdfast Bay,point,AU-SA
+AU-LG-LGA-43790,local,Loxton Waikerie,point,AU-SA
+AU-LG-LGA-10650,local,Berrigan,point,AU-NSW
+AU-LG-LGA-55880,local,Mount Marshall,point,AU-WA
+AU-LG-LGA-57770,local,Shark Bay,point,AU-WA
+AU-LG-LGA-61210,local,Circular Head,point,AU-TAS
+AU-LG-LGA-11450,local,Camden,point,AU-NSW
+AU-LG-LGA-15800,local,Narrandera,point,AU-NSW
+AU-LG-LGA-11500,local,Campbelltown (NSW),point,AU-NSW
+AU-LG-LGA-21750,local,Colac Otway,point,AU-VIC
+AU-LG-LGA-12870,local,Federation,point,AU-NSW
+AU-LG-LGA-41190,local,Cleve,point,AU-SA
+AU-LG-LGA-27350,local,Yarra,point,AU-VIC
+AU-LG-LGA-37340,local,Whitsunday,point,AU-QLD
+AU-LG-LGA-47980,local,Unley,point,AU-SA
+AU-LG-LGA-23110,local,Hobsons Bay,point,AU-VIC
+AU-LG-LGA-60210,local,Break O'Day,point,AU-TAS
+AU-LG-LGA-26610,local,Swan Hill,point,AU-VIC
+AU-LG-LGA-17550,local,Tweed,point,AU-NSW
+AU-LG-LGA-54970,local,Laverton,point,AU-WA
+AU-LG-LGA-33980,local,Isaac,point,AU-QLD
+AU-LG-LGA-11650,local,Central Coast (NSW),point,AU-NSW
+AU-LG-LGA-17400,local,Tenterfield,point,AU-NSW
+AU-LG-LGA-52170,local,Cottesloe,point,AU-WA
+AU-LG-LGA-34530,local,Livingstone,point,AU-QLD
+AU-LG-LGA-47700,local,Tea Tree Gully,point,AU-SA
+AU-LG-LGA-40430,local,Barunga West,point,AU-SA
+AU-LG-LGA-52450,local,Cunderdin,point,AU-WA
+AU-LG-LGA-17080,local,Snowy Valleys,point,AU-NSW
+AU-LG-LGA-63810,local,Latrobe (Tas.),point,AU-TAS
+AU-LG-LGA-41560,local,Copper Coast,point,AU-SA
+AU-LG-LGA-56160,local,Murchison,point,AU-WA
+AU-LG-LGA-18050,local,Waverley,point,AU-NSW
+AU-LG-LGA-20570,local,Ballarat,point,AU-VIC
+AU-LG-LGA-40910,local,Campbelltown (SA),point,AU-SA
+AU-LG-LGA-14300,local,Junee,point,AU-NSW
+AU-LG-LGA-14170,local,Inner West,point,AU-NSW
+AU-LG-LGA-50350,local,Bassendean,point,AU-WA
+AU-LG-LGA-36580,local,Somerset,point,AU-QLD
+AU-LG-LGA-58330,local,Toodyay,point,AU-WA
+AU-LG-LGA-61410,local,Clarence,point,AU-TAS
+AU-LG-LGA-25060,local,Moonee Valley,point,AU-VIC
+AU-LG-LGA-63010,local,Huon Valley,point,AU-TAS
+AU-LG-LGA-13310,local,Goulburn Mulwaree,point,AU-NSW
+AU-LG-LGA-14850,local,Lismore,point,AU-NSW
+AU-LG-LGA-51710,local,Christmas Island,point,AU
+AU-LG-LGA-16700,local,Ryde,point,AU-NSW
+AU-LG-LGA-55600,local,Moora,point,AU-WA
+AU-LG-LGA-51960,local,Coolgardie,point,AU-WA
+AU-LG-LGA-45680,local,Playford,point,AU-SA
+AU-LG-LGA-16200,local,Parkes,point,AU-NSW
+AU-LG-LGA-34420,local,Kowanyama,point,AU-QLD
+AU-LG-LGA-65010,local,Southern Midlands,point,AU-TAS
+AU-LG-LGA-16150,local,Orange,point,AU-NSW
+AU-LG-LGA-24970,local,Monash,point,AU-VIC
+AU-LG-LGA-33960,local,Ipswich,point,AU-QLD
+AU-LG-LGA-13550,local,Gunnedah,point,AU-NSW
+AU-LG-LGA-54340,local,Katanning,point,AU-WA
+AU-LG-LGA-24600,local,Melbourne,point,AU-VIC
+AU-LG-LGA-36960,local,Torres Strait Island,point,AU-QLD
+AU-LG-LGA-31750,local,Bulloo,point,AU-QLD
+AU-LG-LGA-14100,local,Hunters Hill,point,AU-NSW
+AU-LG-LGA-26810,local,Wellington,point,AU-VIC
+AU-LG-LGA-22750,local,Greater Geelong,point,AU-VIC
+AU-LG-LGA-33360,local,Gladstone,point,AU-QLD
+AU-LG-LGA-55180,local,Manjimup,point,AU-WA
+AU-LG-LGA-56370,local,Narembeen,point,AU-WA
+AU-LG-LGA-51820,local,Cockburn,point,AU-WA
+AU-LG-LGA-37300,local,Weipa,point,AU-QLD
+AU-LG-LGA-34830,local,Mapoon,point,AU-QLD
+AU-LG-LGA-22310,local,Glen Eira,point,AU-VIC
+AU-LG-LGA-36720,local,Sunshine Coast,point,AU-QLD
+AU-LG-LGA-59350,local,Yalgoo,point,AU-WA
+AU-LG-LGA-14600,local,Lachlan,point,AU-NSW
+AU-LG-LGA-53080,local,Dundas,point,AU-WA
+AU-LG-LGA-57910,local,Stirling,point,AU-WA
+AU-LG-LGA-51080,local,Broomehill-Tambellup,point,AU-WA
+AU-LG-LGA-10550,local,Bega Valley,point,AU-NSW
+AU-LG-LGA-56300,local,Nannup,point,AU-WA
+AU-LG-LGA-36370,local,Rockhampton,point,AU-QLD
+AU-LG-LGA-17750,local,Wagga Wagga,point,AU-NSW
+AU-LG-LGA-21890,local,Darebin,point,AU-VIC
+AU-LG-LGA-72330,local,MacDonnell,point,AU-NT
+AU-LG-LGA-58470,local,Upper Gascoyne,point,AU-WA
+AU-LG-LGA-54280,local,Kalgoorlie-Boulder,point,AU-WA
+AU-LG-LGA-13010,local,Glen Innes Severn,point,AU-NSW
+AU-LG-LGA-18400,local,Wollondilly,point,AU-NSW
+AU-LG-LGA-12730,local,Edward River,point,AU-NSW
+AU-LG-LGA-36660,local,Southern Downs,point,AU-QLD
+AU-LG-LGA-11520,local,Canada Bay,point,AU-NSW
+AU-LG-LGA-48260,local,Walkerville,point,AU-SA
+AU-LG-LGA-53360,local,Exmouth,point,AU-WA
+AU-LG-LGA-12700,local,Dungog,point,AU-NSW
+AU-LG-LGA-32250,local,Carpentaria,point,AU-QLD
+AU-LG-LGA-35600,local,Murweh,point,AU-QLD
+AU-LG-LGA-15560,local,Murrumbidgee,point,AU-NSW
+AU-LG-LGA-15520,local,Murray River,point,AU-NSW
+AU-LG-LGA-37550,local,Woorabinda,point,AU-QLD
+AU-LG-LGA-65410,local,Waratah-Wynyard,point,AU-TAS
+AU-LG-LGA-57840,local,South Perth,point,AU-WA
+AU-LG-LGA-59250,local,Wiluna,point,AU-WA
+AU-LG-LGA-46090,local,Port Augusta,point,AU-SA
+AU-LG-LGA-22490,local,Golden Plains,point,AU-VIC
+AU-LG-LGA-20110,local,Alpine,point,AU-VIC
+AU-LG-LGA-12150,local,Coonamble,point,AU-NSW
+AU-LG-LGA-14950,local,Lockhart,point,AU-NSW
+AU-LG-LGA-24780,local,Mildura,point,AU-VIC
+AU-LG-LGA-31820,local,Bundaberg,point,AU-QLD
+AU-LG-LGA-51190,local,Bunbury,point,AU-WA
+AU-LG-LGA-15750,local,Narrabri,point,AU-NSW
+AU-LG-LGA-18450,local,Wollongong,point,AU-NSW
+AU-LG-LGA-30900,local,Boulia,point,AU-QLD
+AU-LG-LGA-57280,local,Port Hedland,point,AU-WA
+AU-LG-LGA-62010,local,Flinders (Tas.),point,AU-TAS
+AU-LG-LGA-52310,local,Cuballing,point,AU-WA
+AU-LG-LGA-52520,local,Dalwallinu,point,AU-WA
+AU-LG-LGA-13340,local,Greater Hume Shire,point,AU-NSW
+AU-LG-LGA-63610,local,Kingborough,point,AU-TAS
+AU-LG-LGA-34800,local,McKinlay,point,AU-QLD
+AU-LG-LGA-14500,local,Ku-ring-gai,point,AU-NSW
+AU-LG-LGA-36070,local,Pormpuraaw,point,AU-QLD
+AU-LG-LGA-29399,local,Unincorporated Vic,point,AU-VIC
+AU-LG-LGA-53920,local,Halls Creek,point,AU-WA
+AU-LG-LGA-70200,local,Alice Springs,point,AU-NT
+AU-LG-LGA-25810,local,Northern Grampians,point,AU-VIC
+AU-LG-LGA-53780,local,Gosnells,point,AU-WA
+AU-LG-LGA-22670,local,Greater Dandenong,point,AU-VIC
+AU-LG-LGA-16260,local,Parramatta,point,AU-NSW
+AU-LG-LGA-72800,local,Palmerston,point,AU-NT
+AU-LG-LGA-44830,local,Mount Remarkable,point,AU-SA
+AU-LG-LGA-24650,local,Melton,point,AU-VIC
+AU-LG-LGA-25620,local,Murrindindi,point,AU-VIC
+AU-LG-LGA-50980,local,Broome,point,AU-WA
+AU-LG-LGA-17640,local,Upper Lachlan Shire,point,AU-NSW
+AU-LG-LGA-37600,local,Yarrabah,point,AU-QLD
+AU-LG-LGA-44340,local,Mitcham,point,AU-SA
+AU-LG-LGA-57700,local,Serpentine-Jarrahdale,point,AU-WA
+AU-LG-LGA-58610,local,Wagin,point,AU-WA
+AU-LG-LGA-36510,local,Scenic Rim,point,AU-QLD
+AU-LG-LGA-50560,local,Beverley,point,AU-WA
+AU-LG-LGA-17420,local,The Hills Shire,point,AU-NSW
+AU-LG-LGA-18200,local,Wentworth,point,AU-NSW
+AU-LG-LGA-79399,local,Unincorporated NT,point,AU-NT
+AU-LG-LGA-26350,local,Stonnington,point,AU-VIC
+AU-LG-LGA-50910,local,Brookton,point,AU-WA
+AU-LG-LGA-11350,local,Byron,point,AU-NSW
+AU-LG-LGA-23190,local,Horsham,point,AU-VIC
+AU-LG-LGA-23670,local,Knox,point,AU-VIC
+AU-LG-LGA-20660,local,Banyule,point,AU-VIC
+AU-LG-LGA-71000,local,Darwin,point,AU-NT
+AU-LG-LGA-15240,local,Mid-Coast,point,AU-NSW
+AU-LG-LGA-53710,local,Goomalling,point,AU-WA
+AU-LG-LGA-52940,local,Dowerin,point,AU-WA
+AU-LG-LGA-72300,local,Litchfield,point,AU-NT
+AU-LG-LGA-45340,local,Onkaparinga,point,AU-SA
+AU-LG-LGA-42030,local,Gawler,point,AU-SA
+AU-LG-LGA-99399,local,Unincorp. Other Territories,point,AU
+AU-LG-LGA-10950,local,Bogan,point,AU-NSW
+AU-LG-LGA-19399,local,Unincorporated NSW,point,AU-NSW
+AU-LG-LGA-51610,local,Chapman Valley,point,AU-WA
+AU-LG-LGA-26170,local,South Gippsland,point,AU-VIC
+AU-LG-LGA-14920,local,Liverpool Plains,point,AU-NSW
+AU-LG-LGA-16100,local,Oberon,point,AU-NSW
+AU-LG-LGA-21270,local,Buloke,point,AU-VIC
+AU-LG-LGA-26260,local,Southern Grampians,point,AU-VIC
+AU-LG-LGA-45290,local,Norwood Payneham and St Peters,point,AU-SA
+AU-LG-LGA-34710,local,Longreach,point,AU-QLD
+AU-LG-LGA-34880,local,Mareeba,point,AU-QLD
+AU-LG-LGA-22170,local,Frankston,point,AU-VIC
+AU-LG-LGA-30300,local,Balonne,point,AU-QLD
+AU-LG-LGA-41140,local,Clare and Gilbert Valleys,point,AU-SA
+AU-LG-LGA-32600,local,Croydon,point,AU-QLD
+AU-LG-LGA-47800,local,Coorong,point,AU-SA
+AU-LG-LGA-10750,local,Blacktown,point,AU-NSW
+AU-LG-LGA-34590,local,Logan,point,AU-QLD
+AU-LG-LGA-44210,local,Mid Murray,point,AU-SA
+AU-LG-LGA-18100,local,Weddin,point,AU-NSW
+AU-LG-LGA-22620,local,Greater Bendigo,point,AU-VIC
+AU-LG-LGA-30760,local,Blackall Tambo,point,AU-QLD
+AU-LG-LGA-17650,local,Uralla,point,AU-NSW
+AU-LG-LGA-24130,local,Macedon Ranges,point,AU-VIC
+AU-LG-LGA-10600,local,Bellingen,point,AU-NSW
+AU-LG-LGA-53570,local,Gingin,point,AU-WA
+AU-LG-LGA-21670,local,Central Goldfields,point,AU-VIC
+AU-LG-LGA-72200,local,Katherine,point,AU-NT
+AU-LG-LGA-74660,local,West Arnhem,point,AU-NT
+AU-LG-LGA-30370,local,Banana,point,AU-QLD
+AU-LG-LGA-14700,local,Lane Cove,point,AU-NSW
+AU-LG-LGA-51470,local,Carnamah,point,AU-WA
+AU-LG-LGA-25990,local,Pyrenees,point,AU-VIC
+AU-LG-LGA-59310,local,Wongan-Ballidu,point,AU-WA
+AU-LG-LGA-16350,local,Penrith,point,AU-NSW
+AU-LG-LGA-11400,local,Cabonne,point,AU-NSW
+AU-LG-LGA-17040,local,Snowy Monaro Regional,point,AU-NSW
+AU-LG-LGA-10250,local,Ballina,point,AU-NSW
+AU-LG-LGA-34860,local,Maranoa,point,AU-QLD
+AU-LG-LGA-56790,local,Northampton,point,AU-WA
+AU-LG-LGA-52590,local,Dandaragan,point,AU-WA
+AU-LG-LGA-16550,local,Randwick,point,AU-NSW
+AU-LG-LGA-56730,local,Northam,point,AU-WA
+AU-LG-LGA-50770,local,Boyup Brook,point,AU-WA
+AU-LG-LGA-60810,local,Central Coast (Tas.),point,AU-TAS
+AU-LG-LGA-14220,local,Inverell,point,AU-NSW
+AU-LG-LGA-33800,local,Hinchinbrook,point,AU-QLD
+AU-LG-LGA-65210,local,Tasman,point,AU-TAS
+AU-LG-LGA-11200,local,Brewarrina,point,AU-NSW
+AU-LG-LGA-57080,local,Perth,point,AU-WA
+AU-LG-LGA-59370,local,York,point,AU-WA
+AU-LG-LGA-20260,local,Ararat,point,AU-VIC
+AU-LG-LGA-10800,local,Bland,point,AU-NSW
+AU-LG-LGA-46970,local,Roxby Downs,point,AU-SA
+AU-LG-LGA-53220,local,East Pilbara,point,AU-WA
+AU-LG-LGA-57630,local,Sandstone,point,AU-WA
+AU-LG-LGA-15950,local,North Sydney,point,AU-NSW
+AU-LG-LGA-17310,local,Tamworth Regional,point,AU-NSW
+AU-LG-LGA-17150,local,Sutherland Shire,point,AU-NSW
+AU-LG-LGA-32770,local,Doomadgee,point,AU-QLD
+AU-LG-LGA-55390,local,Menzies,point,AU-WA
+AU-LG-LGA-52240,local,Cranbrook,point,AU-WA
+AU-LG-LGA-48640,local,Wudinna,point,AU-SA
+AU-LG-LGA-12350,local,Cowra,point,AU-NSW
+AU-LG-LGA-35010,local,Moreton Bay,point,AU-QLD
+AU-LG-LGA-63410,local,King Island,point,AU-TAS
+AU-LG-LGA-42250,local,Grant,point,AU-SA
+AU-LG-LGA-34570,local,Lockhart River,point,AU-QLD
+AU-LG-LGA-41330,local,Coober Pedy,point,AU-SA
+AU-LG-LGA-26670,local,Towong,point,AU-VIC
+AU-LG-LGA-59340,local,Wyndham-East Kimberley,point,AU-WA
+AU-LG-LGA-30250,local,Aurukun,point,AU-QLD
+AU-LG-LGA-26430,local,Strathbogie,point,AU-VIC
+AU-LG-LGA-58050,local,Swan,point,AU-WA
+AU-LG-LGA-65610,local,West Coast,point,AU-TAS
+AU-LG-LGA-18710,local,Yass Valley,point,AU-NSW
+AU-LG-LGA-41960,local,Franklin Harbour,point,AU-SA
+AU-LG-LGA-63210,local,Kentish,point,AU-TAS
+AU-LG-LGA-51400,local,Capel,point,AU-WA
+AU-LG-LGA-41830,local,Flinders Ranges,point,AU-SA
+AU-LG-LGA-33200,local,Flinders (Qld),point,AU-QLD
+AU-LG-LGA-26980,local,Whitehorse,point,AU-VIC
+AU-LG-LGA-11720,local,Cessnock,point,AU-NSW
+AU-LG-LGA-24410,local,Maroondah,point,AU-VIC
+AU-LG-LGA-56230,local,Murray,point,AU-WA
+AU-LG-LGA-35780,local,Northern Peninsula Area,point,AU-QLD
+AU-LG-LGA-58680,local,Wandering,point,AU-WA
+AU-LG-LGA-42110,local,Goyder,point,AU-SA
+AU-LG-LGA-58400,local,Trayning,point,AU-WA
+AU-LG-LGA-17850,local,Walcha,point,AU-NSW
+AU-LG-LGA-48410,local,West Torrens,point,AU-SA
+AU-LG-LGA-57420,local,Ravensthorpe,point,AU-WA
+AU-LG-LGA-24330,local,Maribyrnong,point,AU-VIC
+AU-LG-LGA-51890,local,Collie,point,AU-WA
+AU-LG-LGA-58510,local,Victoria Park,point,AU-WA
+AU-LG-LGA-26890,local,West Wimmera,point,AU-VIC
+AU-LG-LGA-14350,local,Kempsey,point,AU-NSW
+AU-LG-LGA-10300,local,Balranald,point,AU-NSW
+AU-LG-LGA-12750,local,Eurobodalla,point,AU-NSW
+AU-LG-LGA-56460,local,Narrogin,point,AU-WA
+AU-LG-LGA-47630,local,Tatiara,point,AU-SA
+AU-LG-LGA-53150,local,East Fremantle,point,AU-WA
+AU-LG-LGA-35300,local,Mount Isa,point,AU-QLD
+AU-LG-LGA-40250,local,Anangu Pitjantjatjara Yunkunytjatjara,point,AU-SA
+AU-LG-LGA-50630,local,Boddington,point,AU-WA
+AU-LG-LGA-43710,local,Lower Eyre Peninsula,point,AU-SA
+AU-LG-LGA-56620,local,Ngaanyatjarraku,point,AU-WA
+AU-LG-LGA-23810,local,Latrobe (Vic.),point,AU-VIC
+AU-LG-LGA-59330,local,Wyalkatchem,point,AU-WA
+AU-LG-LGA-13910,local,Hilltops,point,AU-NSW
+AU-LG-LGA-56580,local,Nedlands,point,AU-WA
+AU-LG-LGA-56090,local,Mundaring,point,AU-WA
+AU-LG-LGA-55530,local,Mingenew,point,AU-WA
+AU-LG-LGA-57000,local,Perenjori,point,AU-WA
+AU-LG-LGA-61610,local,Devonport,point,AU-TAS
+AU-LG-LGA-58760,local,Wanneroo,point,AU-WA
+AU-LG-LGA-64210,local,Meander Valley,point,AU-TAS
+AU-LG-LGA-62610,local,Glenorchy,point,AU-TAS
+AU-LG-LGA-65810,local,West Tamar,point,AU-TAS
+AU-LG-LGA-55040,local,Leonora,point,AU-WA
+AU-LG-LGA-71300,local,East Arnhem,point,AU-NT
+AU-LG-LGA-11600,local,Carrathool,point,AU-NSW
+AU-LG-LGA-25490,local,Moyne,point,AU-VIC
+AU-LG-LGA-26700,local,Wangaratta,point,AU-VIC
+AU-LG-LGA-54760,local,Kulin,point,AU-WA
+AU-LG-LGA-47910,local,Tumby Bay,point,AU-SA
+AU-LG-LGA-34770,local,Mackay,point,AU-QLD
+AU-LG-LGA-43650,local,Light,point,AU-SA
+AU-LG-LGA-40070,local,Adelaide,point,AU-SA
+AU-LG-LGA-54830,local,Kwinana,point,AU-WA
+AU-LG-LGA-15650,local,Muswellbrook,point,AU-NSW
+AU-LG-LGA-36150,local,Quilpie,point,AU-QLD
+AU-LG-LGA-46510,local,Prospect,point,AU-SA
+AU-LG-LGA-54410,local,Kellerberrin,point,AU-WA
+AU-LG-LGA-17350,local,Temora,point,AU-NSW
+AU-LG-LGA-24210,local,Manningham,point,AU-VIC
+AU-LG-LGA-14550,local,Kyogle,point,AU-NSW
+AU-LG-LGA-58540,local,Victoria Plains,point,AU-WA
+AU-LG-LGA-10470,local,Bathurst Regional,point,AU-NSW
+AU-LG-LGA-12390,local,Dubbo Regional,point,AU-NSW
+AU-LG-LGA-31000,local,Brisbane,point,AU-QLD
+AU-LG-LGA-48130,local,Wakefield,point,AU-SA
+AU-LG-LGA-22830,local,Greater Shepparton,point,AU-VIC
+AU-LG-LGA-17100,local,Strathfield,point,AU-NSW
+AU-LG-LGA-44620,local,Mount Gambier,point,AU-SA
+AU-LG-LGA-13450,local,Griffith,point,AU-NSW
+AU-LG-LGA-55250,local,Meekatharra,point,AU-WA
+AU-LG-LGA-12000,local,Coolamon,point,AU-NSW
+AU-LG-LGA-24250,local,Mansfield,point,AU-VIC
+AU-LG-LGA-48750,local,Yankalilla,point,AU-SA
+AU-LG-LGA-50080,local,Albany,point,AU-WA
+AU-LG-LGA-18020,local,Warrumbungle Shire,point,AU-NSW
+AU-LG-LGA-62410,local,Glamorgan-Spring Bay,point,AU-TAS
+AU-LG-LGA-52870,local,Donnybrook-Balingup,point,AU-WA
+AU-LG-LGA-48830,local,Yorke Peninsula,point,AU-SA
+AU-LG-LGA-40310,local,Barossa,point,AU-SA
+AU-LG-LGA-53990,local,Harvey,point,AU-WA
+AU-LG-LGA-15700,local,Nambucca Valley,point,AU-NSW
+AU-LG-LGA-43220,local,Kimba,point,AU-SA
+AU-LG-LGA-44000,local,Maralinga Tjarutja,point,AU-SA
+AU-LG-LGA-54690,local,Koorda,point,AU-WA
+AU-LG-LGA-14650,local,Lake Macquarie,point,AU-NSW
+AU-LG-LGA-16490,local,Queanbeyan-Palerang Regional,point,AU-NSW
+AU-LG-LGA-13850,local,Hay,point,AU-NSW
+AU-LG-LGA-51540,local,Carnarvon,point,AU-WA
+AU-LG-LGA-15300,local,Moree Plains,point,AU-NSW
+AU-LG-LGA-55740,local,Mosman Park,point,AU-WA
+AU-LG-LGA-17900,local,Walgett,point,AU-NSW
+AU-LG-LGA-32260,local,Cassowary Coast,point,AU-QLD
+AU-LG-LGA-44550,local,Mount Barker,point,AU-SA
+AU-LG-LGA-10900,local,Blue Mountains,point,AU-NSW
+AU-LG-LGA-51750,local,Claremont,point,AU-WA
+AU-LG-LGA-70420,local,Barkly,point,AU-NT
+AU-LG-LGA-56930,local,Peppermint Grove,point,AU-WA
+AU-LG-LGA-30450,local,Barcoo,point,AU-QLD
+AU-LG-LGA-23430,local,Kingston (Vic.),point,AU-VIC
+AU-LG-LGA-24900,local,Moira,point,AU-VIC
+AU-LG-LGA-61510,local,Derwent Valley,point,AU-TAS
+AU-LG-LGA-57490,local,Rockingham,point,AU-WA
+AU-LG-LGA-21370,local,Campaspe,point,AU-VIC
+AU-LG-LGA-32810,local,Douglas,point,AU-QLD
+AU-LG-LGA-70700,local,Coomalie,point,AU-NT
+AU-LG-LGA-16900,local,Shellharbour,point,AU-NSW
+AU-LG-LGA-52660,local,Dardanup,point,AU-WA
+AU-LG-LGA-58820,local,Waroona,point,AU-WA
+AU-LG-LGA-15850,local,Narromine,point,AU-NSW
+AU-LG-LGA-32330,local,Cherbourg,point,AU-QLD
+AU-LG-LGA-40700,local,Burnside,point,AU-SA
+AU-LG-LGA-51860,local,Cocos Islands,point,AU
+AU-LG-LGA-31900,local,Burdekin,point,AU-QLD
+AU-LG-LGA-52380,local,Cue,point,AU-WA
+AU-LG-LGA-57210,local,Plantagenet,point,AU-WA
+AU-LG-LGA-74550,local,Victoria Daly,point,AU-NT
+AU-LG-LGA-22980,local,Hindmarsh,point,AU-VIC
+AU-LG-LGA-46860,local,Robe,point,AU-SA
+AU-LG-LGA-32500,local,Cook,point,AU-QLD
+AU-LG-LGA-22250,local,Gannawarra,point,AU-VIC
+AU-LG-LGA-45400,local,Orroroo Carrieton,point,AU-SA
+AU-LG-LGA-46670,local,Renmark Paringa,point,AU-SA
+AU-LG-LGA-11150,local,Bourke,point,AU-NSW
+AU-LG-LGA-25340,local,Mornington Peninsula,point,AU-VIC
+AU-LG-LGA-13660,local,Gwydir,point,AU-NSW
+AU-LG-LGA-54550,local,Kojonup,point,AU-WA
+AU-LG-LGA-45090,local,Naracoorte Lucindale,point,AU-SA
+AU-LG-LGA-64610,local,Northern Midlands,point,AU-TAS
+AU-LG-LGA-27070,local,Whittlesea,point,AU-VIC
+AU-LG-LGA-35740,local,Noosa,point,AU-QLD
+AU-LG-LGA-27630,local,Yarriambiack,point,AU-VIC
+AU-LG-LGA-49399,local,Unincorporated SA,point,AU-SA
+AU-LG-LGA-45540,local,Peterborough,point,AU-SA
+AU-LG-LGA-46450,local,Port Pirie,point,AU-SA
+AU-LG-LGA-31950,local,Burke,point,AU-QLD
+AU-LG-LGA-11730,local,Clarence Valley,point,AU-NSW
+AU-LG-LGA-53800,local,Greater Geraldton,point,AU-WA
+AU-LG-LGA-55460,local,Merredin,point,AU-WA
+AU-LG-LGA-51260,local,Busselton,point,AU-WA
+AU-LG-LGA-52100,local,Corrigin,point,AU-WA
+AU-LG-LGA-35760,local,North Burnett,point,AU-QLD
+AU-LG-LGA-10500,local,Bayside (NSW),point,AU-NSW
+AU-LG-LGA-15270,local,Mid-Western Regional,point,AU-NSW
+AU-LG-LGA-50490,local,Belmont,point,AU-WA
+AU-LG-LGA-58190,local,Tammin,point,AU-WA
+AU-LG-LGA-59170,local,Williams,point,AU-WA
+AU-LG-LGA-12930,local,Georges River,point,AU-NSW
+AU-LG-LGA-36820,local,Tablelands,point,AU-QLD
+AU-LG-LGA-18250,local,Willoughby,point,AU-NSW
+AU-LG-LGA-25250,local,Moreland,point,AU-VIC
+AU-LG-LGA-35800,local,Paroo,point,AU-QLD
+AU-LG-LGA-74050,local,Tiwi Islands,point,AU-NT
+AU-LG-LGA-54900,local,Lake Grace,point,AU-WA
+AU-LG-LGA-50250,local,Ashburton,point,AU-WA
+AU-LG-LGA-54480,local,Kent,point,AU-WA
+AU-LG-LGA-56860,local,Nungarin,point,AU-WA
+AU-LG-LGA-37310,local,Western Downs,point,AU-QLD
+AU-LG-LGA-32080,local,Cairns,point,AU-QLD
+AU-LG-LGA-21830,local,Corangamite,point,AU-VIC
+AU-LG-LGA-23940,local,Loddon,point,AU-VIC
+AU-LG-LGA-21010,local,Benalla,point,AU-VIC
+AU-LG-LGA-33430,local,Gold Coast,point,AU-QLD
+AU-LG-LGA-43080,local,Karoonda East Murray,point,AU-SA
+AU-LG-LGA-40220,local,Alexandrina,point,AU-SA
+AU-LG-LGA-62810,local,Hobart,point,AU-TAS
+AU-LG-LGA-48340,local,Wattle Range,point,AU-SA
+AU-LG-LGA-62210,local,George Town,point,AU-TAS
+AU-CW-CCE-DEFEVETESERVCOMM,national,AU,point,AU
+AU-CW-CCE-COMMABORTORRSTRA,national,AU,point,AU
+AU-CW-CCE-NETZEROECONAUTH,national,AU,point,AU
+AU-CW-CCE-ADMIREVITRIB,national,AU,point,AU
+AU-CW-CCE-OFFIINSPAGEDCARE,national,AU,point,AU
+AU-CW-CCE-PARLWORKSUPPSERV,national,AU,point,AU
+AU-CW-CCE-RECOFUNDCORP,national,AU,point,AU
+AU-CW-CCE-SUBMAGEN,national,AU,point,AU
+AU-CW-CCE-HIGHSPEERAILAUTH,national,AU,point,AU
+AU-CW-CCE-OFFIFAIRWORKOMBU,national,AU,point,AU
+AU-CW-CCE-NORTTERRABORINVE,national,AU,point,AU
+AU-CW-CCE-DOMEFAMISEXUVIOL,national,AU,point,AU
+AU-CW-CCE-NAVAINFRPTYLTD,national,AU,point,AU
+AU-CW-CCE-INDEPARLEXPEAUTH,national,AU,point,AU
+AU-CW-CCE-WARMEMO,national,AU,point,AU
+AU-CW-CCE-ROYAMINT,national,AU,point,AU
+AU-CW-CCE-PRODCOMM,national,AU,point,AU
+AU-CW-CCE-OFFIACCOSTANBOAR,national,AU,point,AU
+AU-CW-CCE-OFFIAUDIASSUSTAN,national,AU,point,AU
+AU-CW-CCE-COMPCOUN,national,AU,point,AU
+AU-CW-CCE-INSPTAXA,national,AU,point,AU
+AU-CW-CCE-GRANCOMM,national,AU,point,AU
+AU-CW-CCE-REINPOOLCORP,national,AU,point,AU
+AU-CW-CCE-OFFIFINAMANA,national,AU,point,AU
+AU-CW-CCE-BURESTAT,national,AU,point,AU
+AU-CW-CCE-INSTFAMISTUD,national,AU,point,AU
+AU-CW-CCE-WRECBAYABORCOMM,national,AU,point,AU
+AU-CW-CCE-TORRSTRAREGIAUTH,national,AU,point,AU
+AU-CW-CCE-TIWILANDCOUN,national,AU,point,AU
+AU-CW-CCE-OUTBSTORPTYLTD,national,AU,point,AU
+AU-CW-CCE-OFFIOFFISECRTO,national,AU,point,AU
+AU-CW-CCE-OFFIINSPINTESECU,national,AU,point,AU
+AU-CW-CCE-OFFIOMBU,national,AU,point,AU
+AU-CW-CCE-OFFIINTE,national,AU,point,AU
+AU-CW-CCE-NORTLANDCOUN,national,AU,point,AU
+AU-CW-CCE-DAYCOUNLIMI,national,AU,point,AU
+AU-CW-CCE-INDILANDSEACORP,national,AU,point,AU
+AU-CW-CCE-INDIBUSI,national,AU,point,AU
+AU-CW-CCE-DIGITRANAGEN,national,AU,point,AU
+AU-CW-CCE-CENTLANDCOUN,national,AU,point,AU
+AU-CW-CCE-PUBLSERVCOMM,national,AU,point,AU
+AU-CW-CCE-AUDIOFFI,national,AU,point,AU
+AU-CW-CCE-ANINLANDCOUN,national,AU,point,AU
+AU-CW-CCE-ABORHOSTLIMI,national,AU,point,AU
+AU-CW-CCE-HOUSREPR,national,AU,point,AU
+AU-CW-CCE-CAPIAUTH,national,AU,point,AU
+AU-CW-CCE-INTECORPLIMI,national,AU,point,AU
+AU-CW-CCE-INFR,national,AU,point,AU
+AU-CW-CCE-CIVIAVIASAFEAUTH,national,AU,point,AU
+AU-CW-CCE-TRANSAFEBURE,national,AU,point,AU
+AU-CW-CCE-RAILTRACCORPLIMI,national,AU,point,AU
+AU-CW-CCE-MARISAFEAUTH,national,AU,point,AU
+AU-CW-CCE-AIRS,national,AU,point,AU
+AU-CW-CCE-NORTINFRFACI,national,AU,point,AU
+AU-CW-CCE-OFFSPETRSAFEENVI,national,AU,point,AU
+AU-CW-CCE-IP,national,AU,point,AU
+AU-CW-CCE-GEOS,national,AU,point,AU
+AU-CW-CCE-NUCLSCIETECHORGA,national,AU,point,AU
+AU-CW-CCE-INSTMARISCIE,national,AU,point,AU
+AU-CW-CCE-HEARSERVHEAR,national,AU,point,AU
+AU-CW-CCE-PROFSERVREVI,national,AU,point,AU
+AU-CW-CCE-HEALFUNDBODY,national,AU,point,AU
+AU-CW-CCE-HEALMEDIRESECOUN,national,AU,point,AU
+AU-CW-CCE-BLOOAUTH,national,AU,point,AU
+AU-CW-CCE-INDEHEALAGEDCARE,national,AU,point,AU
+AU-CW-CCE-CANC,national,AU,point,AU
+AU-CW-CCE-SPORFOUNLIMI,national,AU,point,AU
+AU-CW-CCE-SPORCOMM,national,AU,point,AU
+AU-CW-CCE-RADIPROTNUCLSAFE,national,AU,point,AU
+AU-CW-CCE-ORGATISSAUTH,national,AU,point,AU
+AU-CW-CCE-PREVHEALAGEN,national,AU,point,AU
+AU-CW-CCE-INSTHEALWELF,national,AU,point,AU
+AU-CW-CCE-DIGIHEALAGEN,national,AU,point,AU
+AU-CW-CCE-COMMONSAFEQUAL,national,AU,point,AU
+AU-CW-CCE-TOUR,national,AU,point,AU
+AU-CW-CCE-EXPOFINAEFA,national,AU,point,AU
+AU-CW-CCE-TRADINVECOMMAUST,national,AU,point,AU
+AU-CW-CCE-SECRINTESERV,national,AU,point,AU
+AU-CW-CCE-CENTINTEAGRIRESE,national,AU,point,AU
+AU-CW-CCE-SUPECORP,national,AU,point,AU
+AU-CW-CCE-ASCPTYLTD,national,AU,point,AU
+AU-CW-CCE-SYDNHARBFEDETRUS,national,AU,point,AU
+AU-CW-CCE-GREABARRREEFMARI,national,AU,point,AU
+AU-CW-CCE-DIREPARK,national,AU,point,AU
+AU-CW-CCE-CLIMCHANAUTH,national,AU,point,AU
+AU-CW-CCE-BUREMETE,national,AU,point,AU
+AU-CW-CCE-WORKGENDEQUAAGEN,national,AU,point,AU
+AU-CW-CCE-SEAFSAFEREHACOMP,national,AU,point,AU
+AU-CW-CCE-SAFEWORK,national,AU,point,AU
+AU-CW-CCE-FAIRWORKCOMM,national,AU,point,AU
+AU-CW-CCE-COMC,national,AU,point,AU
+AU-CW-CCE-COALMINIINDULONG,national,AU,point,AU
+AU-CW-CCE-ASBESILISAFEERAD,national,AU,point,AU
+AU-CW-CCE-SKILQUALAUTHVOCA,national,AU,point,AU
+AU-CW-CCE-RESECOUN,national,AU,point,AU
+AU-CW-CCE-UNIV,national,AU,point,AU
+AU-CW-CCE-INSTTEACSCHOLEAD,national,AU,point,AU
+AU-CW-CCE-ROYANAVYRELITRUS,national,AU,point,AU
+AU-CW-CCE-ROYANAVYCENTCANT,national,AU,point,AU
+AU-CW-CCE-ROYAAIRFORCWELF,national,AU,point,AU
+AU-CW-CCE-ROYAAIRFORCVETE,national,AU,point,AU
+AU-CW-CCE-RAAFWELFRECRCOMP,national,AU,point,AU
+AU-CW-CCE-STRAPOLIINSTLIMI,national,AU,point,AU
+AU-CW-CCE-MILIFORCRELITRUS,national,AU,point,AU
+AU-CW-CCE-ARMYAIRFORCCANT,national,AU,point,AU
+AU-CW-CCE-AAFCOMPTRUSARMY,national,AU,point,AU
+AU-CW-CCE-SCRE,national,AU,point,AU
+AU-CW-CCE-PORTGALL,national,AU,point,AU
+AU-CW-CCE-MUSE,national,AU,point,AU
+AU-CW-CCE-LIBR,national,AU,point,AU
+AU-CW-CCE-GALL,national,AU,point,AU
+AU-CW-CCE-FILMSOUNARCH,national,AU,point,AU
+AU-CW-CCE-OLDPARLHOUS,national,AU,point,AU
+AU-CW-CCE-BUNDTRUS,national,AU,point,AU
+AU-CW-CCE-MARIMUSE,national,AU,point,AU
+AU-CW-CCE-FILMTELERADISCHO,national,AU,point,AU
+AU-CW-CCE-CREA,national,AU,point,AU
+AU-CW-CCE-OFFIDIREPUBLPROS,national,AU,point,AU
+AU-CW-CCE-OFFIINFOCOMM,national,AU,point,AU
+AU-CW-CCE-OFFIPARLCOUN,national,AU,point,AU
+AU-CW-CCE-ARCH,national,AU,point,AU
+AU-CW-CCE-FEDECOUR,national,AU,point,AU
+AU-CW-CCE-INSTCRIM,national,AU,point,AU
+AU-CW-CCE-HUMARIGHCOMM,national,AU,point,AU
+AU-CW-CCE-FINASECUAUTH,national,AU,point,AU
+AU-CW-CCE-CRIMINTECOMM,national,AU,point,AU
+AU-CW-CCE-RURAINDURESEDEVE,national,AU,point,AU
+AU-CW-CCE-GRAIRESEDEVECORP,national,AU,point,AU
+AU-CW-CCE-FISHRESEDEVECORP,national,AU,point,AU
+AU-CW-CCE-COTTRESEDEVECORP,national,AU,point,AU
+AU-CW-CCE-PESTVETEMEDIAUTH,national,AU,point,AU
+AU-CW-CCE-WINE,national,AU,point,AU
+AU-CW-CCE-FISHMANAAUTH,national,AU,point,AU
+AU-CW-CCE-OFFISPECINVE,national,AU,point,AU
+AU-CW-CCE-SPORINTE,national,AU,point,AU
+AU-CW-CCE-AGEDCAREQUALSAFE,national,AU,point,AU
+AU-CW-CCE-SNOWHYDRLTD,national,AU,point,AU
+AU-CW-CCE-SIGNDIRE,national,AU,point,AU
+AU-CW-CCE-NDISQUALSAFECOMM,national,AU,point,AU
+AU-CW-CCE-REGIINVECORP,national,AU,point,AU
+AU-CW-BOARD-DAT,national,AU,point,AU
+AU-CW-BOARD-INDINNSCIINN,national,AU,point,AU
+AU-CW-BOARD-INDINNSCIRDI,national,AU,point,AU
+AU-CW-BOARD-INDINNSCICOO,national,AU,point,AU
+AU-CW-BOARD-INDINNSCIIND,national,AU,point,AU
+AU-CW-BOARD-WILCOR,national,AU,point,AU
+AU-CW-BOARD-GENTECETHCOM,national,AU,point,AU
+AU-CW-BOARD-GENTECTEC,national,AU,point,AU
+AU-CW-BOARD-INTTRAREMFOR,national,AU,point,AU
+AU-CW-BOARD-WRI,national,AU,point,AU
+AU-CW-BOARD-FIRNAT,national,AU,point,AU
+AU-CW-BOARD-MUS,national,AU,point,AU
+AU-CW-BOARD-CREWOR,national,AU,point,AU
+AU-CW-BOARD-CAN,non_spatial,,none,
+AU-CW-BOARD-JOBSKIMIN,national,AU,point,AU
+AU-CW-BOARD-SPODRUMED,national,AU,point,AU
+AU-CW-BOARD-FEDSAFCOM,national,AU,point,AU
+AU-CW-BOARD-WORRELCON,national,AU,point,AU
+AU-CW-BOARD-OFFREGABOTOR,national,AU,point,AU
+AU-CW-BOARD-EXEDIRTOWLEA,national,AU,point,AU
+AU-CW-BOARD-OFFABOLANCOM,national,AU,point,AU
+AU-CW-BOARD-AGECARCOMCOM,national,AU,point,AU
+AU-CW-BOARD-AGECARQUASAF,non_spatial,,none,
+AU-CW-BOARD-RURINDRESDEV,national,AU,point,AU
+AU-CW-BOARD-MURBASCOM,national,AU,point,AU
+AU-CW-BOARD-RIVMUROPE,national,AU,point,AU
+AU-CW-BOARD-ONSOCECOENVS,national,AU,point,AU
+AU-CW-BOARD-BASOFF,national,AU,point,AU
+AU-CW-BOARD-GRARESDEVCOR,national,AU,point,AU
+AU-CW-BOARD-FISRESDEVCOR,national,AU,point,AU
+AU-CW-BOARD-COTRESDEVCOR,national,AU,point,AU
+AU-CW-BOARD-WINSEL,national,AU,point,AU
+AU-CW-BOARD-PRI,national,AU,point,AU
+AU-CW-BOARD-ARC,national,AU,point,AU
+AU-CW-BOARD-FEDCIRFAMCOU,national,AU,point,AU
+AU-CW-BOARD-DEFFORDISAPP,national,AU,point,AU
+AU-CW-BOARD-INSPOLMAN,national,AU,point,AU
+AU-CW-BOARD-ANTCOM,national,AU,point,AU
+AU-CW-BOARD-INSANTCOM,national,AU,point,AU
+AU-CW-BOARD-INDSECLEGMON,national,AU,point,AU
+AU-CW-BOARD-ADMREV,national,AU,point,AU
+AU-CW-BOARD-ADMRUL,national,AU,point,AU
+AU-CW-BOARD-FAMLAW,national,AU,point,AU
+AU-CW-BOARD-COPTRI,national,AU,point,AU
+AU-CW-BOARD-DIGRADPLA,national,AU,point,AU
+AU-CW-BOARD-ESACOM,national,AU,point,AU
+AU-CW-BOARD-CONCONFOR,national,AU,point,AU
+AU-CW-BOARD-ABC,national,AU,point,AU
+AU-CW-BOARD-INF,national,AU,point,AU
+AU-CW-BOARD-SBSCOM,national,AU,point,AU
+AU-CW-BOARD-DHA,national,AU,point,AU
+AU-CW-BOARD-AIRFORROYAIR,national,AU,point,AU
+AU-CW-BOARD-ARM,national,AU,point,AU
+AU-CW-BOARD-CHIJUDADV,national,AU,point,AU
+AU-CW-BOARD-DEFFORADV,national,AU,point,AU
+AU-CW-BOARD-DEFHONAWAAPP,national,AU,point,AU
+AU-CW-BOARD-DIRMILPRO,national,AU,point,AU
+AU-CW-BOARD-INSDEFFOR,national,AU,point,AU
+AU-CW-BOARD-JUDADVGENDEP,national,AU,point,AU
+AU-CW-BOARD-OFFRESSERPRO,national,AU,point,AU
+AU-CW-BOARD-REGMILJUS,national,AU,point,AU
+AU-CW-BOARD-NAVROYNAV,national,AU,point,AU
+AU-CW-BOARD-DIRDEFCOUSER,national,AU,point,AU
+AU-CW-BOARD-AUSECOACC,national,AU,point,AU
+AU-CW-BOARD-HIGEDUSTAPAN,national,AU,point,AU
+AU-CW-BOARD-TUIPROSER,national,AU,point,AU
+AU-CW-BOARD-TUIPROSERDIR,national,AU,point,AU
+AU-CW-BOARD-INSANIWELLIV,national,AU,point,AU
+AU-CW-BOARD-FUTDROFUNCON,national,AU,point,AU
+AU-CW-BOARD-ROATRAGRO,non_spatial,,none,
+AU-CW-BOARD-ASBSILSAFERA,national,AU,point,AU
+AU-CW-BOARD-VOCEDUTRAREG,non_spatial,,none,
+AU-CW-BOARD-RES,non_spatial,,none,
+AU-CW-BOARD-RUR,national,AU,point,AU
+AU-CW-BOARD-STAFISRIGALL,national,AU,point,AU
+AU-CW-BOARD-FORWOOPRO,national,AU,point,AU
+AU-CW-BOARD-DIRBIO,national,AU,point,AU
+AU-CW-BOARD-INSBIO,national,AU,point,AU
+AU-CW-BOARD-ULUTJUMAN,national,AU,point,AU
+AU-CW-BOARD-BOOMAN,national,AU,point,AU
+AU-CW-BOARD-KAKMAN,national,AU,point,AU
+AU-CW-BOARD-FUTFUNGUA,national,AU,point,AU
+AU-CW-BOARD-COMSUPSCH,national,AU,point,AU
+AU-CW-BOARD-DEFFORRETDEA,national,AU,point,AU
+AU-CW-BOARD-FUTFUNDESACT,national,AU,point,AU
+AU-CW-BOARD-MILSUPBENSCH,national,AU,point,AU
+AU-CW-BOARD-PUBSECSUPACC,national,AU,point,AU
+AU-CW-BOARD-PUBSECSUPSCH,national,AU,point,AU
+AU-CW-BOARD-OFFDATCOM,national,AU,point,AU
+AU-CW-BOARD-POLINTAGRRES,national,AU,point,AU
+AU-CW-BOARD-COMINTAGRRES,national,AU,point,AU
+AU-CW-BOARD-SAFNONOFF,national,AU,point,AU
+AU-CW-BOARD-ONBIO,national,AU,point,AU
+AU-CW-BOARD-ONCHESCH,national,AU,point,AU
+AU-CW-BOARD-ONCOMMED,national,AU,point,AU
+AU-CW-BOARD-ONMEDDEV,national,AU,point,AU
+AU-CW-BOARD-ONMEDSCH,national,AU,point,AU
+AU-CW-BOARD-ONVAC,national,AU,point,AU
+AU-CW-BOARD-COMPHAAUT,national,AU,point,AU
+AU-CW-BOARD-OFFGENTECREG,national,AU,point,AU
+AU-CW-BOARD-FIFREVDENBEN,non_spatial,,none,
+AU-CW-BOARD-OFFRURHEACOM,national,AU,point,AU
+AU-CW-BOARD-ONMED,national,AU,point,AU
+AU-CW-BOARD-HEADIR,non_spatial,,none,
+AU-CW-BOARD-MEDPARREV,national,AU,point,AU
+AU-CW-BOARD-INDCHEINTSCH,national,AU,point,AU
+AU-CW-BOARD-PHABEN,national,AU,point,AU
+AU-CW-BOARD-PHABENREMTRI,national,AU,point,AU
+AU-CW-BOARD-PHASERFEDINQ,national,AU,point,AU
+AU-CW-BOARD-NUCSAF,national,AU,point,AU
+AU-CW-BOARD-RADHEASAF,national,AU,point,AU
+AU-CW-BOARD-RADHEA,national,AU,point,AU
+AU-CW-BOARD-ORGTISDONTRA,non_spatial,,none,
+AU-CW-BOARD-DIGHEAAGECLI,non_spatial,,none,
+AU-CW-BOARD-DIGHEAAGECON,non_spatial,,none,
+AU-CW-BOARD-DIGHEAAGEJUR,non_spatial,,none,
+AU-CW-BOARD-DIGHEAAGEPRI,non_spatial,,none,
+AU-CW-BOARD-PATACC,national,AU,point,AU
+AU-CW-BOARD-COMONSAFQUAH,national,AU,point,AU
+AU-CW-BOARD-COMONSAFQUAH2,national,AU,point,AU
+AU-CW-BOARD-COMONSAFQUAH3,national,AU,point,AU
+AU-CW-BOARD-PROSERREVDET,national,AU,point,AU
+AU-CW-BOARD-PROSERREVPAN,national,AU,point,AU
+AU-CW-BOARD-ADMHEAFUNPOO,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRESHEA,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRESHEA2,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRESRES,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRESEMB,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRESCOM,national,AU,point,AU
+AU-CW-BOARD-HEAMEDRES,national,AU,point,AU
+AU-CW-BOARD-HAE,national,AU,point,AU
+AU-CW-BOARD-INDHEAAGECAR,national,AU,point,AU
+AU-CW-BOARD-INDHEAAGECAR2,national,AU,point,AU
+AU-CW-BOARD-INSTRASEC,national,AU,point,AU
+AU-CW-BOARD-BORFORCOM,national,AU,point,AU
+AU-CW-BOARD-CUSBROLIC,national,AU,point,AU
+AU-CW-BOARD-ANTCOM2,national,AU,point,AU
+AU-CW-BOARD-ANTREVPAN,national,AU,point,AU
+AU-CW-BOARD-INDPARAUT,national,AU,point,AU
+AU-CW-BOARD-MEAINS,national,AU,point,AU
+AU-CW-BOARD-OFFPETTITADM,national,AU,point,AU
+AU-CW-BOARD-INDINNSCI,national,AU,point,AU
+AU-CW-BOARD-OFFINFREG,national,AU,point,AU
+AU-CW-BOARD-FILCER,national,AU,point,AU
+AU-CW-BOARD-CULHER,national,AU,point,AU
+AU-CW-BOARD-PUBLENRIG,national,AU,point,AU
+AU-CW-BOARD-REGTELINDREV,national,AU,point,AU
+AU-CW-BOARD-CLA,national,AU,point,AU
+AU-CW-BOARD-CLAREV,national,AU,point,AU
+AU-CW-BOARD-NOMPANABCSBS,national,AU,point,AU
+AU-CW-BOARD-CHRISLEMEMAN,national,AU,point,AU
+AU-CW-BOARD-COCKEEISLEME,national,AU,point,AU
+AU-CW-BOARD-SPOTRI,national,AU,point,AU
+AU-CW-BOARD-CHIWELOFF,national,AU,point,AU
+AU-CW-BOARD-OFFPETSAFENV,national,AU,point,AU
+AU-CW-BOARD-CANMEM,national,AU,point,AU
+AU-CW-BOARD-INTAIRSERCOM,national,AU,point,AU
+AU-CW-BOARD-MOTVEHSTAREV,national,AU,point,AU
+AU-CW-BOARD-REGLINSHI,national,AU,point,AU
+AU-CW-BOARD-SLOCOM,national,AU,point,AU
+AU-CW-BOARD-SPEMAGJERBAY,national,AU,point,AU
+AU-CW-BOARD-ACTADMINDOCE,national,AU,point,AU
+AU-CW-BOARD-ADMNORISL,national,AU,point,AU
+AU-CW-BOARD-ADMINDOCETER,national,AU,point,AU
+AU-CW-BOARD-ADMVEHSTA,national,AU,point,AU
+AU-CW-BOARD-ASSADMVEHSTA,national,AU,point,AU
+AU-CW-BOARD-DEPADMINDOCE,national,AU,point,AU
+AU-CW-BOARD-JERBAYTEREME,national,AU,point,AU
+AU-CW-BOARD-JERBAYTERFIR,national,AU,point,AU
+AU-CW-BOARD-DIGGAMTAXOFF,national,AU,point,AU
+AU-CW-BOARD-SUPCOUNORISL,national,AU,point,AU
+AU-CW-BOARD-REMTRI,national,AU,point,AU
+AU-CW-BOARD-DEFFORREMTRI,national,AU,point,AU
+AU-CW-BOARD-OFFMERPROCOM,national,AU,point,AU
+AU-CW-BOARD-SMABUSFAMENT,national,AU,point,AU
+AU-CW-BOARD-FOOGROCODCON,non_spatial,,none,
+AU-CW-BOARD-DISINSSCHACT,national,AU,point,AU
+AU-CW-BOARD-NDIIND,national,AU,point,AU
+AU-CW-BOARD-DISINSSCHREV,national,AU,point,AU
+AU-CW-BOARD-ECOINC,non_spatial,,none,
+AU-CW-BOARD-EMEMED,national,AU,point,AU
+AU-CW-BOARD-STA,national,AU,point,AU
+AU-CW-BOARD-DATSTACHA,national,AU,point,AU
+AU-CW-BOARD-HOUSUPAFF,non_spatial,,none,
+AU-CW-BOARD-FINSERCREPAN,national,AU,point,AU
+AU-CW-BOARD-MOTVEHSERREP,national,AU,point,AU
+AU-CW-BOARD-FINREP,national,AU,point,AU
+AU-CW-BOARD-TAKPAN,national,AU,point,AU
+AU-CW-BOARD-COMTRI,national,AU,point,AU
+AU-CW-BOARD-COMAUDDIS,national,AU,point,AU
+AU-CW-BOARD-LOA,national,AU,point,AU
+AU-CW-BOARD-TAXPRA,national,AU,point,AU
+AU-CW-BOARD-PAYSYSRESBAN,national,AU,point,AU
+AU-CW-BOARD-GOVCOMNEUCOM,national,AU,point,AU
+AU-CW-BOARD-CHANOTCOM,national,AU,point,AU
+AU-CW-BOARD-CHANOTCOM2,national,AU,point,AU
+AU-CW-BOARD-MILREHCOMCOM,national,AU,point,AU
+AU-CW-BOARD-REPCOM,national,AU,point,AU
+AU-CW-BOARD-REPMEDAUT,national,AU,point,AU
+AU-CW-BOARD-DEFSERHOMINS,national,AU,point,AU
+AU-CW-BOARD-DIROFFWARGRA,national,AU,point,AU
+AU-CW-BOARD-SPEMEDREV,national,AU,point,AU
+AU-CW-BOARD-VETREV,national,AU,point,AU
+AU-CW-BOARD-GOVRESBAN,non_spatial,,none,
+AU-CW-BOARD-MONPOLRESBAN,non_spatial,,none,
+AU-CW-BOARD-INDEXPSCIONU,national,AU,point,AU
+AU-CW-BOARD-IND,national,AU,point,AU
+AU-CW-BOARD-LANSECCARBIO,national,AU,point,AU
+AU-CW-BOARD-WATEFFLABSTA,national,AU,point,AU
+AU-CW-BOARD-GREENEMINSTA,national,AU,point,AU
+AU-CW-BOARD-NATHERMIN,national,AU,point,AU
+AU-CW-BOARD-ENEREG,national,AU,point,AU
+AU-CW-BOARD-SRCACTREV,non_spatial,,none,
+AU-CW-BOARD-JOBSKI,national,AU,point,AU
+AU-CW-BOARD-CONINDFOR,national,AU,point,AU
+AU-CW-BOARD-STUIDEREG,national,AU,point,AU
+AU-CW-BOARD-SAFREHCOMCOM,national,AU,point,AU
+AU-CW-BOARD-NATREP,non_spatial,,none,
+AU-CW-BOARD-ONENVMANINDC,non_spatial,,none,
+AU-CW-BOARD-INSWATCOM,national,AU,point,AU
+AU-CW-BOARD-ENVPRO,national,AU,point,AU
+AU-CW-BOARD-OFFTHRSPECOM,national,AU,point,AU
+AU-CW-BOARD-THRSPESCI,national,AU,point,AU
+AU-CW-BOARD-ALLRIVREG,national,AU,point,AU
+AU-CW-BOARD-ALLRIVREGTEC,national,AU,point,AU
+AU-CW-BOARD-HER,national,AU,point,AU
+AU-CW-BOARD-COMENVWATHOL,national,AU,point,AU
+AU-CW-BOARD-COMENVWATOFF,national,AU,point,AU
+AU-CW-BOARD-EMIREDASS,national,AU,point,AU
+AU-CW-BOARD-FUESTACON,national,AU,point,AU
+AU-CW-BOARD-SCHRES,non_spatial,,none,
+AU-CW-BOARD-ENEINDWORRED,non_spatial,,none,
+AU-CW-BOARD-INDPARSTACOM,non_spatial,,none,
+AU-CW-BOARD-PARWORSUPSER,non_spatial,,none,
+AU-CW-BOARD-DIGLABPLACON,non_spatial,,none,
+AU-CW-BOARD-FAMINJWOR,non_spatial,,none,
+AU-CW-BOARD-REVJOBSKIACT,non_spatial,,none,
+AU-CW-BOARD-DEFFORCOVSCH,national,AU,point,AU
+AU-CW-BOARD-DEFFORSUPSCH,national,AU,point,AU
+AU-CW-BOARD-CHIDEFFOR,national,AU,point,AU
+AU-CW-BOARD-VICCHIDEFFOR,national,AU,point,AU
+AU-CW-BOARD-INTONCRICOM,national,AU,point,AU
+AU-CW-BOARD-MEDRES,national,AU,point,AU
+AU-CW-BOARD-DIRHUMBIO,national,AU,point,AU
+AU-CW-BOARD-CHIEXECEN,national,AU,point,AU
+AU-CW-BOARD-CHIEXEMED,national,AU,point,AU
+AU-CW-BOARD-CHISUPREG,national,AU,point,AU
+AU-CW-BOARD-FEDCIRFAMCOU2,national,AU,point,AU
+AU-CW-BOARD-TRAIPATT,national,AU,point,AU
+AU-CW-BOARD-TRAIPATTDIST,national,AU,point,AU
+AU-CW-ADVIS-OPEARM,non_spatial,,none,
+AU-CW-ADVIS-MEDWORSTRSTE,non_spatial,,none,
+AU-CW-ADVIS-MEDWORSTRSER,non_spatial,,none,
+AU-CW-ADVIS-BIOCOMENGNET,non_spatial,,none,
+AU-CW-ADVIS-RESDEVEXTGOV,non_spatial,,none,
+AU-CW-ADVIS-ESAYOU,non_spatial,,none,
+AU-CW-ADVIS-SCIINDENDFUN,non_spatial,,none,
+AU-CW-ADVIS-AGECOMCARFOR,non_spatial,,none,
+AU-CW-ADVIS-YOUVETCONNEE,non_spatial,,none,
+AU-CW-ADVIS-FREVERINVWOR,non_spatial,,none,
+AU-CW-ADVIS-TERINVWORGRO,non_spatial,,none,
+AU-CW-ADVIS-WEEWORGRO,non_spatial,,none,
+AU-CW-ADVIS-TERVERWORGRO,non_spatial,,none,
+AU-CW-ADVIS-SPEORTEXPCLI,non_spatial,,none,
+AU-CW-ADVIS-SPINEUEXPCLI,non_spatial,,none,
+AU-CW-ADVIS-GENSUREXPCLI,non_spatial,,none,
+AU-CW-ADVIS-HIPKNEEXPCLI,non_spatial,,none,
+AU-CW-ADVIS-OPHEXPCLIGRO,non_spatial,,none,
+AU-CW-ADVIS-CAREXPCLIGRO,non_spatial,,none,
+AU-CW-ADVIS-TROTUNMAN,non_spatial,,none,
+AU-CW-ADVIS-TERSTOGENRED,non_spatial,,none,
+AU-CW-ADVIS-NAI,non_spatial,,none,
+AU-CW-ADVIS-ABOTORSTRISL,non_spatial,,none,
+AU-CW-ADVIS-INDEVA,non_spatial,,none,
+AU-CW-ADVIS-BASPLAIMP,non_spatial,,none,
+AU-CW-ADVIS-NORPRAFISMAN,non_spatial,,none,
+AU-CW-ADVIS-SOUBLUTUNFIS,non_spatial,,none,
+AU-CW-ADVIS-SCAMAN,non_spatial,,none,
+AU-CW-ADVIS-GREBIGMAN,non_spatial,,none,
+AU-CW-ADVIS-SOUEASMAN,non_spatial,,none,
+AU-CW-ADVIS-SUBFISMAN,non_spatial,,none,
+AU-CW-ADVIS-RES,non_spatial,,none,
+AU-CW-ADVIS-GOVSOL,non_spatial,,none,
+AU-CW-ADVIS-INTCON,non_spatial,,none,
+AU-CW-ADVIS-MODSLAEXPGRO,non_spatial,,none,
+AU-CW-ADVIS-OPEGOVFOR,non_spatial,,none,
+AU-CW-ADVIS-POSSTA,non_spatial,,none,
+AU-CW-ADVIS-NUM,non_spatial,,none,
+AU-CW-ADVIS-DEFCOL,non_spatial,,none,
+AU-CW-ADVIS-DEFFORFINSER,non_spatial,,none,
+AU-CW-ADVIS-DEPDEFVETAFF,non_spatial,,none,
+AU-CW-ADVIS-GEOINTORG,non_spatial,,none,
+AU-CW-ADVIS-DEFFAM,non_spatial,,none,
+AU-CW-ADVIS-DEFINTORG,non_spatial,,none,
+AU-CW-ADVIS-DEFSCITECGRO,non_spatial,,none,
+AU-CW-ADVIS-FORENT,non_spatial,,none,
+AU-CW-ADVIS-PHOCENPOSMEN,non_spatial,,none,
+AU-CW-ADVIS-WOOPROARE,non_spatial,,none,
+AU-CW-ADVIS-ASIPACCENMIL,non_spatial,,none,
+AU-CW-ADVIS-GOVSECVETAGE,non_spatial,,none,
+AU-CW-ADVIS-MARDEF,non_spatial,,none,
+AU-CW-ADVIS-FIRPRIREVOVE,non_spatial,,none,
+AU-CW-ADVIS-YOUENDYOUSCH,non_spatial,,none,
+AU-CW-ADVIS-COMEMERESTEA,non_spatial,,none,
+AU-CW-ADVIS-STASMAONL,non_spatial,,none,
+AU-CW-ADVIS-AFGINQIMPOVE,non_spatial,,none,
+AU-CW-ADVIS-SUB,non_spatial,,none,
+AU-CW-ADVIS-INTTEREDUCOM,non_spatial,,none,
+AU-CW-ADVIS-UNIACCIMP,non_spatial,,none,
+AU-CW-ADVIS-INITEAEDUQUA,non_spatial,,none,
+AU-CW-ADVIS-EXPONUNIGOV,non_spatial,,none,
+AU-CW-ADVIS-CLICHAWATYOU,non_spatial,,none,
+AU-CW-ADVIS-ANTRAPREVSCH,non_spatial,,none,
+AU-CW-ADVIS-CREINDYOUGRO,non_spatial,,none,
+AU-CW-ADVIS-PREGENVIOYOU,non_spatial,,none,
+AU-CW-ADVIS-CIVENGYOUGRO,non_spatial,,none,
+AU-CW-ADVIS-FIRNATYOUGRO,non_spatial,,none,
+AU-CW-ADVIS-RESRELEDUEXP,non_spatial,,none,
+AU-CW-ADVIS-INTEDU,non_spatial,,none,
+AU-CW-ADVIS-DRORESADOINN,non_spatial,,none,
+AU-CW-ADVIS-FIS,non_spatial,,none,
+AU-CW-ADVIS-LIVANIEXPFIN,non_spatial,,none,
+AU-CW-ADVIS-RESINDFOR,non_spatial,,none,
+AU-CW-ADVIS-FORINVSTE,non_spatial,,none,
+AU-CW-ADVIS-SCIGRO,non_spatial,,none,
+AU-CW-ADVIS-SEAEXPCON,non_spatial,,none,
+AU-CW-ADVIS-AGRFINFOR,non_spatial,,none,
+AU-CW-ADVIS-EXPMEAIND,non_spatial,,none,
+AU-CW-ADVIS-BEEIND,non_spatial,,none,
+AU-CW-ADVIS-DAIEXPINDCON,non_spatial,,none,
+AU-CW-ADVIS-EXPWILGAMMEA,non_spatial,,none,
+AU-CW-ADVIS-FOOGROSECGRO,non_spatial,,none,
+AU-CW-ADVIS-HALCON,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMTOW,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMWHI,non_spatial,,none,
+AU-CW-ADVIS-REEINTMONREP,non_spatial,,none,
+AU-CW-ADVIS-TOUREE,non_spatial,,none,
+AU-CW-ADVIS-INDREE,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMBOW,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMBUR,non_spatial,,none,
+AU-CW-ADVIS-CLISER,non_spatial,,none,
+AU-CW-ADVIS-ANISTE,non_spatial,,none,
+AU-CW-ADVIS-CARSCIGRO,non_spatial,,none,
+AU-CW-ADVIS-DEPAGRFISFOR,non_spatial,,none,
+AU-CW-ADVIS-STA,non_spatial,,none,
+AU-CW-ADVIS-ENVBIOGRO,non_spatial,,none,
+AU-CW-ADVIS-BIOSTRIMP,non_spatial,,none,
+AU-CW-ADVIS-GRAPLAPROEXP,non_spatial,,none,
+AU-CW-ADVIS-FIRNATGRO,non_spatial,,none,
+AU-CW-ADVIS-LIVSHEPHAOUT,non_spatial,,none,
+AU-CW-ADVIS-FOUAUSRELNFA,non_spatial,,none,
+AU-CW-ADVIS-POLEXC,non_spatial,,none,
+AU-CW-ADVIS-COM,non_spatial,,none,
+AU-CW-ADVIS-COM2,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMCAI,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMCAP,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMCAP2,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMCAS,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMDOU,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMGLA,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMHIN,non_spatial,,none,
+AU-CW-ADVIS-LOCMARCOMMAC,non_spatial,,none,
+AU-CW-ADVIS-TOURES,non_spatial,,none,
+AU-CW-ADVIS-TOURES2,non_spatial,,none,
+AU-CW-ADVIS-TOUACCWORGRO,non_spatial,,none,
+AU-CW-ADVIS-ASECEN,non_spatial,,none,
+AU-CW-ADVIS-TRA204TAS,non_spatial,,none,
+AU-CW-ADVIS-PARHEAREGTEC,non_spatial,,none,
+AU-CW-ADVIS-CENAUSRELCAI,non_spatial,,none,
+AU-CW-ADVIS-AUSINSAII,non_spatial,,none,
+AU-CW-ADVIS-AUSFOU,non_spatial,,none,
+AU-CW-ADVIS-AUSFOU2,non_spatial,,none,
+AU-CW-ADVIS-CAAAUSREL,non_spatial,,none,
+AU-CW-ADVIS-ONLATAMERELC,non_spatial,,none,
+AU-CW-ADVIS-EDI,non_spatial,,none,
+AU-CW-ADVIS-PACSECCOLAPS,non_spatial,,none,
+AU-CW-ADVIS-INFFINFACPAC,non_spatial,,none,
+AU-CW-ADVIS-APEBUSABA,non_spatial,,none,
+AU-CW-ADVIS-TECGROONIMM,non_spatial,,none,
+AU-CW-ADVIS-GENTECSTA,non_spatial,,none,
+AU-CW-ADVIS-LIFSAVDRUPRO,non_spatial,,none,
+AU-CW-ADVIS-QUAUSEPAT,non_spatial,,none,
+AU-CW-ADVIS-HEASTARAT,non_spatial,,none,
+AU-CW-ADVIS-MEDWORCOL,non_spatial,,none,
+AU-CW-ADVIS-PUBHEALABNET,non_spatial,,none,
+AU-CW-ADVIS-STRMEDTAS,non_spatial,,none,
+AU-CW-ADVIS-THEGOOADVCON,non_spatial,,none,
+AU-CW-ADVIS-GROABOTORSTR,non_spatial,,none,
+AU-CW-ADVIS-GENPRATRA,non_spatial,,none,
+AU-CW-ADVIS-AGECAR,non_spatial,,none,
+AU-CW-ADVIS-MEDBENSCHREV,non_spatial,,none,
+AU-CW-ADVIS-ELD,non_spatial,,none,
+AU-CW-ADVIS-INFPRECONEXP,non_spatial,,none,
+AU-CW-ADVIS-AGECARCLIRED,non_spatial,,none,
+AU-CW-ADVIS-MEDSER,non_spatial,,none,
+AU-CW-ADVIS-VIGSUREXP,non_spatial,,none,
+AU-CW-ADVIS-EYETIS,non_spatial,,none,
+AU-CW-ADVIS-JURGRO,non_spatial,,none,
+AU-CW-ADVIS-TRALIAREFGRO,non_spatial,,none,
+AU-CW-ADVIS-CLIGOV,non_spatial,,none,
+AU-SA-DEPT-AGD,state,SA,point,Adelaide
+AU-SA-DEPT-CEIH,state,SA,point,Adelaide
+AU-SA-DEPT-COURTS,state,SA,point,Adelaide
+AU-SA-DEPT-DEFSA,state,SA,point,Adelaide
+AU-SA-DEPT-DCP,state,SA,point,Adelaide
+AU-SA-DEPT-DCS,state,SA,point,Adelaide
+AU-SA-DEPT-ENERGY,state,SA,point,Adelaide
+AU-SA-DEPT-ENVWATER,state,SA,point,Adelaide
+AU-SA-DEPT-HOUSING,state,SA,point,Adelaide
+AU-SA-DEPT-HUMANSVCS,state,SA,point,Adelaide
+AU-SA-DEPT-DPC,state,SA,point,Adelaide
+AU-SA-DEPT-PIRSA,state,SA,point,Adelaide
+AU-SA-DEPT-STATEDEV,state,SA,point,Adelaide
+AU-SA-DEPT-DTF,state,SA,point,Adelaide
+AU-SA-DEPT-ELECTORAL,state,SA,point,Adelaide
+AU-SA-DEPT-PARLIAMENT,state,SA,point,Adelaide
+AU-SA-DEPT-PREVHLTH,state,SA,point,Adelaide
+AU-SA-DEPT-SAPOL,state,SA,point,Adelaide
+AU-SA-DEPT-SAFIRE,state,SA,point,Adelaide
+AU-SA-DEPT-TOURISM,state,SA,point,Adelaide
+AU-IGF-NSC,non_spatial,,none,
+AU-IGF-ECOFORUM,non_spatial,,none,
+AU-IGF-HEALTHMIN,non_spatial,,none,
+AU-IGF-EDMIN,non_spatial,,none,
+AU-IGF-ENVMIN,non_spatial,,none,
+AU-IGF-TRANSMIN,non_spatial,,none,
+AU-IGF-PLANMIN,non_spatial,,none,
+AU-IGF-POLICEMIN,non_spatial,,none,
+AU-IGF-ATSIMIN,non_spatial,,none,
+AU-IGF-LGAQ,state,QLD,point,Brisbane
+AU-IGF-LGANSW,non_spatial,,none,
+AU-IGF-MAV,state,VIC,point,Melbourne
+AU-IGF-WALGA,state,WA,point,Perth
+AU-IGF-LGASA,state,SA,point,Adelaide
+AU-IGF-LGAT,state,TAS,point,Hobart
+AU-IGF-LGANT,multi_state,AU,none,
+AU-IGF-COAGRC,non_spatial,,none,
+AU-IGF-ACCI,non_spatial,,none,
+AU-CW-CCE-NNTT,national,AU,point,AU
+AU-CW-CCE-NIAA,national,AU,point,AU
+AU-CW-CCE-AIATSIS,national,AU,point,AU
+AU-CW-CONST-GG,national,AU,point,AU
+AU-CW-CONST-FEC,national,AU,point,AU
+AU-NSW-CONST-GOV,state,NSW,point,Sydney
+AU-VIC-CONST-GOV,state,VIC,point,Melbourne
+AU-QLD-CONST-GOV,state,QLD,point,Brisbane
+AU-SA-CONST-GOV,state,SA,point,Adelaide
+AU-WA-CONST-GOV,state,WA,point,Perth
+AU-TAS-CONST-GOV,state,TAS,point,Hobart
+AU-NT-CONST-ADMIN,territory,NT,point,Darwin
+AU-ACT-CONST-ADMIN,territory,ACT,point,Canberra
+AU-ACT-EXEC,territory,ACT,point,Canberra
+AU-ACT-SA-AIA,territory,ACT,point,Canberra
+AU-ACT-SA-INTEGRITY,territory,ACT,point,Canberra
+AU-ACT-DIGITAL,territory,ACT,point,Canberra
+AU-ACT-SA-ICRC,territory,ACT,point,Canberra
+AU-ACT-SA-LEGALAID,territory,ACT,point,Canberra
+AU-ACT-WHSCOMM,territory,ACT,point,Canberra
+AU-ACT-PTG,territory,ACT,point,Canberra
+AU-ACT-TCO,territory,ACT,point,Canberra
+AU-FI-K-AUSTRALIANEG,national,AU,point,AU
+AU-FI-K-AUSTRALIANLI,national,AU,point,AU
+AU-FI-K-AUSTRALIANME,national,AU,point,AU
+AU-FI-K-AUSTRALIANPO,national,AU,point,AU
+AU-FI-K-AUSTRALIANWO,national,AU,point,AU
+AU-FI-K-DAIRYAUSTRAL,national,AU,point,AU
+AU-FI-K-FORESTANDWOO,national,AU,point,AU
+AU-FI-K-HORTICULTURE,national,AU,point,AU
+AU-FI-K-MEATANDLIVES,national,AU,point,AU
+AU-FI-K-SUGARRESEARC,national,AU,point,AU
+AU-FI-K-AVIATIONSECU,national,AU,point,AU
+AU-FI-K-MARITIMESECU,national,AU,point,AU
+AU-FI-K-INDUSTRYCAPA,national,AU,point,AU
+AU-FI-K-NATIONALRAIL,national,AU,point,AU
+AU-FI-K-AUSTRALIANCO,national,AU,point,AU
+AU-FI-K-COMMUNITYBRO,national,AU,point,AU
+AU-FI-K-RAILINDUSTRY,national,AU,point,AU
+AU-FI-K-RDANSWCENTRA,national,AU,point,AU
+AU-FI-K-RDANSWFARWES,national,AU,point,AU
+AU-FI-K-RDANSWHUNTER,national,AU,point,AU
+AU-FI-K-RDANSWILLAWA,national,AU,point,AU
+AU-FI-K-RDANSWMIDNOR,national,AU,point,AU
+AU-FI-K-RDANSWMURRAY,national,AU,point,AU
+AU-FI-K-RDANSWNORTHE,national,AU,point,AU
+AU-FI-K-RDANSWORANA,national,AU,point,AU
+AU-FI-K-RDANSWRIVERI,national,AU,point,AU
+AU-FI-K-RDANSWSOUTHE,national,AU,point,AU
+AU-FI-K-RDANSWSYDNEY,national,AU,point,AU
+AU-FI-K-RDANTNORTHER,national,AU,point,AU
+AU-FI-K-RDAQLDBRISBA,national,AU,point,AU
+AU-FI-K-RDAQLDDARLIN,national,AU,point,AU
+AU-FI-K-RDAQLDTROPIC,national,AU,point,AU
+AU-FI-K-RDAQLDCENTRA,national,AU,point,AU
+AU-FI-K-RDAQLDGOLDCO,national,AU,point,AU
+AU-FI-K-RDAQLDIPSWIC,national,AU,point,AU
+AU-FI-K-RDAQLDLOGANR,national,AU,point,AU
+AU-FI-K-AIRPORTBUILD,national,AU,point,AU
+AU-FI-K-RDASAADELAID,national,AU,point,AU
+AU-FI-K-RDATASTASMAN,national,AU,point,AU
+AU-FI-K-RDAWAGOLDFIE,national,AU,point,AU
+AU-FI-K-RDAWAGREATSO,national,AU,point,AU
+AU-FI-K-RDAWAKIMBERL,national,AU,point,AU
+AU-FI-K-RDAWAMIDWEST,national,AU,point,AU
+AU-FI-K-RDAWAPEEL,national,AU,point,AU
+AU-FI-K-RDAWAPERTH,national,AU,point,AU
+AU-FI-K-RDAWAPILBARA,national,AU,point,AU
+AU-FI-K-RDAWASOUTHWE,national,AU,point,AU
+AU-FI-K-RDAWAWHEATBE,national,AU,point,AU
+AU-FI-K-AIRPORTENVIR,national,AU,point,AU
+AU-FI-K-AUSTRALIANCH,national,AU,point,AU
+AU-FI-K-RDAQLDGREATE,national,AU,point,AU
+AU-FI-K-RDAQLDMORETO,national,AU,point,AU
+AU-FI-K-RDAQLDTOWNSV,national,AU,point,AU
+AU-FI-K-RDAQLDWIDEBA,national,AU,point,AU
+AU-FI-K-THEOWNERSSTR,national,AU,point,AU
+AU-FI-K-AUSTRALIANHO,national,AU,point,AU
+AU-FI-K-AUSTRALIANSM,national,AU,point,AU
+AU-FI-K-SYDNEYAIRPOR,national,AU,point,AU
+AU-FI-M-ANANGUCOMMUN,national,AU,point,AU
+AU-FI-M-ANUENTERPRIS,national,AU,point,AU
+AU-FI-M-AUSTRALIANSC,national,AU,point,AU
+AU-FI-M-THESOCIALRES,national,AU,point,AU
+AU-FI-M-GRAINSAUSTRA,national,AU,point,AU
+AU-FI-M-NATIONALGALL,national,AU,point,AU
+AU-FI-M-NATIONALPORT,national,AU,point,AU
+AU-FI-M-CSIROFOLLOWO,national,AU,point,AU
+AU-FI-M-CSIROGENERAL,national,AU,point,AU
+AU-FI-M-CSIROINNOVAT,national,AU,point,AU
+AU-FI-M-CSIROGPFUND2,national,AU,point,AU
+AU-FI-M-MAINSEQUENCE,national,AU,point,AU
+AU-FI-M-SNOWYHYDROTR,national,AU,point,AU
+AU-FI-M-REDENERGYPTY,national,AU,point,AU
+AU-FI-M-LATROBEVALLE,national,AU,point,AU
+AU-FI-M-VALLEYPOWERP,national,AU,point,AU
+AU-FI-M-CONTACTPEAKE,national,AU,point,AU
+AU-FI-M-LUMOENERGYAU,national,AU,point,AU
+AU-FI-M-LUMOENERGYNS,national,AU,point,AU
+AU-FI-M-LUMOENERGYQL,national,AU,point,AU
+AU-FI-M-LUMOENERGYSA,national,AU,point,AU
+AU-FI-M-LUMOENERGYTE,national,AU,point,AU
+AU-FI-M-LUMOGENERATI,national,AU,point,AU
+AU-FI-M-EMAGYPTYLTD,national,AU,point,AU
+AU-FI-M-TFIPARTNERSP,national,AU,point,AU
+AU-FI-M-DIRECTCONNEC,national,AU,point,AU
+AU-FI-M-CONNECTIONME,national,AU,point,AU
+AU-FI-M-AUSTRALIAPOS,national,AU,point,AU
+AU-FI-M-AUSTRALIANNA,national,AU,point,AU
+AU-FI-M-THENEWSCHANN,national,AU,point,AU
+AU-FI-M-ABCAUSTRALIA,national,AU,point,AU
+AU-FI-M-APGLOBALLOGI,national,AU,point,AU
+AU-FI-M-POSTLOGISTIC,national,AU,point,AU
+AU-FI-M-ACN081623403,national,AU,point,AU
+AU-FI-M-STARTRACKEXP,national,AU,point,AU
+AU-FI-M-STARTRACKRET,national,AU,point,AU
+AU-FI-M-APGLOBALHOLD,national,AU,point,AU
+AU-FI-M-APINTERNATIO,national,AU,point,AU
+AU-FI-M-APOSTACCELER,national,AU,point,AU
+AU-FI-M-APOSTINNOVAT,national,AU,point,AU
+AU-FI-M-AUSTRALIANEX,national,AU,point,AU
+AU-FI-M-AUXINVESTMEN,national,AU,point,AU
+AU-FI-M-DECIPHAPTYLT,national,AU,point,AU
+AU-FI-M-DHAINVESTMEN,national,AU,point,AU
+AU-FI-M-ANUINTERNATI,national,AU,point,AU
+AU-FI-M-ANUUKFOUNDAT,national,AU,point,AU
+AU-FI-M-CEFCINVESTME,national,AU,point,AU
+AU-FI-M-ASCAWDSHIPBU,national,AU,point,AU
+AU-FI-M-ASCMODULESPT,national,AU,point,AU
+AU-FI-M-DEEPBLUETECH,national,AU,point,AU
+AU-FI-M-ASCOPVSHIPBU,national,AU,point,AU
+AU-FI-M-SYDNEYHARBOU,national,AU,point,AU
+AU-FI-M-FUNDACINCSIR,national,AU,point,AU
+AU-FI-M-NATIONALICTA,national,AU,point,AU
+AU-FI-M-CSIROFINANCI,national,AU,point,AU
+AU-FI-M-CSIROCUSTODI,national,AU,point,AU
+AU-FI-M-CSIROUSALLC,national,AU,point,AU
+AU-FI-M-NICTAIPRPTYL,national,AU,point,AU
+AU-FI-M-CSIROFUNDOFF,national,AU,point,AU
+AU-FI-M-PETTECHSOLUT,national,AU,point,AU
+AU-FI-M-INLANDRAILPT,national,AU,point,AU
+AU-FI-M-BEVERIDGEWAR,national,AU,point,AU
+AU-FI-M-THETRUSTEEFO,national,AU,point,AU
+AU-FI-M-VICTORIANINT,national,AU,point,AU
+AU-FI-M-BEVERIDGEPRO,national,AU,point,AU
+AU-FI-M-BEVERIDGETER,national,AU,point,AU
+AU-FI-M-MOOREBANKINT,national,AU,point,AU
+AU-FI-M-MOOREBANKPRE,national,AU,point,AU
+AU-FI-M-DARWINHOTELP,national,AU,point,AU
+AU-FI-M-TENNANTCREEK,national,AU,point,AU
+AU-FI-M-CDCNOMINEEST,national,AU,point,AU
+AU-FI-M-DARWINHOTELH,national,AU,point,AU
+AU-FI-M-HOTELENTERPR,national,AU,point,AU
+AU-FI-M-IBAASSETMANA,national,AU,point,AU
+AU-FI-M-IBAPROPERTYI,national,AU,point,AU
+AU-FI-M-IBARETAILASS,national,AU,point,AU
+AU-FI-M-IKARAWILPENA,national,AU,point,AU
+AU-FI-M-KAKADUTOURIS,national,AU,point,AU
+AU-FI-M-TJAPUKAIABOR,national,AU,point,AU
+AU-FI-M-WILPENAPOUND,national,AU,point,AU
+AU-FI-M-IBANORTHAMSO,national,AU,point,AU
+AU-FI-M-IBAWILPENASO,national,AU,point,AU
+AU-FI-M-NATIONALCENT,national,AU,point,AU
+AU-FI-M-PRIMARYPARTN,national,AU,point,AU
+AU-FI-M-VOYAGESINDIG,national,AU,point,AU
+AU-FI-M-NOTEPRINTING,national,AU,point,AU
+AU-FI-M-WSILANDCOPTY,national,AU,point,AU
+AU-FI-L-FUTFUND,national,AU,point,AU
+AU-FI-L-DEPTAGS,national,AU,point,AU
+AU-FI-L-AUSPOST,national,AU,point,AU
+AU-FI-L-CCEABC,national,AU,point,AU
+AU-FI-L-CCEGALL,national,AU,point,AU
+AU-FI-L-SINGAUST,national,AU,point,AU
+AU-FI-L-DEFENCE,national,AU,point,AU
+AU-FI-L-PTAGRIC,national,AU,point,AU
+AU-FI-L-CCEUNIV,national,AU,point,AU
+AU-FI-L-FINANCE,national,AU,point,AU
+AU-FI-L-FEDETRUS,national,AU,point,AU
+AU-FI-L-INDUSTRY,national,AU,point,AU
+AU-FI-L-CECSIRO,national,AU,point,AU
+AU-FI-L-INDIBUSI,national,AU,point,AU
+AU-FI-L-TSOCSVC,national,AU,point,AU
+AU-QLD-DEPT-POLICE,state,QLD,point,Brisbane
+AU-QLD-DEPT-HOUSING,state,QLD,point,Brisbane
+AU-QLD-DEPT-JUSTICE,state,QLD,point,Brisbane
+AU-QLD-DEPT-CORRECTIONS,state,QLD,point,Brisbane
+AU-QLD-DEPT-COMMUNITIES,state,QLD,point,Brisbane
+AU-QLD-DEPT-STATEDEV,state,QLD,point,Brisbane
+AU-QLD-DEPT-YOUTHJUSTICE,state,QLD,point,Brisbane
+AU-QLD-DEPT-CUSTOMER,state,QLD,point,Brisbane
+AU-QLD-DEPT-PRIMARY,state,QLD,point,Brisbane
+AU-QLD-DEPT-TRADE,state,QLD,point,Brisbane
+AU-QLD-DEPT-ENVIRON,state,QLD,point,Brisbane
+AU-QLD-DEPT-LOCALGOV,state,QLD,point,Brisbane
+AU-QLD-DEPT-WOMEN,state,QLD,point,Brisbane
+AU-QLD-DEPT-SPORT,state,QLD,point,Brisbane
+AU-QLD-DEPT-FIRE,state,QLD,point,Brisbane
+AU-QLD-DEPT-NATURALRES,state,QLD,point,Brisbane
+AU-NSW-DEPT-POLICE,state,NSW,point,Sydney
+AU-NSW-DEPT-INDUSTRY,state,NSW,point,Sydney
+AU-NSW-DEPT-ENERGY,state,NSW,point,Sydney
+AU-NSW-DEPT-CUSTOMER,state,NSW,point,Sydney
+AU-NSW-DEPT-CORRECTIONS,state,NSW,point,Sydney
+AU-NSW-STAT-TCO,state,NSW,point,Sydney
+AU-NSW-STAT-PCO,state,NSW,point,Sydney
+AU-NSW-STAT-IPART,state,NSW,point,Sydney
+AU-NSW-STAT-ECONSW,state,NSW,point,Sydney
+AU-NSW-STAT-ESC,state,NSW,point,Sydney
+AU-NSW-STAT-EPA,state,NSW,point,Sydney
+AU-NSW-STAT-ET,state,NSW,point,Sydney
+AU-NSW-STAT-NRAR,state,NSW,point,Sydney
+AU-NSW-STAT-BCTON,state,NSW,point,Sydney
+AU-NSW-STAT-WAMC,state,NSW,point,Sydney
+AU-NSW-STAT-CSO,state,NSW,point,Sydney
+AU-NSW-STAT-FARN,state,NSW,point,Sydney
+AU-NSW-STAT-LACONSW,state,NSW,point,Sydney
+AU-NSW-STAT-NSWCC,state,NSW,point,Sydney
+AU-NSW-STAT-NRFS,state,NSW,point,Sydney
+AU-NSW-STAT-NSES,state,NSW,point,Sydney
+AU-NSW-STAT-AHO,state,NSW,point,Sydney
+AU-NSW-STAT-HPAF,state,NSW,point,Sydney
+AU-NSW-STAT-MN,state,NSW,point,Sydney
+AU-NSW-STAT-NTAG,state,NSW,point,Sydney
+AU-NSW-STAT-JCONSW,state,NSW,point,Sydney
+AU-NSW-STAT-OOTCG,state,NSW,point,Sydney
+AU-NSW-STAT-OOTDOPP,state,NSW,point,Sydney
+AU-NSW-STAT-DOCITHAS,state,NSW,point,Sydney
+AU-NSW-STAT-ILAGA,state,NSW,point,Sydney
+AU-NSW-STAT-OOS,state,NSW,point,Sydney
+AU-NSW-STAT-AGONSW,state,NSW,point,Sydney
+AU-NSW-STAT-AM,state,NSW,point,Sydney
+AU-NSW-STAT-DN,state,NSW,point,Sydney
+AU-NSW-STAT-MOHN,state,NSW,point,Sydney
+AU-NSW-STAT-MOAAAS,state,NSW,point,Sydney
+AU-NSW-STAT-NICC,state,NSW,point,Sydney
+AU-NSW-STAT-SRAN,state,NSW,point,Sydney
+AU-NSW-STAT-SLONSW,state,NSW,point,Sydney
+AU-NSW-STAT-IAPC,state,NSW,point,Sydney
+AU-NSW-STAT-SN,state,NSW,point,Sydney
+AU-NSW-STAT-LSC,state,NSW,point,Sydney
+AU-NSW-STAT-NSWGTA,state,NSW,point,Sydney
+AU-NSW-STAT-OOTIRO,state,NSW,point,Sydney
+AU-NSW-STAT-RBB,state,NSW,point,Sydney
+AU-NSW-STAT-SFWK,state,NSW,point,Sydney
+AU-NSW-STAT-SIRA,state,NSW,point,Sydney
+AU-NSW-STAT-NCAEOFB,state,NSW,point,Sydney
+AU-NSW-STAT-NESA,state,NSW,point,Sydney
+AU-NSW-STAT-TC,state,NSW,point,Sydney
+AU-NSW-STAT-MOH,state,NSW,point,Sydney
+AU-NSW-STAT-HCCC,state,NSW,point,Sydney
+AU-NSW-STAT-MHCONSW,state,NSW,point,Sydney
+AU-NSW-STAT-RBGADT,state,NSW,point,Sydney
+AU-NSW-STAT-SOPA,state,NSW,point,Sydney
+AU-NSW-STAT-WPCA,state,NSW,point,Sydney
+AU-NSW-STAT-CPAMPT,state,NSW,point,Sydney
+AU-NSW-STAT-GSPT,state,NSW,point,Sydney
+AU-NSW-STAT-HACCDC,state,NSW,point,Sydney
+AU-NSW-STAT-LAMC,state,NSW,point,Sydney
+AU-NSW-STAT-LPRT,state,NSW,point,Sydney
+AU-NSW-STAT-PMC,state,NSW,point,Sydney
+AU-NSW-STAT-PADN,state,NSW,point,Sydney
+AU-NSW-STAT-WSPT,state,NSW,point,Sydney
+AU-NSW-STAT-NRC,state,NSW,point,Sydney
+AU-NSW-STAT-NRA,state,NSW,point,Sydney
+AU-NSW-STAT-PSC,state,NSW,point,Sydney
+AU-NSW-STAT-NSWRAA,state,NSW,point,Sydney
+AU-NSW-STAT-RGNDC,state,NSW,point,Sydney
+AU-NSW-STAT-LLS,state,NSW,point,Sydney
+AU-NSW-STAT-NFA,state,NSW,point,Sydney
+AU-NSW-STAT-SM,state,NSW,point,Sydney
+AU-NSW-STAT-OOTSI,state,NSW,point,Sydney
+AU-NSW-STAT-IN,state,NSW,point,Sydney
+AU-NSW-STAT-NSIC,state,NSW,point,Sydney
+AU-NSW-STAT-ADMHC,state,NSW,point,Sydney
+AU-NSW-STAT-EAMHC,state,NSW,point,Sydney
+AU-NSW-STAT-ERICA,state,NSW,point,Sydney
+AU-NSW-STAT-ERICEE,state,NSW,point,Sydney
+AU-NSW-STAT-ETMHC,state,NSW,point,Sydney
+AU-NSW-STAT-EDMHC,state,NSW,point,Sydney
+AU-NSW-STAT-LMMC,state,NSW,point,Sydney
+AU-NSW-STAT-PBLMHC,state,NSW,point,Sydney
+AU-NSW-STAT-PKLMHC,state,NSW,point,Sydney
+AU-NSW-STAT-WCDDA,state,NSW,point,Sydney
+AU-NSW-STAT-TL,state,NSW,point,Sydney
+AU-NSW-STAT-AOONSW,state,NSW,point,Sydney
+AU-NSW-STAT-ICAC,state,NSW,point,Sydney
+AU-NSW-STAT-LECC,state,NSW,point,Sydney
+AU-NSW-STAT-NSWEC,state,NSW,point,Sydney
+AU-NSW-STAT-OO,state,NSW,point,Sydney
+AU-TAS-STAT-BT,state,TAS,point,Hobart
+AU-TAS-STAT-DFECAYP,state,TAS,point,Hobart
+AU-TAS-STAT-EPA,state,TAS,point,Hobart
+AU-TAS-STAT-DOH,state,TAS,point,Hobart
+AU-TAS-STAT-DOJ,state,TAS,point,Hobart
+AU-TAS-STAT-MAPS,state,TAS,point,Hobart
+AU-TAS-STAT-DONRAET,state,TAS,point,Hobart
+AU-TAS-STAT-DOPFAEM,state,TAS,point,Hobart
+AU-TAS-STAT-DOPAC,state,TAS,point,Hobart
+AU-TAS-STAT-DOSG,state,TAS,point,Hobart
+AU-TAS-STAT-TT,state,TAS,point,Hobart
+AU-TAS-STAT-DOTAF,state,TAS,point,Hobart
+AU-TAS-STAT-HOA,state,TAS,point,Hobart
+AU-TAS-STAT-IC,state,TAS,point,Hobart
+AU-TAS-STAT-LC,state,TAS,point,Hobart
+AU-TAS-STAT-L,state,TAS,point,Hobart
+AU-TAS-STAT-OOTDOPP,state,TAS,point,Hobart
+AU-TAS-STAT-OOTG,state,TAS,point,Hobart
+AU-TAS-STAT-OOTO,state,TAS,point,Hobart
+AU-TAS-STAT-TAO,state,TAS,point,Hobart
+AU-TAS-STAT-IFS,state,TAS,point,Hobart
+AU-TAS-STAT-MAST,state,TAS,point,Hobart
+AU-TAS-STAT-RTBG,state,TAS,point,Hobart
+AU-TAS-STAT-SFC,state,TAS,point,Hobart
+AU-TAS-STAT-T,state,TAS,point,Hobart
+AU-TAS-STAT-HT,state,TAS,point,Hobart
+AU-TAS-STAT-ST,state,TAS,point,Hobart
+AU-VIC-STAT-DOE,state,VIC,point,Melbourne
+AU-VIC-STAT-DOEEACA,state,VIC,point,Melbourne
+AU-VIC-STAT-DOFFAH,state,VIC,point,Melbourne
+AU-VIC-STAT-DOGS,state,VIC,point,Melbourne
+AU-VIC-STAT-DOH,state,VIC,point,Melbourne
+AU-VIC-STAT-DOJSIAR,state,VIC,point,Melbourne
+AU-VIC-STAT-DOJACS,state,VIC,point,Melbourne
+AU-VIC-STAT-DOPAC,state,VIC,point,Melbourne
+AU-VIC-STAT-DOTAP,state,VIC,point,Melbourne
+AU-VIC-STAT-DOTAF,state,VIC,point,Melbourne
+AU-VIC-STAT-CSV,state,VIC,point,Melbourne
+AU-SA-STAT-ADS,state,SA,point,Adelaide
+AU-SA-STAT-DFES,state,SA,point,Adelaide
+AU-SA-STAT-SCFS,state,SA,point,Adelaide
+AU-SA-STAT-SMFS,state,SA,point,Adelaide
+AU-SA-STAT-SSES,state,SA,point,Adelaide
+AU-SA-STAT-EPAS,state,SA,point,Adelaide
+AU-SA-STAT-GIS,state,SA,point,Adelaide
+AU-QLD-STAT-DOE,state,QLD,point,Brisbane
+AU-QLD-STAT-DOTPAC,state,QLD,point,Brisbane
+AU-QLD-STAT-DOTAMR,state,QLD,point,Brisbane
+AU-QLD-STAT-ECOQ,state,QLD,point,Brisbane
+AU-QLD-STAT-OOTG,state,QLD,point,Brisbane
+AU-QLD-STAT-OOTIOEM,state,QLD,point,Brisbane
+AU-QLD-STAT-OOTO,state,QLD,point,Brisbane
+AU-QLD-STAT-QAO,state,QLD,point,Brisbane
+AU-NT-STAT-CHA,territory,NT,point,Darwin
+AU-NT-STAT-NTTC,territory,NT,point,Darwin
+AU-NT-STAT-TWP,territory,NT,point,Darwin
+AU-NT-STAT-NHO,territory,NT,point,Darwin
+AU-NT-STAT-LDC,territory,NT,point,Darwin
+AU-NT-STAT-AAPA,territory,NT,point,Darwin
+AU-NT-STAT-DCS,territory,NT,point,Darwin
+AU-NT-STAT-NF,territory,NT,point,Darwin
+AU-CW-COURT-HC,national,AU,point,AU
+AU-NSW-COURT-SC,state,NSW,point,Sydney
+AU-VIC-COURT-SC,state,VIC,point,Melbourne
+AU-QLD-COURT-SC,state,QLD,point,Brisbane
+AU-SA-COURT-SC,state,SA,point,Adelaide
+AU-WA-COURT-SC,state,WA,point,Perth
+AU-TAS-COURT-SC,state,TAS,point,Hobart
+AU-ACT-COURT-SC,territory,ACT,point,Canberra
+AU-NT-COURT-SC,territory,NT,point,Darwin
+AU-NT-DEPT-HOUSING,territory,NT,point,Darwin
+AU-WA-STAT-PSDW,state,WA,point,Perth
+AU-WA-STAT-GEW,state,WA,point,Perth
+AU-WA-STAT-KW,state,WA,point,Perth
+AU-WA-STAT-GCW,state,WA,point,Perth
+AU-WA-STAT-BPBW,state,WA,point,Perth
+AU-WA-STAT-DOEW,state,WA,point,Perth
+AU-WA-STAT-TCW,state,WA,point,Perth
+AU-WA-STAT-LCW,state,WA,point,Perth
+AU-WA-STAT-IW,state,WA,point,Perth
+AU-WA-STAT-DOBCAAW,state,WA,point,Perth
+AU-WA-STAT-DOPLAHW,state,WA,point,Perth
+AU-WA-STAT-D,state,WA,point,Perth
+AU-WA-STAT-SW,state,WA,point,Perth
+AU-ACT-STAT-CS,territory,ACT,point,Canberra
+AU-ACT-STAT-LCASF,territory,ACT,point,Canberra
+AU-ACT-STAT-MAICA,territory,ACT,point,Canberra
+AU-ACT-STAT-PSWCF,territory,ACT,point,Canberra
+AU-ACT-STAT-SPA,territory,ACT,point,Canberra
+AU-ACT-STAT-TBA,territory,ACT,point,Canberra
+AU-ACT-STAT-ALHN,territory,ACT,point,Canberra
+AU-ACT-STAT-AGARC,territory,ACT,point,Canberra
+AU-IGF-NTMM,non_spatial,,none,
+AU-WA-STAT-SPA,state,WA,point,Perth
