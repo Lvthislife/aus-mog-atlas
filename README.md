@@ -1,10 +1,10 @@
 # aus-mog-atlas
 
-Interactive prototype of a federated Australian Machinery of Government Atlas — mapping Commonwealth, state, territory and local government entities, authority pathways, accountability structures and institutional relationships as a searchable knowledge graph.
+Interactive prototype of a federated Australian Machinery of Government Atlas - mapping Commonwealth, state, territory and local government entities, authority pathways, accountability structures and institutional relationships as a searchable knowledge graph.
 
 ---
 
-> **Status: Prototype — v4.1**
+> **Status: Prototype - v4.1**
 > Active development. Architecture and ontology are subject to ongoing review. Data is partially provisional. See [DATA.md](DATA.md) for coverage details.
 
 > **Note - you will need to download the html Mog_atlas_v41_prototype locally**
@@ -13,9 +13,9 @@ Interactive prototype of a federated Australian Machinery of Government Atlas �
 
 ## What This Is
 
-The Australian Machinery of Government Atlas is a federated knowledge graph that maps the structure, authority, accountability and relationships of Australian government — across all jurisdictions, levels, and institutional types.
+The Australian Machinery of Government Atlas is a federated knowledge graph that maps the structure, authority, accountability and relationships of Australian government - across all jurisdictions, levels, and institutional types.
 
-It is not an org chart. It is not a directory. It is a semantic model of how Australian government is constituted, authorised, and connected — from the Commonwealth Constitution through to local government councils and native title prescribed bodies corporate.
+It is not an org chart. It is not a directory. It is a semantic model of how Australian government is constituted, authorised, and connected - from the Commonwealth Constitution through to local government councils and native title prescribed bodies corporate.
 
 The prototype renders as an interactive browser application with multiple views, filters, and an authority panel showing the legal source of each entity's existence and powers.
 
@@ -23,12 +23,12 @@ The prototype renders as an interactive browser application with multiple views,
 
 ## What Problem It Solves
 
-Australian government structure is genuinely complex — nine polities, hundreds of entity types, overlapping legislative frameworks, intergovernmental agreements, constitutional constraints, native title regimes, and financial flows that cross jurisdictions. No single publicly accessible resource maps this comprehensively or in machine-readable form.
+Australian government structure is genuinely complex - nine polities, hundreds of entity types, overlapping legislative frameworks, intergovernmental agreements, constitutional constraints, native title regimes, and financial flows that cross jurisdictions. No single publicly accessible resource maps this comprehensively or in machine-readable form.
 
 This project aims to produce:
 - A canonical, citable, versioned model of Australian government structure
 - A practical tool for policy analysts, governance advisors, researchers, and public administrators
-- A foundation for AI-assisted governance reasoning — where models need reliable structured knowledge of institutional relationships, authority chains, and accountability pathways
+- A foundation for AI-assisted governance reasoning - where models need reliable structured knowledge of institutional relationships, authority chains, and accountability pathways
 
 ---
 
@@ -36,14 +36,14 @@ This project aims to produce:
 
 | Layer | Status |
 |---|---|
-| Commonwealth entities | Partially complete — provisional |
-| State/Territory entities | Partially complete — provisional |
-| Local government | Partially complete — provisional |
+| Commonwealth entities | Partially complete - provisional |
+| State/Territory entities | Partially complete - provisional |
+| Local government | Partially complete - provisional |
 | Parliamentary institutions | Partial |
 | Judicial institutions | Partial |
 | Intergovernmental bodies | Partial |
 | Native title | Partial |
-| Authority records | Partially populated — many provisional |
+| Authority records | Partially populated - many provisional |
 | Financial flows | 232 of 240 flows provisional (authority unresolved) |
 | Legislation | Referenced; full dataset in progress |
 
@@ -53,23 +53,23 @@ This project aims to produce:
 
 The prototype implements five views:
 
-**Relationship View** — primary exploration. Radial cluster graph organised by jurisdiction and entity type. Nodes represent entities; edges represent structural relationships (portfolio membership, regulatory authority, coordination, funding, constitutional basis). Filterable by jurisdiction, entity type, relationship type, authority source, and status.
+**Relationship View** - primary exploration. Radial cluster graph organised by jurisdiction and entity type. Nodes represent entities; edges represent structural relationships (portfolio membership, regulatory authority, coordination, funding, constitutional basis). Filterable by jurisdiction, entity type, relationship type, authority source, and status.
 
-**Map View** — spatial view of jurisdiction coverage and funding flows. Commonwealth entities render as national overlays, not Canberra points. Intergovernmental bodies render as connectors between member polities, not inside any single jurisdiction.
+**Map View** - spatial view of jurisdiction coverage and funding flows. Commonwealth entities render as national overlays, not Canberra points. Intergovernmental bodies render as connectors between member polities, not inside any single jurisdiction.
 
-**Authority View** — shows the chain Entity → Authority → Legislation / IGA / Instrument. Every entity in the model traces its existence and powers to an explicit legal source.
+**Authority View** - shows the chain Entity → Authority → Legislation / IGA / Instrument. Every entity in the model traces its existence and powers to an explicit legal source.
 
-**Funding View** — shows financial flows between entities. 232 of 240 flows are currently flagged provisional pending authority resolution.
+**Funding View** - shows financial flows between entities. 232 of 240 flows are currently flagged provisional pending authority resolution.
 
-**Coordination View** — shows intergovernmental coordination relationships and IGAs.
+**Coordination View** - shows intergovernmental coordination relationships and IGAs.
 
-**Portfolio View** — tree layout showing portfolio hierarchy: departments and their entities.
+**Portfolio View** - tree layout showing portfolio hierarchy: departments and their entities.
 
 ---
 
 ## Key Design Principles
 
-**Authority is never inferred.** Every entity's existence and powers trace to an explicit Authority record citing a legal instrument — a statute, the Constitution, a state constitution, an intergovernmental agreement, an executive instrument, or a court determination. Authority is never derived from an entity's name, function, location, or relationships.
+**Authority is never inferred.** Every entity's existence and powers trace to an explicit Authority record citing a legal instrument - a statute, the Constitution, a state constitution, an intergovernmental agreement, an executive instrument, or a court determination. Authority is never derived from an entity's name, function, location, or relationships.
 
 **No central node.** The graph has no single root. Commonwealth entities are not placed above state entities. The model reflects constitutional federation, not administrative hierarchy.
 
